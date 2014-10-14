@@ -297,15 +297,15 @@ Some things you measure "per capita" – which just means "per person" or litera
 *percent* - for each hundred  
 *per 100,000* - for each hundred thousand  
 
-NOTEper (preposition, taking the accusative case, meaning "by, by means of") and capita (accusative plural of the noun caput, "head").
+NOTES:
+per (preposition, taking the accusative case, meaning "by, by means of") and capita (accusative plural of the noun caput, "head").
 
 "capita" comes from the latin word for "head" ; "cent" is the latin 
 
 http://en.wiktionary.org/wiki/per_capita 
 Rates aren't always per 100,000. NY State nursing homes tracks records per 100 occupied beds. 
 http://nursinghomes.nyhealth.gov/nursing_homes/complaints/434
-As it turns out, the murder rates in NYC and Denver are pretty close. Someone is just a little bit more likely to be murdered in Denver. 
-</aside>
+ 
 --v--
 ## Rates
 Rate per 100,000:		
@@ -314,10 +314,9 @@ incidents/population x 100,000
 In NYC in 2012,  there were **419** murders. 
 NYC's population is **8,289,415**
 
+<span class="fragment">419 ÷ 8289415 =</span><span class="fragment"> 0.00005054639</span>
 
-<p><span class="fragment">419 ÷ 8289415</sp> = 0.00005054639</p>
-
-<p class="fragment">0.00005054639 * 100,000 = 5.1</p>
+<span class="fragment">0.00005054639 * 100,000 =</span><span class="fragment"> 5.1</span>
 		
 NOTES: 
 So let's calculate this out.  We want the rate per **100,000**  people which we get by dividing the total number of incidents by the population as a whole and multiplying by 100,000. 
@@ -349,7 +348,6 @@ So for every person there was a small fraction of  a murder. It is a bit more us
 
 NOTES: 
 As it turns out, the murder rates in Denver and NYC are pretty close, but you're just a bit more likely to be murdered in Denver. 
-As it turns out, the murder rates in NYC and Denver are pretty close. Someone is just a little bit more likely to be murdered in Denver. 
 
 --v--
 ## Rates
@@ -359,15 +357,17 @@ As it turns out, the murder rates in NYC and Denver are pretty close. Someone is
 ## Percent Change
 Difference / Origin * 100
 
-(old-new)/old *100
+<span class="fragment">(old-new)/old * 100</span>
 
+<span class="fragment">
 Handy calculator:   
-<http://www.newsengin.com/percentChange.php>
+<http://www.newsengin.com/percentChange.php></span>
 
-<aside class="notes">Alright: we've covered percents, we've covered other rates, now lets talk about what we do when values change, or when we need to know how two values compare. 
+NOTES: 
+we've covered percents, we've covered other rates, now lets talk about what we do when values change, or when we need to know how two values compare. 
 
-Add: FDNY salary increase in 5 years from http://www.nyc.gov/html/fdny/html/community/ff_salary_benefits_080106.shtml
-</aside>
+TO DO: FDNY salary increase in 5 years from http://www.nyc.gov/html/fdny/html/community/ff_salary_benefits_080106.shtml
+
 --v--
 ## Percent Change
 
@@ -375,226 +375,244 @@ Add: FDNY salary increase in 5 years from http://www.nyc.gov/html/fdny/html/comm
 
 <p class="credits">[Suburbs' Share of Poor Has Grown Since 2000](http://www.nytimes.com/2013/05/20/nyregion/suburbs-are-home-to-growing-share-of-regions-poor.html)  
 Sam Roberts, *New York Times*, May 20, 2013</p>
+ 
 
-<span class="fragment">20,000 = .07 * x1</span>  
-<span class="fragment">x1 - 120,000 = x2</span>  
+NOTES:
+When Roberts says that the number of poor people declined by 7% from 2000 to 2008, what does that mean?  It means that 120,000 is 7% of the 2000 count, and that the drop during that 8 year stretch was 120,000. 
 
-<aside class="notes">When Roberts says that the number of poor people declined by 7% from 2000 to 2008, what does that mean?  It 
-means that 120,000 is 7% of the 2000 count, and that the drop during that 8 year stretch was 120,000. 
-Add: FDNY salary increase in 5 years from http://www.nyc.gov/html/fdny/html/community/ff_salary_benefits_080106.shtml
-</aside>
 --v--
 ## Percent Change
-> "... the number of poor people in New York City and Newark declined by 7 percent, or 120,000 … from 2000 to ... 2008-10"
-
+> "… the number of poor people in New York City and Newark declined by 7 percent, or 120,000 …"
 
 <p class="credits">[Suburbs' Share of Poor Has Grown Since 2000](http://www.nytimes.com/2013/05/20/nyregion/suburbs-are-home-to-growing-share-of-regions-poor.html)  
 Sam Roberts, *New York Times*, May 20, 2013</p> 
 
-120,000 = .07 * x1
-x1 - 120,000 = x2
-<aside class="notes">When Roberts says that the number of poor people declined by 7% from 2000 to 2008, what does that mean? It 
-means that 120,000 is 7% of the 2000 count, and that the drop during that 8 year stretch was 120,000. 
-</aside>
+<span class="fragment">20,000 = .07 * X</span>  
+<span class="fragment">X - 120,000 = Y  </span> 
+
+<span class="fragment">
+X = 2000 Count  
+Y = 2008-10 Count</span> 
+
+NOTES:
+When Roberts says that the number of poor people declined by 7% from 2000 to 2008, what does that mean? It means that 120,000 is 7% of the 2000 count, and that the drop during that 8 year stretch was 120,000. 
+
 --v--
-## Percent Change
-Firefighter Salary:
+## Percent Change, Firefighter Salaries
 
  |      Rank       |  Base     | Fringe*  | Total
- |-----------------|-----------|----------| ---
+ |---|---|---|---
  | STARTING SALARY |  $39,370  |  $3,704  | $43,074
  | AFTER 1 YEAR    |  $41,311  |  $8,159  | $49,470
  | AFTER 2 YEARS   |  $44,995  |  $8,886  | $53,881
  | AFTER 3 YEARS   |  $49,494  |  $9,775  | $59,629
  | AFTER 4 YEARS   |  $54,556  | $10,775  | $65,331
  | AFTER 5 YEARS   |  $76,488  | $22,616  | $99,104
+
+ `*` Fringe benefits reflect overtime, holiday pay and other differentials
+
+NOTES: 
  | Lieutenant      |  $94,300  | $31,548  | $125,848
  | Captain         |  $108,244 | $40,919  | $149,163
  | Battalion Chief |  $140,945 | $20,336  | $161,281
- 
- `*` Fringe benefits reflect overtime, holiday pay and other differentials
-<aside class="notes">FDNY publishes a bunch of data on what firefighters earn. So if I want to know how much my base salary is going to increase after five years, I need to calculate percent change. How do we do that?
-</aside>
+  
+FDNY publishes a bunch of data on what firefighters earn. So if I want to know how much my base salary is going to increase after five years, I need to calculate percent change. How do we do that?
 --v--
 ## Percent Change
 
-Difference: 76488-39370 = 37118  
-<p class="fragment">Starting Point: 39370</p>
+Difference: <span class="fragment">76488-39370 = 37118    
+Starting Point:</span><span class="fragment"> 39370</span>
 
-<p class="fragment">37118 ÷ 39370 = 0.942799086</p>
-<p class="fragment">94%</p>
+<span class="fragment">37118 ÷ 39370 = </span><span class="fragment">0.942799086</span>
 
-<aside class="notes">We need to know what the difference is, first. And then we need to know what percent of our starting point that represents. 
+Rounded: <span class="fragment">94%</span>
+
+NOTES:
+We need to know what the difference is, first. And then we need to know what percent of our starting point that represents. 
 
 So here's another question: does it make more sense to say that by the time you've been a fire fighter for five years, you've nearly doubled your salary? Or to say it increases by 94%?
-</aside>
+
 --v--
 ## Percent Change
 >"Jewish Guild for the Blind President Alan Morse saw his total compensation jump [HOW MUCH?] from $843,502 in 2008 to 1.5 million in 2009 ..."
-<p class="credis">Bosses at health-care charities pulling in six-figure salaries with help from taxpayers  
-Ben Lesser, *New York Daily News*, Sep 25, 2011</p>
-<aside class="notes">Ben Lesser wrote a story on non profit salaries for the Daily News. He had to work in a lot of salary data. Do the math here. What was the % change in Morse's salary?
 
-"President Alan Morse saw his total compensation jump 82% from $843,502 in 2008 to $1.5 million in 2009, the latest available tax forms show." 
-</aside>
+<p class="credits">Bosses at health-care charities pulling in six-figure salaries with help from taxpayers<br /> Ben Lesser, *New York Daily News*, Sep 25, 2011</p>
+
+NOTES:
+Ben Lesser wrote a story on non profit salaries for the Daily News. He had to work in a lot of salary data. Do the math here. What was the % change in Morse's salary?
+
 --v--
 ## Percent Change
 (1535200 - 843502) ÷ 843,502
+
 0.8200312507
+
 82%
 
-<aside class="notes">Ben Lesser wrote a story on non profit salaries for the Daily News. He had to work in a lot of salary data. Do the math here. What was the % change in Morse's salary? The difference divided by the starting point -- what % of his old salary do we add on to get to his new salary. 
-
-"President Alan Morse saw his total compensation jump 82% from $843,502 in 2008 to $1.5 million in 2009, the latest available tax forms show." (acutally, 1.5 million is rounded, the real figure is about 1535200
-</aside>
+NOTES:
+Difference, divided by origin, multiplied by 100
 --v--
 ## Percent Change
 >"President Benigno Aquino dramatically lowered the previous estimated death toll of 10,000 to 2,000 Tuesday, blaming 'emotional drama' for the higher figure."
 
 <p class="credits">[Nina Golgowski](http://www.nydailynews.com/news/world/philippine-president-typhoon-haiyan-death-toll-article-1.1514406), *New York Daily News*, Nov 12, 2013</p>
 
-<aside class="notes">Take another pass at % change. What are other ways we could write this?
-</aside>
+
+NOTES:
+Take another pass at % change. What are other ways we could write this?
+
 --v--
 ## Percent Change
 >"Three fatal shootings in the last two days pushed Newark's homicide total to 29 this year, a 71 percent jump in killings compared with the same period in 2010, as violent crime surges following police layoffs."
 
-James Queally, Newark Star-Ledger, Apr 26, 2011
+<p class="credits">[In wake of police layoffs, Newark murder rate soars as violent crime increases](http://www.nj.com/news/index.ssf/2011/04/newark_homicides_up_64_percent.htm)<br />James Queally, Newark Star-Ledger, Apr 26, 2011</p>
 
-<aside class="notes">This is the kind of story you wind up having to write constantly. Not for nothing, the URL for this story was "http://www.nj.com/news/index.ssf/2011/04/newark_homicides_up_64_percent.html" -- so someone had to do their math over after the story went out.
+NOTES: 
+This is the kind of story you wind up having to write constantly. Not for nothing, the URL for this story was "http://www.nj.com/news/index.ssf/2011/04/newark_homicides_up_64_percent.html" -- so someone had to do their math over after the story went out.
 
-In wake of police layoffs, Newark murder rate soars as violent crime increases
-
-NEWARK — Three fatal shootings in the last two days pushed Newark's homicide total to 29 this year, a 71 percent jump in killings compared with the same period in 2010, as violent crime surges following police layoffs.
-
-Between Jan. 1 and April 17, Newark has seen marked increases in homicides, shootings and thefts, while overall crime rose by 21 percent compared with the same time last year, according to Newark's quarterly crime statistics obtained by The Star-Ledger.April 26, 2011 
-</aside>
 --v--
 ## Percent Difference
 `(old-new)/old *100`
 
 | City        |Rate <br />per 100,000 | Difference as a %
-|:------------|-----:|------------------:|
+|:---|---:|---:|
 |New York City| 5.1  | (5.1 - 6.2) / 5.1
 |Denver       | 6.2  | (6.2 - 5.1) / 6.2
 
-<aside class="notes">We can use the same formula to talk about how two figures differ. If I want to talk about the % difference between these two murder rates, what is the first thing I need to know? 
+NOTES: 
+We can use the same formula to talk about how two figures differ. If I want to talk about the % difference between these two murder rates, what is the first thing I need to know? 
 
 Rates: -0.2156862745 and 0.1774193548
-</aside>
+
 
 --v--
 ## Percent Difference
 `(old-new)/old *100`
 
-<aside class="notes">We're going to round them off. So we could say that in 2012, Denver's murder rate was 22% higher than New York's -- the "than" says we're using NYC as our base. So the difference in the rates is 22% of NYC's rate. Or that NYC's murder rate is 18% higher than Denver's. 
-</aside>
+NOTES: 
+We're going to round them off. So we could say that in 2012, Denver's murder rate was 22% higher than New York's -- the "than" says we're using NYC as our base. So the difference in the rates is 22% of NYC's rate. 
 --v--
 ## Percent Difference
-| City        |Rate <br />per 100,000 | Difference as a %
-|:------------|-----:|------------------:|
+| City        |Rate per <br />100,000 | Difference<br /> as a %
+|:---|---:|---:|
 |New York City| 5.1  | -22%
 |Denver       | 6.2  | +18%
 
 Denver's murder rate was 22% higher than New York's. NYC's murder rate is 18% lower than Denver's. (There were 18% fewer murders in NYC)
 
-<aside class="notes">
+NOTES:
 We're going to round them off. So we could say that in 2012, Denver's murder rate was 22% higher than New York's -- the "than" says we're using NYC as our base. So the difference in the rates is 22% of NYC's rate. Or that NYC's murder rate is 18% higher than Denver's. 
 
 What's the difference between these two rates? (1.1) -- so Denver's rate is 21.6% higher than New York's, but New York's rate is 17.7 lower than Denver's. That's because 1.1 is 17.7% of 6.2, but it is 21.6% of 5.1.
 
 So Denver's rate, minus 17.7% of Denver's rate gives us New York's rate. 
-</aside>
 --v--
 ## Percent Change
 > "... the number of poor people in New York City and Newark declined by 7 percent, or 120,000 … from 2000 to ... 2008-10"
-"Suburbs' Share of Poor Has Grown Since 2000"
-Sam Roberts, New York Times, May 20, 2013
+<p class="credits">"Suburbs' Share of Poor Has Grown Since 2000"<br />Sam Roberts, New York Times, May 20, 2013</p>
 
-120,000 = .07 * x1
-x1 - 120,000 = x2
-<aside class="notes">Are we ready to do the math on poverty? 
-</aside>
+120,000 = .07 * X
+X - 120,000 = Y
+
+NOTES:
+Are we ready to do the math on poverty? 
+
 --v--
 ## Percent Change
-120,000 = .07 * x1
-120,000 ÷ 0.07  = x1
-x1 = 1,714,286
+120,000 = .07 * X   
+120,000 ÷ 0.07  = X  
+X = 1,714,286
 
-x1 - 120,000 = x2
-<aside class="notes">Are we ready to do the math on poverty? So our starting figure, from 2000 is something we need to round off: 1.7 million
-</aside>
+X - 120,000 = Y  
+
+NOTES:
+Are we ready to do the math on poverty? So our starting figure, from 2000 is something we need to round off: 1.7 million
+
 --v--
 ## Percent Change
-1,714,286 - 120,000 = x2
-x2 = 1,594,286
-<aside class="notes">Are we ready to do the math on poverty? So our starting figure, from 2000 is something we need to round off: 1.7 million. And our later, lower figure is about 1.6 million. Here, we were starting with round numbers -- 120,000 and 7%, so we end up with results that we know are wrong. But we can compare those results to census data and decide whether these findings actually hold up. 
-</aside>
+1,714,286 - 120,000 = Y  
+Y = 1,594,286  
+
+NOTES:
+Are we ready to do the math on poverty? So our starting figure, from 2000 is something we need to round off: 1.7 million. And our later, lower figure is about 1.6 million. Here, we were starting with round numbers -- 120,000 and 7%, so we end up with results that we know are wrong. But we can compare those results to census data and decide whether these findings actually hold up. 
 -----
 ## Median vs. Mean
-How do you find the "mean" value in a set of numbers?
+**How do you find the "mean" value in a set of numbers?**
 
 <p class="fragment" data-fragment-index="2"> Add all the values and divide by the number of values.</p>
 
-How do you find the "median" value?
+**How do you find the "median" value?**
 
 <p class="fragment" data-fragment-index="2">Order the values and select the middle value. If there are an even number of values, take the mean of the middle-most two.</p>
-<aside class="notes"> Next item: Means and Medians. 
+NOTES:
+Next item: Means and Medians. 
 
 You also went over this in Fundamentals so it shouldn't be new. 
 
 When people say "average" what they usually mean is "mean".
-</aside>
+
 --v--
 ## Median vs. Mean
+<table><tr><td>
 145000  
 150000  
 155000  
 187000  
-230000  
+230000 
+</td><td> &nbsp;</td><td> 
 245000  
 420000  
 430000  
 462500  
-90000  
-<aside class="notes">I pulled up a list of recorded real estate sales for a week in late October/Early November.  There were just 10 coops on that list. How would we find the median?
+90000 
+</td></tr></table>
+
+NOTES:
+I pulled up a list of recorded real estate sales for a week in late October/Early November.  There were just 10 coops on that list. How would we find the median?
 
 Median: 208500
 Mean: 251450
-</aside>
 --v--
 ## Median vs. Mean
+
+<table><tr><td>
 90000  
 145000  
 150000  
 155000  
 187000 <span class="fragment" data-fragment-index="1">**<--#5**</span>  
+</td><td> &nbsp;</td><td> 
 230000 <span class="fragment" data-fragment-index="1">**<--#6**</span>  
 245000  
 420000  
 430000  
 462500  
+</td></tr></table>
 
-<aside class="notes">There are 10 values, so there isn't a middle value. So we need to know the number halfway between 187K and 230K. There's a spreadsheet with all of these values that you can play with. 
+NOTES: 
+There are 10 values, so there isn't a middle value. So we need to know the number halfway between 187K and 230K. There's a spreadsheet with all of these values that you can play with. 
 
 Median: 208500
 Mean: 251450
-</aside>
+
 --v--
 ## Median vs. Mean
-So … when do you use which? 2013 MLB Salaries range from $480,000 (a handful of low-paid players) to $29,000,000 (Alex Rodriguez). 46% of players earn less than $1 million, but about 100 earn more than $10 million. That's a pretty big spread. 
 
 **Mean** MLB Salary $3,633,539.40
 
 **Median** MLB Salary $1,250,000.00
 <p class="credits">Source: [Baseball salaries for 2013](http://data.newsday.com/long-island/data/baseball/mlb-salaries-2013/), *Newsday*</p>
 
-<aside class="notes">Most people mean "mean" when they say average. But sometimes the mean isn't an accurate representation of the typical experience. But the second lowest paid player gets around 400,000 and he's got a lot of company. Out of 864 players, a handful earn more than $10,000,000 (actually, I spot checked these numbers on baseball-reference.com and it seems like they're all wrong. 
+NOTES:
+
+So … when do you use which? 2013 MLB Salaries range from $480,000 (a handful of low-paid players) to $29,000,000 (Alex Rodriguez). 46% of players earn less than $1 million, but about 100 earn more than $10 million. That's a pretty big spread. 
+
+Most people mean "mean" when they say average. But sometimes the mean isn't an accurate representation of the typical experience. But the second lowest paid player gets around 400,000 and he's got a lot of company. Out of 864 players, a handful earn more than $10,000,000 (actually, I spot checked these numbers on baseball-reference.com and it seems like they're all wrong. 
 
 So, the median is probably a better figure to represent the typical salary. 	
 
 Source: http://data.newsday.com/long-island/data/baseball/mlb-salaries-2013/
-</aside>
+
 --v--
 ## Median vs. Mean
 
@@ -602,13 +620,14 @@ Mean MLB age 28
 
 Median MLB age 27
 
-<aside class="notes">Meanwhile, the ages of MLB players range from 19 to 42. There aren't  a lot of 19 year olds or 42 year olds. So it isn't a surprise that the mean and median are pretty close.  In cases where there aren't a lot of outliers, you can use the mean which for most people is the same as the average. 
+NOTES: 
+Meanwhile, the ages of MLB players range from 19 to 42. There aren't  a lot of 19 year olds or 42 year olds. So it isn't a surprise that the mean and median are pretty close.  In cases where there aren't a lot of outliers, you can use the mean which for most people is the same as the average. 
 </aside>
 --v--
 ## Median vs. Mean
 
 |            |          |
-|------------|----------|
+|---|---|
 | No bedroom | 47318    |
 | 1 bedroom  | 264585   |
 | 2 bedrooms | 759549   |
@@ -616,30 +635,34 @@ Median MLB age 27
 | 4 bedrooms | 385004   |
 | 5 or more  | 91065    |
 
-<aside class="notes">This one came from an actual reporter on the NICAR list:  I have data on the number of housing units broken down by number of bedrooms. How do I calculate the median number of bedrooms? Obviously I can add up all the bedrooms and divide by the total number of homes to get an average, but I want the median: No bedroom 47,318  1 bedroom 264,585  2 bedrooms 759,549  3 bedrooms 1,081,713  4 bedrooms 385,004  5 or more bedrooms 91,065
+<aside class="notes">This one came from an actual reporter on the NICAR list:  I have data on the number of housing units broken down by number of bedrooms. How do I calculate the median number of bedrooms? Obviously I can add up all the bedrooms and divide by the total number of homes to get an average, but I want the median: 
+
+No bedroom 47,318  1 bedroom 264,585  2 bedrooms 759,549  3 bedrooms 1,081,713  4 bedrooms 385,004  5 or more bedrooms 91,065
 
 So how do we calculate that? (We add them all up, find the halfway point, and then say "is 0 more than half? (no) is 0 +1 more than half (no); is 0 + 1 + 2 more than half? (no)" 0+1+2+3 is more than half which means that the median is 3.
 
+TO DO:
 NYPD Salaries vs. Takehome Pay; Walmart salaries; look for hedge words. 
 
 Walmart Notes: http://makingchangeatwalmart.org/factsheet/walmart-watch-fact-sheets/fact-sheet-wages/; http://www.gothamgazette.com/index.php/economy/694-is-wal-mart-worse ; http://www.payscale.com/research/US/Employer=Wal-Mart_Stores%2c_Inc/Salary ; http://america.aljazeera.com/articles/2013/11/6/calif-walmart-workerscallformorehoursbetterpay.html ; http://corporate.walmart.com/our-story/working-at-walmart/opportunity-benefits 
-</aside>
 --v--
 ## Median vs. Mean
 Use the median when outliers would distort the mean, or when your values have no ceiling or no floor (real estate, CEO salaries)
 
 Otherwise, use the mean.
-<aside class="notes">Most people use "average" and "mean" interchangeably, so that is what people expect.
-</aside>
+
+NOTES:
+Most people use "average" and "mean" interchangeably, so that is what people expect.
+
 -----
 <svg height="210" width="500">
   <polygon points="100,10 40,180 190,60 10,60 160,180" style="fill:lime;fill-rule:nonzero;"/>
   Sorry, your browser does not support inline SVG.
 </svg>
 
-Disco Break!
-amanda.hickman@journalism.cuny.edu
-10 Minutes.
+Disco Break!  
+amanda.hickman@journalism.cuny.edu  
+10 Minutes.  
 -----
 ## Inflation
 > NYT changes stylebook today to bar uses of "record" or "largest" unless inflation is taken into account.
@@ -652,7 +675,7 @@ amanda.hickman@journalism.cuny.edu
 <blockquote class="twitter-tweet" lang="en"><p>&quot;This is not statistical quibbling. It is simply not accurate to describe $1,000 in 2013 dollars as “more” money than, say, $900 in 1960...&quot;</p>&mdash; David Leonhardt (@DLeonhardt) <a href="https://twitter.com/DLeonhardt/statuses/393079929992003584">October 23, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<aside class="notes">
+NOTES:
 What is inflation? 
 
 Notes/ not using: if you try to argue that beer prices have gone up as a result of industry consolidation (actually, they've followed the price of other foods and beverages). http://www.motherjones.com/kevin-drum/2013/08/beer-inflation  or household spending (which has plummeted) http://www.motherjones.com/kevin-drum/2012/09/why-you-should-always-account-inflation-case-study  or government spending
@@ -668,15 +691,15 @@ Comparing spending or prices over time without adjusting for inflation is useles
 Bureau of Labor Statistics inflation calculator
 <http://www.bls.gov/data/inflation_calculator.htm>
 
-<aside class="notes">Using "nominal" prices -- prices that aren't adjusted for inflation -- is the equivalent of saying that I'm older now than I've ever been before. It leads to being wrong: http://www.cjr.org/the_audit/misleading_and_incomplete_cove.php
+NOTES: Using "nominal" prices -- prices that aren't adjusted for inflation -- is the equivalent of saying that I'm older now than I've ever been before. It leads to being wrong: http://www.cjr.org/the_audit/misleading_and_incomplete_cove.php
 
 So how do we account for inflation? The BLS has a calculator. 
 
 We have to be able to talk about changing prices  http://www.npr.org/blogs/money/2010/10/22/130757997/the-friday-podcast-the-price-of-lettuce-in-brooklyn 
-</aside>
+
 --v--
 ## Inflation
-"I had to go late at night and pay $800, a fortune at the time." -- Michelle describing her experience in 1968
+> "I had to go late at night and pay $800, a fortune at the time." -- Michelle describing her experience in 1968
 
 
 Bureau of Labor Statistics inflation calculator
@@ -690,7 +713,7 @@ Better: in 1999, I was a Nation intern. My recollection is that we got paid $150
 
 --v--
 ## Inflation
-TK CHART GRAB
+<!--TK CHART GRAB-->
 
 <aside class="notes">
 This chart is from a Washington Post story "After six budget showdowns, big government is mostly unchanged" (David A. Fahrenthold, Washington Post, August 23, 2013). He actually did adjust for inflation, just not in his chart. 
@@ -701,6 +724,7 @@ According to Kevin Drum, adjusted for inflation and population growth, federal s
 -----
 ## Margin of Error
 > "65 percent of likely voters said they will vote for de Blasio, compared to 24 percent for Lhota, a new NBC 4 New York/Wall Street Journal/Marist poll shows." 
+
 <p class="credits">NBC 4 New York, Nov 4, 2013</p>
 
 + margin of error ± 4.3 percentage points
