@@ -500,7 +500,11 @@ We're going to round them off. So we could say that in 2012, Denver's murder rat
 |New York City| 5.1  | -22%
 |Denver       | 6.2  | +18%
 
-Denver's murder rate was 22% higher than New York's. NYC's murder rate is 18% lower than Denver's. (There were 18% fewer murders in NYC)
+### Tell me about it!
+
+Denver's murder rate was 22% higher than New York's. NYC's murder rate is 18% lower than Denver's. 
+
+Were there 18% fewer murders in NYC?
 
 NOTES:
 We're going to round them off. So we could say that in 2012, Denver's murder rate was 22% higher than New York's -- the "than" says we're using NYC as our base. So the difference in the rates is 22% of NYC's rate. Or that NYC's murder rate is 18% higher than Denver's. 
@@ -513,27 +517,18 @@ So Denver's rate, minus 17.7% of Denver's rate gives us New York's rate.
 > "... the number of poor people in New York City and Newark declined by 7 percent, or 120,000 … from 2000 to ... 2008-10"
 <p class="credits">"Suburbs' Share of Poor Has Grown Since 2000"<br />Sam Roberts, New York Times, May 20, 2013</p>
 
-120,000 = .07 * X
-X - 120,000 = Y
+### Math is Fun!
 
-NOTES:
-Are we ready to do the math on poverty? 
++ X is the 2000 figure
++ <span class="fragment" data-fragment-index="2">120,000 = .07 * X </span> 
++ <span class="fragment" data-fragment-index="3">120,000 ÷ 0.07  = X  </span>
++ <span class="fragment" data-fragment-index="4">X = 1,714,286 </span>
 
---v--
-## Percent Change
-120,000 = .07 * X   
-120,000 ÷ 0.07  = X  
-X = 1,714,286
++ Y is the '08-10 figure
++ <span class="fragment" data-fragment-index="2">X - 120,000 = Y </span> 
++ <span class="fragment" data-fragment-index="4">1,714,286 - 120,000 = Y </span>
++ <span class="fragment" data-fragment-index="5">Y = 1,594,286</span> 
 
-X - 120,000 = Y  
-
-NOTES:
-Are we ready to do the math on poverty? So our starting figure, from 2000 is something we need to round off: 1.7 million
-
---v--
-## Percent Change
-1,714,286 - 120,000 = Y  
-Y = 1,594,286  
 
 NOTES:
 Are we ready to do the math on poverty? So our starting figure, from 2000 is something we need to round off: 1.7 million. And our later, lower figure is about 1.6 million. Here, we were starting with round numbers -- 120,000 and 7%, so we end up with results that we know are wrong. But we can compare those results to census data and decide whether these findings actually hold up. 
@@ -546,6 +541,7 @@ Are we ready to do the math on poverty? So our starting figure, from 2000 is som
 **How do you find the "median" value?**
 
 <p class="fragment" data-fragment-index="2">Order the values and select the middle value. If there are an even number of values, take the mean of the middle-most two.</p>
+
 NOTES:
 Next item: Means and Medians. 
 
@@ -555,19 +551,17 @@ When people say "average" what they usually mean is "mean".
 
 --v--
 ## Median vs. Mean
-<table><tr><td>
+
 145000  
 150000  
 155000  
 187000  
-230000 
-</td><td> &nbsp;</td><td> 
+230000  
 245000  
 420000  
 430000  
 462500  
 90000 
-</td></tr></table>
 
 NOTES:
 I pulled up a list of recorded real estate sales for a week in late October/Early November.  There were just 10 coops on that list. How would we find the median?
@@ -577,19 +571,16 @@ Mean: 251450
 --v--
 ## Median vs. Mean
 
-<table><tr><td>
 90000  
 145000  
 150000  
 155000  
 187000 <span class="fragment" data-fragment-index="1">**<--#5**</span>  
-</td><td> &nbsp;</td><td> 
 230000 <span class="fragment" data-fragment-index="1">**<--#6**</span>  
 245000  
 420000  
 430000  
 462500  
-</td></tr></table>
 
 NOTES: 
 There are 10 values, so there isn't a middle value. So we need to know the number halfway between 187K and 230K. There's a spreadsheet with all of these values that you can play with. 
@@ -628,7 +619,7 @@ Meanwhile, the ages of MLB players range from 19 to 42. There aren't  a lot of 1
 --v--
 ## Median vs. Mean
 
-|            |          |
+| Rooms      | Count    |
 |---|---|
 | No bedroom | 47318    |
 | 1 bedroom  | 264585   |
