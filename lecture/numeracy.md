@@ -1,5 +1,5 @@
 
-# Math for Journalists
+# Math for <nobr>Journalists</nobr>
 <p class="credits">&copy; 2013 Ben Lesser and Amanda Hickman <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 
@@ -35,91 +35,103 @@ Sampling
 
 
 NOTES:
-This is our roadmap. You covered a lot of this in fundamentals so it should go fast. 
----
+This is our roadmap. 
+-----
 ## Rounding
 
->"The analysis, released on Monday by the Metropolitan Policy Program of the Brookings Institution, also found that while the number of poor people in New York City and Newark declined by 7 percent, or 120,000, the number in the suburbs rose by 14 percent, or 100,000, from 2000 to the census's rolling 2008-10 American Community Survey. "
+>"The analysis, released on Monday by the Metropolitan Policy Program of the Brookings Institution, also found that while the number of poor people in New York City and Newark declined by 7 percent, or 120,000, the number in the suburbs rose by 14 percent, or 100,000, from 2000 to the census's rolling 2008-10 American Community Survey."
 
 <p class="credits">[Suburbs' Share of Poor Has Grown Since 2000](http://www.nytimes.com/2013/05/20/nyregion/suburbs-are-home-to-growing-share-of-regions-poor.html)  
 Sam Roberts, *New York Times*, May 20, 2013</p>
 
-<aside class="notes">Some things we know for sure: the number of poor people did not decline by 120,000. The number of poor people did not decline by 7%. The number of urban poor in the greater NYC area is definitely not an even multiple of 10,000. The figure provided by the census is something much closer to 119,258, and that figure is wrong. Even the census has a margin of error. So instead of creating the illusion that we know, to the person, how many people are living below the federal poverty level, we round off. And if we do any calculations with these round figures, we round those calculations off, too.
+NOTES:
+Some things we know for sure: the number of poor people did not decline by 120,000. The number of poor people did not decline by 7%. The number of urban poor in the greater NYC area is definitely not an even multiple of 10,000. The figure provided by the census is something much closer to 119,258, and that figure is wrong. Even the census has a margin of error. So instead of creating the illusion that we know, to the person, how many people are living below the federal poverty level, we round off. And if we do any calculations with these round figures, we round those calculations off, too.
 
 Most newsrooms have a policy about what to round to, and when you need to use hedge words ("about" / "just over")
-</aside>
+
 --v--
 ## Rounding
 Population below poverty level 2005-2009:  
 **39,537,240**
 
-<p class="credits">American Community Survey</p>
+<p class="credits">Source: American Community Survey</p>
 
-<aside class="notes">The ‘05-'09 American Community Survey found 39,537,240 Americans living below the poverty line (US Census)  The census department knows that number isn't right. They publish it with a margin of error of +/- 250,000 --that means they're fairly certain (95-99% certain, not 100% certain -- we'll get to that) that this particular group is somewhere between 39,287,240 and 39,787,240. So this is a very rough number and giving it to the nearest 10 or 100 suggests far more accuracy than you actually have. 
+NOTES:
+The '05-'09 American Community Survey found 39,537,240 Americans living below the poverty line (US Census)  The census department knows that number isn't right. They publish it with a margin of error of +/- 250,000 --that means they're fairly certain (95-99% certain, not 100% certain -- we'll get to that) that this particular group is somewhere between 39,287,240 and 39,787,240. So this is a very rough number and giving it to the nearest 10 or 100 suggests far more accuracy than you actually have. 
 
 So, how do you round off the 2009 poverty count to the nearest million?
 
 Most newsrooms will have a policy. So ask. 
-</aside>
 --v--
 ## Rounding
 What we're really asking is, is 39.5 million closer to:  
 **39,000,000** or **40,000,000**?
-<aside class="notes">(if that was sticky)
+
+NOTES:
+(if that was sticky)
 Did you round up? Or down? 
 
 40 Million.  Why: where is the millions digit? so we want to know whether the digit to the right -- the hundred thousands -- is 0-4 or 5-9. 
-</aside>
+
 --v--
 ## Rounding
 Round the '09 poverty count to the nearest million:
 **39,537,240**
-<aside class="notes">What if we wanted to round this to the nearest…
+
+
+NOTES:
+What if we wanted to round this to the nearest…
 * Ten thousand?
 * Thousand? 
 
 I usually try to keep two significant digits.
-</aside>
----
+
+-----
 ## Percent of the Whole
 The 2009 American Community Survey found **39,537,240** living below the poverty line, in a country of **308,745,531**. So what percent of Americans live below the poverty line?
 
 <center><http://bit.ly/craft_math></center>
 
-<aside class="notes">That figure in the abstract doesn't tell us much. What we'd really like to know is how that compares to the population as a whole. So how do you calculate that? Go ahead and write it down. 
+NOTES: 
+That figure in the abstract doesn't tell us much. What we'd really like to know is how that compares to the population as a whole. So how do you calculate that? Go ahead and write it down. 
 
 Go to http://bit.ly/craft_math  to get exact digits, or round off. Use a calculator.
-</aside>
 --v--
 ## Percent of the Whole
-Divide the subset <span class="fragment"  data-fragment-index="2">by the whole group:</span>    
-39,537,240 <span class="fragment"  data-fragment-index="2">/ 308,745,531</span> 
+Divide the subset <span class="fragment"  data-fragment-index="2">**by the whole group:**</span>    
+39,537,240 <span class="fragment"  data-fragment-index="2">/ **308,745,531**</span> 
 <span class="fragment"  data-fragment-index="3">= .12805769162696</span>
 
 
-<span class="fragment"  data-fragment-index="4">and multiply by 100: 12.805769162696%</span>
-<span class="fragment"  data-fragment-index="5">(and round it off!)</span>  
-<aside class="notes">What this really tells us is that for each person in the country, there are .13 people living in poverty. So we multiply by 100 to get the "percent" or "per hundred"
+<span class="fragment"  data-fragment-index="4">Multiply by 100:</span>
+<span class="fragment"  data-fragment-index="5"> 12.805769162696%  
+And round off:</span>
+<span class="fragment"  data-fragment-index="6">13%</span>  
+
+
+NOTES: 
+What this really tells us is that for each person in the country, there are .13 people living in poverty. So we multiply by 100 to get the "percent" or "per hundred"
 
 Is this really the figure we're going to publish? 12.805769…? No. 
 
 So how would we round that off to the nearest … hundred thousanth? ten thousandth? hundredth? Tenth? Whole number?
-</aside>
+
 --v--
 ## Percent of the Whole
 1 = 100%    
 ½ = 1 ÷ 2 = 0.5 = 50%  
 ⅓ = 1 ÷ 3 = 0.333333 = 33%  
-⅝ = <span class="fragment">5 ÷ 8</span>  
-<span class="fragment"> &nbsp; = 0.625</span>  
+⅝ = <span class="fragment">5 ÷ 8</span>
+<span class="fragment"> &nbsp; = 0.625</span>
 <span class="fragment"> &nbsp; = 63%</span>  
 
-<aside class="notes">These are all things we know.
+NOTES:
+These are all things we know.
 
 You know this. If you don't, speak up.   What about 5/8ths? What % is that?
 
 You know this, too. You might not know that 5/8 is 63% but you know how to get there.
-</aside>
+
 --v--
 ## Percent of the Whole
 1/3 + 1/2  
@@ -127,19 +139,40 @@ You know this, too. You might not know that 5/8 is 63% but you know how to get t
 = 5/6  
 5 ÷ 6 = 0.83333  
 
-<aside class="notes">You actually know all this, too. And curiously enough, 33% + 50% is 83%.
-</aside>
+NOTES: You actually know all this, too. And curiously enough, 33% + 50% is 83%.
+
+
 --v--
 ## Percent of the Whole
-Cory Booker collected over $9 million to fund his Senate campaign. Quite a bit of that money came from outside of NJ.  
-Total donations: **$9,296,364**  
-Donations from CA: **$1,576,301**  
-from NJ: **$2,535,181**  
-from NY: **$3,013,305**  
+Cory Booker collected over $9 million to fund his 2013 Senate campaign. Quite a bit of that money came from outside of NJ: 
+<table>
+<thead>
+<tr>
+<th align="right">Total donations: </th>
+<th><strong>$9,296,364</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">Donations from CA:</td>
+<td><strong>$1,576,301</strong></td>
+</tr>
+<tr>
+<td align="right"> &nbsp;  &nbsp; from NJ:</td>
+<td><strong>$2,535,181</strong></td>
+</tr>
+<tr>
+<td align="right"> &nbsp;  &nbsp; from NY:</td>
+<td><strong>$3,013,305</strong></td>
+</tr>
+</tbody>
+</table>
 
 What percent of Booker's donations came from California?
 
-<aside class="notes">What percent came from CA? What percent from out of state? Do the math and then let's talk about it. Links at http://bit.ly/craft_math including the data.  CA donor 17% / NJ donor 27% / NY donor 32%
+NOTES:
+
+What percent came from CA? What percent from out of state? Do the math and then let's talk about it. Links at http://bit.ly/craft_math including the data.  CA donor 17% / NJ donor 27% / NY donor 32%
 
 What % of donors came from NJ? From Outside NJ? Is that noteworthy? 
 
@@ -147,11 +180,13 @@ Open Secrets/Center for Responsive Politics has some of this data: http://www.op
 </aside>
 --v--
 ## Percent of the Whole
->"All in all, there are about **14,000**  domestic infant adoptions a year, comprising only about 15 percent of U.S. adoptions. (The rest are from the foster care system, or are international.)" 
+>"All in all, there are about **14,000**  domestic infant adoptions a year, comprising only about **15 percent** of U.S. adoptions. (The rest are from the foster care system, or are international.)" 
 
 <p class="credits">[Meet the New Anti-Adoption Movement](http://www.newrepublic.com/article/114505/anti-adoption-movement-next-reproductive-justice-frontier)  
 Emily Matchar, *The New Republic*, Sep 1, 2013</p>
-<aside class="notes">Why are we doing all this? Because you need to be able to do some quick back of the napkin math when you're talking to sources. How do we take a statement like this and go back to the source (or, in this case the writer) and say, "Do you mean to tell me ..." 
+
+NOTES: 
+Why are we doing all this? Because you need to be able to do some quick back of the napkin math when you're talking to sources. How do we take a statement like this and go back to the source (or, in this case the writer) and say, "Do you mean to tell me ..." 
 
 This surprised me. I don't actually know that much about international adoption but I've always roughly understood that it is rare for kids to be adopted out of foster care, and I didn't realize that international adoptions so thoroughly dwarf domestic adoptions. 
 
@@ -163,12 +198,15 @@ You know how to get a % -- how do you get back from a % to a whole number? Write
 <span class="fragment">14,000 = 0.15 `*` x</span>  
 <span class="fragment">(14000)/0.15 = x</span>  
 <span class="fragment">x = 93,333.333333</span>  
-<aside class="notes">"percent" just means "per hundred" so 15% is the same as 0.15
+<span class="fragment">x = 93,333</span>  
+
+NOTES:
+"percent" just means "per hundred" so 15% is the same as 0.15
 
 So to solve for X, we're just using algebra. What's our next step? Divide both sides by 15 percent.
 
 Do the math: we can round that down to 93,000.  So she's saying there are a little more than **93,000** adoptions last year, and 15% were domestic infant adoptions. So how do we figure out how big that other group is. We have two options.
-</aside>
+
 --v--
 ## Percent of the Whole
 We could just subtract:  
@@ -180,24 +218,42 @@ We could just subtract:
 <span class="fragment">85% of 93,333 = </span><span class="fragment">**79,333.05**</span> 
 
 
-<aside class="notes">They're a little bit off because we did some rounding. That's okay. We're going to round this whole thing off. This is the part that I found surprising: **79,000** kids were adopted internationally or out of foster care, and only **14,000** were domestic infant adoptions. That seemed nuts to me, so I did some sniffing around. I googled "How many international adoptions per year" and found a state department site with a statistics link right on their home page. There were **8668** international adoptions in 2012. http://adoption.state.gov / http://adoption.state.gov/content/pdf/fy2012_annual_report.pdf 
-</aside>
+
+NOTES:
+The figures a little bit off because we did some rounding. That's okay. We're going to round this whole thing off. This is the part that I found surprising: **79,000** kids were adopted internationally or out of foster care, and only **14,000** were domestic infant adoptions. That seemed nuts to me, so I did some sniffing around. 
+
+
+--v--
+## Percent of the Whole
+
+In 2012 the state department processed 8668 international adoptions.
+ 
+NOTES: 
+
+I googled "How many international adoptions per year" and found a state department site with a statistics link right on their home page. There were **8668** international adoptions in 2012. http://adoption.state.gov / http://adoption.state.gov/content/pdf/fy2012_annual_report.pdf 
+
 --v--
 ## Percent of the Whole
 In 2011, of the **245,260** children who exited foster care, 20% were adopted. 
 
-|                           |       |
-|---------------------------| ------|
-| Domestic Infant Adoptions | 14000 |
-| All International         | 8668  |
-| Foster Care Adoptions     | <span class="fragment">49000</span>|
-| TOTAL:                    | <span class="fragment">71668</span>|
+How many children were adopted out of foster care? <span class="fragment">**49,000**</span>
 
-<aside class="notes">I also found a figure for children adopted out of foster care on Wikipedia. They cited a Health and Human Services fact sheet at https://www.childwelfare.gov/pubs/factsheets/foster.pdf  which said this. So how do we find 20% of 245,260? 
-<span class="fragment"></span>
+NOTES: 
+I also found a figure for children adopted out of foster care on Wikipedia. They cited a Health and Human Services fact sheet at https://www.childwelfare.gov/pubs/factsheets/foster.pdf  which said this. So how do we find 20% of 245,260? 
+
 What is 20% of 245K?  49,000
 
 That's actually higher than I was expecting, but it still leaves about **20,000** kids unaccounted for.  In this case, she's overlooked a pretty large category: kinship adoptions. Sometimes kinship adoptions happen through the foster care system, but very often, they're aunts or uncles or step-parents legally codifying an existing family arrangement. You don't have to know all this about adoption numbers, unless you're writing about adoptions, but if you're writing about adoption you should be able to check your own math so you don't skip something significant. 
+
+--v--
+## Percent of the Whole
+Domestic Infant Adoptions: 14000   
+All International:  8668  
+Foster Care Adoptions :  49000  
+TOTAL:  <span class="fragment">71668</span>
+
+NOTES:
+But our first pass said there were 93,000 adoptions in the US. So something is wrong here. 
 
 And in this case, 30% of kids adopted out of the foster care system are adopted by relatives.  So 15K to 16K of those kids were also adopted by relatives. 
 
@@ -206,27 +262,30 @@ That's actually higher than I was expecting, but it still only gets us to **71,6
 (I can't find my source for 39%! Terrible record keeping).
 
 This isn't an earth shattering omission and it probably happened in the editing process, but I wanted to get you guys doing this math, because you need to be able to do it. And you need to be in the habit of quickly checking your sources. 
-</aside>
----
+
+-----
 ## Percentage Points
 When The New York Sun writes that "Mr. Lhota trails his Democratic rival, Bill de Blasio, by 44 points" they mean "percentage points."
 
+<span class="fragment">*percentage points:* the arithmetic difference between two percentages.</span>
 
-<span class="fragment">percentage points: the arithmetic difference between two percentages.</span>
-<aside class="notes">Percentage Points are not percents. 
+NOTES:
+Percentage Points are not percents. 
 
 They mean that if 20% of voters support Lhota, 20+44 = 64% of voters support deBlasio.
 
 If we wanted to say that deBlasio leads by 44%, we have to ask, "of what" and if we're saying "of Lhota's support" then we're saying a very different thing. 
-</aside>
----
+
+-----
 ## Rates
 
 | City | Number of Murders |
 |:---|---:|
 |New York City|419
 |Denver|39
-<aside class="notes">Percents are one rate -- the rate per 100. But I want to talk about some other rates. I know you guys covered this in Fundamentals. So it ought to be pretty fresh in your minds.
+
+
+NOTES: Percents are one rate -- the rate per 100. But I want to talk about some other rates. I know you guys covered this in Fundamentals. So it ought to be pretty fresh in your minds.
 
 If I just tell you that there were **39** murders in Denver last year, **419** in NYC, is that useful information?
 
@@ -237,7 +296,8 @@ Some things you measure "per capita" – which just means "per person" or litera
 *per capita*  - for each person  
 *percent* - for each hundred  
 *per 100,000* - for each hundred thousand  
-<aside class="notes">per (preposition, taking the accusative case, meaning "by, by means of") and capita (accusative plural of the noun caput, "head").
+
+NOTEper (preposition, taking the accusative case, meaning "by, by means of") and capita (accusative plural of the noun caput, "head").
 
 "capita" comes from the latin word for "head" ; "cent" is the latin 
 
@@ -255,11 +315,12 @@ In NYC in 2012,  there were **419** murders.
 NYC's population is **8,289,415**
 
 
-<p class="fragment">419 ÷ 8289415 = 0.00005054639</p>
+<p><span class="fragment">419 ÷ 8289415</sp> = 0.00005054639</p>
 
 <p class="fragment">0.00005054639 * 100,000 = 5.1</p>
 		
-<aside class="notes">So let's calculate this out.  We want the rate per **100,000**  people which we get by dividing the total number of incidents by the population as a whole and multiplying by 100,000. 
+NOTES: 
+So let's calculate this out.  We want the rate per **100,000**  people which we get by dividing the total number of incidents by the population as a whole and multiplying by 100,000. 
 
 Start by dividing the number of murders by the population, what do we get?
 
@@ -274,30 +335,34 @@ That's not a useful figure at all.  And if we want to make this a % we won't do 
 
 (You might get E Notation https://en.wikipedia.org/wiki/Scientific_notation) 
 So for every person there was a small fraction of  a murder. It is a bit more useful to know how many murders there were for every 100,000 people, so multiply by 100,000
-<
-
-Multiply by 100,000. . It is a bit more useful to know how many murders there were for every 100,000 people, so multiply by 100,000
 
 (If you rounded to 8.3 million you'll get 5.0482)
-</aside>
+
 --v--
 ## Rates
 
-| City  | Murder Count  |Rate per 100,000
-|:------------|---:|-----:|
-|New York City|419 | 5.1  |
-|Denver       |39  | 6.2  |
-<aside class="notes">As it turns out, the murder rates in Denver and NYC are pretty close, but you're just a bit more likely to be murdered in Denver. 
+
+| City         | Count | Rate per 100,000 |
+|:---|---:|---:|
+|New York City | 419   | 5.1
+|Denver        | 39    | 6.2
+
+NOTES: 
+As it turns out, the murder rates in Denver and NYC are pretty close, but you're just a bit more likely to be murdered in Denver. 
 As it turns out, the murder rates in NYC and Denver are pretty close. Someone is just a little bit more likely to be murdered in Denver. 
-</aside>
----
+
+--v--
+## Rates
+
+
+-----
 ## Percent Change
 Difference / Origin * 100
 
 (old-new)/old *100
 
 Handy calculator:   
-http://www.newsengin.com/percentChange.php
+<http://www.newsengin.com/percentChange.php>
 
 <aside class="notes">Alright: we've covered percents, we've covered other rates, now lets talk about what we do when values change, or when we need to know how two values compare. 
 
@@ -465,7 +530,7 @@ x1 - 120,000 = x2
 x2 = 1,594,286
 <aside class="notes">Are we ready to do the math on poverty? So our starting figure, from 2000 is something we need to round off: 1.7 million. And our later, lower figure is about 1.6 million. Here, we were starting with round numbers -- 120,000 and 7%, so we end up with results that we know are wrong. But we can compare those results to census data and decide whether these findings actually hold up. 
 </aside>
----
+-----
 ## Median vs. Mean
 How do you find the "mean" value in a set of numbers?
 
@@ -566,7 +631,7 @@ Use the median when outliers would distort the mean, or when your values have no
 Otherwise, use the mean.
 <aside class="notes">Most people use "average" and "mean" interchangeably, so that is what people expect.
 </aside>
----
+-----
 <svg height="210" width="500">
   <polygon points="100,10 40,180 190,60 10,60 160,180" style="fill:lime;fill-rule:nonzero;"/>
   Sorry, your browser does not support inline SVG.
@@ -575,7 +640,7 @@ Otherwise, use the mean.
 Disco Break!
 amanda.hickman@journalism.cuny.edu
 10 Minutes.
----
+-----
 ## Inflation
 > NYT changes stylebook today to bar uses of "record" or "largest" unless inflation is taken into account.
 
@@ -593,7 +658,7 @@ What is inflation?
 Notes/ not using: if you try to argue that beer prices have gone up as a result of industry consolidation (actually, they've followed the price of other foods and beverages). http://www.motherjones.com/kevin-drum/2013/08/beer-inflation  or household spending (which has plummeted) http://www.motherjones.com/kevin-drum/2012/09/why-you-should-always-account-inflation-case-study  or government spending
 http://www.motherjones.com/kevin-drum/2013/08/repeat-after-me-always-adjust-inflation-always-adjust-inflation  without adjusting for inflation
 </aside>
----
+-----
 ## Inflation
 
 Inflation: a continual increase in the price of goods and services over time. As a result, a single dollar buys a little bit less stuff today than it did a year or two ago.
@@ -633,7 +698,7 @@ This chart is from a Washington Post story "After six budget showdowns, big gove
 That figure is down from 2010 — the year that worries about government spending helped bring on a tea party uprising, a Republican takeover in the House and then a series of ulcer-causing showdowns in Congress. But it is not down by that much. Back then, the government spent a whopping $3.457 trillion."
 According to Kevin Drum, adjusted for inflation and population growth, federal spending has declined by 8 percent since 2010. In current dollars, it's fallen from $11,800 to $10,900 per person.
 </aside>
----
+-----
 ## Margin of Error
 > "65 percent of likely voters said they will vote for de Blasio, compared to 24 percent for Lhota, a new NBC 4 New York/Wall Street Journal/Marist poll shows." 
 <p class="credits">NBC 4 New York, Nov 4, 2013</p>
@@ -672,7 +737,7 @@ Did you notice that I said deBlasio support is *probably* between 61.3% and 69.3
 When we say all data is bad, this is part of what we're talking about. 
 </aside>
 
----
+-----
 ## Sampling
 <blockquote class="twitter-tweet" lang="en"><p>Online poll: Should horse-drawn carriages be banned in NYC? <a href="http://t.co/C4wiGEyhmu">http://t.co/C4wiGEyhmu</a> &#10;Please vote!</p>&mdash; Mark Hawthorne Ⓥ (@markhawthorne) <a href="https://twitter.com/markhawthorne/statuses/448461057523077120">March 25, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -737,7 +802,7 @@ Online polls are self selected. They represent the group of people who heard abo
 Even the order of questions matters: http://www.people-press.org/methodology/questionnaire-design/question-order/
 </aside>
 
----
+-----
 ## Writing with Numbers
 You are the decider.
 
@@ -894,7 +959,7 @@ So is "less likely": (20 - 70)/70 = 0.71
 
 So let's take this apart. You get hit by a car, you have two choices: you live, or you don't live. So everyone take a moment to write some sentences about speeding. 
 </aside>
----
+-----
 ## Comparisons
 Daisy Vieyra
  @VieyraDaisy
@@ -937,7 +1002,7 @@ This is data for New York State.
 4.532319392 <-- ratio
 3.532319392 <-- % diff
 </aside>
----
+-----
 ## More Resources
 It takes more than numeracy and some skepticism to cover numbers stories. Sarah Cohen's [Numbers in the Newsroom](http://www.worldcat.org/oclc/48822382) is a great primer on a range of numbers-driven stories. She goes well beyond the basics of language and calculation, deep into property taxes, school rankings, and economic forecasts.
 
