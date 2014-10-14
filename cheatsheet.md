@@ -144,5 +144,6 @@ Robert Niles' [Statistics Every Writer Should Know](http://www.robertniles.com/s
 Anthony Curtis at UNC Pembroke keeps a running [list of resources](http://www.uncp.edu/home/acurtis/Courses/ResourcesForCourses/Journalism/JournalismMath.html)
 
 
-<p class="credits">&copy; 2013, 2014 Ben Lesser and Amanda Hickman <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+<p class="credits">&copy; 2013, 2014 Ben Lesser and Amanda Hickman, CUNY Graduate School of Journalism  
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
