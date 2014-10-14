@@ -665,14 +665,10 @@ amanda.hickman@journalism.cuny.edu
 10 Minutes.  
 -----
 ## Inflation
-> NYT changes stylebook today to bar uses of "record" or "largest" unless inflation is taken into account.
 
-<blockquote class="twitter-tweet" lang="en"><p>NYT changes stylebook today to bar uses of &quot;record&quot; or &quot;largest&quot; unless inflation is taken into account.</p>&mdash; David Leonhardt (@DLeonhardt) <a href="https://twitter.com/DLeonhardt/statuses/393079818800988160">October 23, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-tweet" lang="en"><p>NYT changes stylebook today to bar uses of &quot;record&quot; or &quot;largest&quot; unless inflation is taken into account.</p>&mdash; David Leonhardt (@DLeonhardt) <a href="https://twitter.com/DLeonhardt/statuses/393079818800988160">October 23, 2013</a></div>
 
-> "This is not statistical quibbling. It is simply not accurate to describe $1,000 in 2013 dollars as "more" money than, say, $900 in 1960..."
-
-<blockquote class="twitter-tweet" lang="en"><p>&quot;This is not statistical quibbling. It is simply not accurate to describe $1,000 in 2013 dollars as “more” money than, say, $900 in 1960...&quot;</p>&mdash; David Leonhardt (@DLeonhardt) <a href="https://twitter.com/DLeonhardt/statuses/393079929992003584">October 23, 2013</a></blockquote>
+<div class="twitter-tweet" lang="en"><p>&quot;This is not statistical quibbling. It is simply not accurate to describe $1,000 in 2013 dollars as “more” money than, say, $900 in 1960...&quot;</p>&mdash; David Leonhardt (@DLeonhardt) <a href="https://twitter.com/DLeonhardt/statuses/393079929992003584">October 23, 2013</a></div>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 NOTES:
@@ -680,11 +676,10 @@ What is inflation?
 
 Notes/ not using: if you try to argue that beer prices have gone up as a result of industry consolidation (actually, they've followed the price of other foods and beverages). http://www.motherjones.com/kevin-drum/2013/08/beer-inflation  or household spending (which has plummeted) http://www.motherjones.com/kevin-drum/2012/09/why-you-should-always-account-inflation-case-study  or government spending
 http://www.motherjones.com/kevin-drum/2013/08/repeat-after-me-always-adjust-inflation-always-adjust-inflation  without adjusting for inflation
-</aside>
------
+--v--
 ## Inflation
 
-Inflation: a continual increase in the price of goods and services over time. As a result, a single dollar buys a little bit less stuff today than it did a year or two ago.
+> Inflation: a continual increase in the price of goods and services over time. As a result, a single dollar buys a little bit less stuff today than it did a year or two ago.
 
 Comparing spending or prices over time without adjusting for inflation is useless at best. Sometimes it is plain dishonest. 
 
@@ -701,11 +696,14 @@ We have to be able to talk about changing prices  http://www.npr.org/blogs/money
 ## Inflation
 > "I had to go late at night and pay $800, a fortune at the time." -- Michelle describing her experience in 1968
 
+<p class="credits">[New York Magazine](
+http://nymag.com/news/features/abortion-stories-2013-11/index9.html), November 2013</p>
 
-Bureau of Labor Statistics inflation calculator
-<http://www.bls.gov/data/inflation_calculator.htm>
+<span class="fragment">Bureau of Labor Statistics inflation calculator
+<http://www.bls.gov/data/inflation_calculator.htm></span>
 
-<aside class="notes">New York Magazine has a powerful package on abortion in the Nov 18, 2013 issue. I read most of the profiles in a fit of procrastination, including one from Michelle, who paid $800 in 1968. So here's my question: was that a lot of money? 
+NOTES:
+New York Magazine has a powerful package on abortion in the Nov 18, 2013 issue. I read most of the profiles in a fit of procrastination, including one from Michelle, who paid $800 in 1968. So here's my question: was that a lot of money? 
 
 http://nymag.com/news/features/abortion-stories-2013-11/index9.html | http://www.bls.gov/data/inflation_calculator.htm 
 
@@ -713,27 +711,27 @@ Better: in 1999, I was a Nation intern. My recollection is that we got paid $150
 
 --v--
 ## Inflation
-<!--TK CHART GRAB-->
+![Chart of budget spending](fahr-spending-v6.png)
 
-<aside class="notes">
+[After six budget showdowns, big government is mostly unchanged](http://www.washingtonpost.com/politics/after-six-budget-showdowns-big-government-is-mostly-unchanged/2013/08/23/97d90578-0068-11e3-9711-3708310f6f4d_story.html)
+NOTES:
 This chart is from a Washington Post story "After six budget showdowns, big government is mostly unchanged" (David A. Fahrenthold, Washington Post, August 23, 2013). He actually did adjust for inflation, just not in his chart. 
 "After 2½ years of budget battles, this is what the federal government looks like now: It is on pace, this year, to spend $3.455 trillion.
 That figure is down from 2010 — the year that worries about government spending helped bring on a tea party uprising, a Republican takeover in the House and then a series of ulcer-causing showdowns in Congress. But it is not down by that much. Back then, the government spent a whopping $3.457 trillion."
 According to Kevin Drum, adjusted for inflation and population growth, federal spending has declined by 8 percent since 2010. In current dollars, it's fallen from $11,800 to $10,900 per person.
-</aside>
 -----
 ## Margin of Error
 > "65 percent of likely voters said they will vote for de Blasio, compared to 24 percent for Lhota, a new NBC 4 New York/Wall Street Journal/Marist poll shows." 
 
 <p class="credits">NBC 4 New York, Nov 4, 2013</p>
 
-+ margin of error ± 4.3 percentage points
+They gave a *margin of error of ± 4.3 percentage points*
 
 **What does that mean?**
 <p class="fragment">de Blasio support is probably between 61.3 percent and 69.3 percent</p>
 
 
-<aside class="notes">
+NOTES: 
 Researchers use polling to forecast unknowns. Future election results, the weather, economic change. Usually, they use a margin of error to convey the certainty of their prediction. 
 
 http://www.nbcnewyork.com/news/local/Bill-De-Blasio-NYC-Mayoral-Race-Marist-Poll-Joe-Lhota--230418191.html
@@ -745,7 +743,6 @@ http://articles.dailypress.com/2013-11-06/news/dp-nws-polls-20131106_1_republica
 http://web.mit.edu/newsoffice/2012/explained-margin-of-error-polls-1031.html
 http://www.cnn.com/2012/11/04/politics/margin-of-error-campaign-foreman/index.html 
 http://www.cnn.com/2012/11/05/politics/inside-the-polls/index.html 
-</aside>
 
 --v--
 ## Confidence Interval
@@ -755,95 +752,78 @@ Most surveys have a confidence interval of 95 percent: if the survey were conduc
 
 <p class="credits">NYS Department of Health</p>
 
-<aside class="notes">
+NOTES: 
 Did you notice that I said deBlasio support is *probably* between 61.3% and 69.3%? So not only does the margin of error give us some wiggle room, most surveys also have a confidence interval to account for: whoever conducted the survey is only 95% sure that you'll get the same result over and over. That's pretty good, but it isn't 100%. 
 
 When we say all data is bad, this is part of what we're talking about. 
-</aside>
-
 -----
 ## Sampling
-<blockquote class="twitter-tweet" lang="en"><p>Online poll: Should horse-drawn carriages be banned in NYC? <a href="http://t.co/C4wiGEyhmu">http://t.co/C4wiGEyhmu</a> &#10;Please vote!</p>&mdash; Mark Hawthorne Ⓥ (@markhawthorne) <a href="https://twitter.com/markhawthorne/statuses/448461057523077120">March 25, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="twitter-tweet" lang="en"><p>Online poll: Should horse-drawn carriages be banned in NYC? <a href="http://t.co/C4wiGEyhmu">http://t.co/C4wiGEyhmu</a> &#10;Please vote!</p>&mdash; Mark Hawthorne  (@markhawthorne) <a href="https://twitter.com/markhawthorne/statuses/448461057523077120">March 25, 2014</a></div>
 
-<aside class="notes">
+![Horse drawn carriage story](horsepoll_3.png)
+
+NOTES:
 What they're really saying here is "If you're interested in horses, pass it on." That's great. 
 
-</aside>
 --v--
 ## Sampling
-Mapping the Storm Cleanup
-TK IMAGE
+![Mapping the Storm Cleanup](storm_2.png) 
+![Mapping the Storm Cleanup](storm_3.png)
 
-<aside class="notes">In the winter of 2010, New York City got hit with a monster snow storm halfway between Christmas and New Years. The MTA leadership was all home with their families, there were rumors that Bloomberg was in the Bahamas. Busses were sent out into the blizzard with no chains, they got stuck and couldn't move, snowplows got stuck behind them. It was pretty much a fiasco. 
+NOTES:
+In the winter of 2010, New York City got hit with a monster snow storm halfway between Christmas and New Years. The MTA leadership was all home with their families, there were rumors that Bloomberg was in the Bahamas. Busses were sent out into the blizzard with no chains, they got stuck and couldn't move, snowplows got stuck behind them. It was pretty much a fiasco. 
 
 WNYC started collecting reports of unplowed streets and quickly mapped a handful of streets that hadn't been plowed yet.  http://www.wnyc.org/story/105465-2-mapping-storm-clean/
 
 FWIW, John Keefe, at WNYC, who built this map, was the first one to use it in a story about what crowdsourcing does and doesn't show you. There are lots of good reasons to undertake a crowd sourcing project like this. But don't mistake this for a statistically useful sample. 
-</aside>
+
 --v--
-## Sampling
-TK IMAGE
+![Revised Snow Map](311_snow.png)
+##Sampling
 
-Mapping the Storm Cleanup
-<aside class="notes">And then they started to map streets that had been plowed (that's the blue, white is unplowed). I could map 311 calls and get a more representative distribution but it still wouldn't be a clear snapshot of snow removal. 
-
-So … is this a thorough snapshot of the distribution of plowed or unplowed streets in New York City in the days after the 2010 snow storm? No? What is this a map of?
-
-FWIW, John Keefe, at WNYC, who built this map, was the first one to use it in a story about what crowdsourcing does and doesn't show you. There are lots of good reasons to undertake a crowd sourcing project like this. But don't mistake this for a statistically useful sample. 
-</aside>
---v--
-## Sampling
-
-TK MAP EMBED
-
-<aside class="notes">
+NOTES: 
 I grabbed a list of 311 complaints about snow made between 12/25/2010 and 1/1/2011 and mapped those. So is this a comprehensive map of plowed and unplowed streets? (blues are unplowed; grey is sidewalk complaints). Nope. It's a map of 311 calls. But it is a better snapshot of the snow situation in the city. 
 </aside>
 --v--
 ## Sampling
 
-TK IMAGE
+![Question Order Study](question_order-2.png)
 
-<aside class="notes">
+NOTES:
 You'll come across a lot of polls in your career. Some are rigorous and reliable and some are totally bogus. You want to know what he pollsters asked and how they chose their samples. You want to know who paid for the study and what their agenda is. Survey design is complex.  You aren't statisticians. Unless you are, in which case you already know all of this. Otherwise, you need to find help.
 
 The Pew research center did a great analysis about the order of questions: they found that if you ask people how they feel about gay marriage before you ask them how they feel about civil unions, they're more likely to say they favor civil unions. (this is from 2003 -- I'd gues the data is different today.)They repeated this with questions about Bush's record, congress working together. All kinds of things. 
 
 Even the order of questions matters: http://www.people-press.org/methodology/questionnaire-design/question-order/
-</aside>
+
 --v--
 ## Sampling
+
 Sampling refers to the process of selecting a random and representative subset of the larger population to determine the characteristics of the whole population.
 
-A good pollster will tell you what their sample size was. They can tell you what their methodology was.
+Online polls are self selected. They represent the group of people who heard about the poll.
 
 Size of sample determines the margin of error
 
-Online polls are self selected. They represent the group of people who heard about the poll.
-<aside class="notes">You'll come across a lot of polls in your career. Some are rigorous and reliable and some are totally bogus. You want to know what he pollsters asked and how they chose their samples.  Survey design is complex.  You aren't statisticians. Unless you are, in which case you already know all of this. Otherwise, you need to find help.
-
-Even the order of questions matters: http://www.people-press.org/methodology/questionnaire-design/question-order/
-</aside>
+A good pollster will tell you what their sample size was. They can tell you what their methodology was.
 
 -----
 ## Writing with Numbers
 You are the decider.
 
-<aside class="notes">Don't use every number just because you have them.
-</aside>
-
+NOTES:
+Don't use every number just because you have them.
 --v--
 ## Writing with Numbers
 fewer things, less stuff
 
-<aside class="notes">
+NOTES:
 Use "fewer" for things you can count: lumps of sugar, cars, people. Use "less" for things you can't count: milk,  traffic, homework. 
 
 Dollar bills are countable, but dollar amounts are not. Years are countable, but ages are not. Confused? Refer to the AP Style book. 
 
 You could, if you wanted, get into a long semantic debate about whether or note statements like "one less car" are grammatically correct. Knock yourself out. We don't traffic in theory. AP style says fewer things, less stuff. 
-</aside>
+
 --v--
 ## Writing with Numbers
 1. Less than 10 applicants showed up. 
@@ -852,7 +832,7 @@ You could, if you wanted, get into a long semantic debate about whether or note 
 1. There were far fewer dogs in the park today.
 1. The mayor wants less people to go hungry.
 
-<aside class="notes">
+NOTES:
 Use "fewer" for things you can count: lumps of sugar, cars, people. Use "less" for things you can't count: milk,  traffic, homework. 
 
 Dollar bills are countable, but dollar amounts are not. Years are countable, but ages are not. 
@@ -865,25 +845,25 @@ Dollar bills are countable, but dollar amounts are not. Years are countable, but
 
 There are a ton of exceptions, too, just to keep you on your toes: 
 http://afterdeadline.blogs.nytimes.com/2011/03/01/fewer-vs-less
-</aside>
 --v--
 ## Writing with Numbers
 > Earnings: Among the major race and ethnicity groups, Hispanics and Blacks had considerably lower earnings than Whites and Asians. In 2012, the median usual weekly earnings of full-time wage and salary workers were $568 for Hispanics, $621 for Blacks, $792 for Whites, and $920 for Asians. Among men, the earnings of Whites ($879), Blacks ($665), and Hispanics ($592) were 83, 63, and 56 percent, respectively, of the earnings of Asians ($1,055). The median earnings of White women ($710), Black women ($599), and Hispanic women ($521) were 92, 78, and 68 percent, respectively, of the earnings of Asian women ($770). (See table 16.)
 
-<aside class="notes">
+NOTES:
 The BLS gives us this nonsense. If we all wanted to read BLS reports, we wouldn't need journalists to cover labor. So your job is to decide what numbers here are noteworthy or remarkable. 
 
 http://www.bls.gov/cps/cpsrace2012.pdf
-</aside>
+
 --v--
 ## Writing with Numbers
-+ Don't overwhelm the reader: choose the numbers that matter. 
-+ Use visuals to tell the rest of the story
-+ Don't hesitate to contact an expert if you are uncertain (find someone to turn to)
-+ Always double check your math.
-+ ALL DATA IS BAD!
+1. Don't overwhelm the reader: choose the numbers that matter. 
+1. Use visuals to tell the rest of the story
+1. Don't hesitate to contact an expert if you are uncertain (find someone to turn to)
+1. Always double check your math.
+1. ALL DATA IS BAD!
 
-<aside class="notes">Your job is to tell me, the reader, what is important here. Not to hit me over the head with numbers. 
+NOTES: 
+Your job is to tell me, the reader, what is important here. Not to hit me over the head with numbers. 
 
 If I need to see the figure for every month in the last year for four cities, make a chart. Don't rattle off numbers.
 
@@ -891,18 +871,36 @@ Know that numbers are always wrong, know the difference between what the numbers
 </aside>
 --v--
 ## Writing with Numbers
+
+<table><tr><td>
+![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie.png)![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie.png)![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie.png)
+
+</td><td>&nbsp;</td><td>
+![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie.png)![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie.png)
+</td></tr></table>
+
 How much less?
-Image courtesy of Bob Smith, Wikimedia Commons
-<aside class="notes">How much less, or how many fewer? Think of it in terms of cookies, first.
+
+NOTES:
+How much less, or how many fewer? Think of it in terms of cookies, first.
 
 If you have one cookie, and I have two, there isn't much confusion. I have 100% more cookies. Twice as many. One more. 
 
 If I say I have one more cookie, you know that the number of cookies I have is 1 + however many you have: it is a statement about the difference between how many cookies we each have.  That's not hard. 
-</aside>
+
 --v--
 ## Writing with Numbers
-200% more cookies
+
+<table><tr><td>
+![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie_sm.png)![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie_sm.png)![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie_sm.png)![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie_sm.png)![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie_sm.png)![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie_sm.png)
+
+</td><td>&nbsp;</td><td>
+![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie_sm.png)![Image courtesy of Bob Smith, Wikimedia Commons](choco_chip_cookie_sm.png)
+</td></tr></table>
 Image courtesy of Bob Smith, Wikimedia Commons
+
+
+NOTES: 
 Three times as many cookies
 But if you have two cookies, and I have six, I have:
 
@@ -912,69 +910,61 @@ But if you have two cookies, and I have six, I have:
 … 200% more cookies. 
 
 This seems pretty obvious, which is why I'm showing it to you.  
-</aside>
+
 --v--
 ## Writing with Numbers
-67% fewer cookies
-Image courtesy of Bob Smith, Wikimedia Commons
+> 67% fewer cookies
+
+is the same as saying ...
+
+> <span class="fragment">One third as many cookies</span>
+
+NOTES:
 One third as many cookies
 And if you have two cookies, and I have six, you have …
 
-… 80% fewer cookies (6 - (6 * .80) =  
+… 80% fewer cookies (6 - (6 * .80)) =  
 
 … 4 fewer cookies (or ⅔ fewer, 67% fewer)
 … ⅓ as many cookies (or 33% as many)
-</aside>
+
 --v--
 ## Writing with Numbers
-More, less, fewer: statements about the difference.
+*More, less, fewer:* statements about the difference.
 
-As many as: statements about the ratio. 
+*As many as:* statements about the ratio. 
+
+NOTES:
 The Atlantic: who is more likely to be unemployed http://www.theatlantic.com/business/archive/2013/11/the-workforce-is-even-more-divided-by-race-than-you-think/281175/
 
 http://www.bls.gov/cps/cpsrace2012.pdf 
+----
+## Comparisions
+![That's Why it is 30](dot_thats_why_30.png)
+
+NOTES:
 
 The DOT has a whole campaign that is actually quite puzzling. The gist is straightforward: the speed limit is 30 miles an hour because a person who is hit by a car moving more than 30 miles an hour is a whole lot more likely to die. But what they actually say is this: "Hit at 40 mph, there's a 70% chance I'll die. Hit at 30 mph, there's an 80% chance I'll live."  
 
-They also say this: "a pedestrian struck at 40 mph is 3.5 times more likely to be killed than one struck at 30 mph."
+And, starting in November the limit will be 25!
 
-"Hit at 40 mph, there's a 70% chance I'll die. Hit at 30 mph, there's an 80% chance I'll live."  
-
-Speed
-Fatality Odds
-Survival Odds
-40 mph
-70%
-30 mph
-80%
-Writing with Numbers
-So let's take this apart. You get hit by a car, you have two choices: you live, or you don't live. 
-</aside>
 --v--
-## Writing with Numbers
+## Comparisons
 "Hit at 40 mph, there's a 70% chance I'll die. Hit at 30 mph, there's an 80% chance I'll live."  
 
-Speed
-Fatality Odds
-Survival Odds
-40 mph
-70%
-30%
-30 mph
-20%
-80%
+<span class="fragment">
+
+| Speed | Fatality <br />Odds | Survival <br />Odds |
+|---|---|---|
+| 40 mph | 70% |  <span class="fragment" data-fragment-index="3">30%</span> |
+| 30 mph | <span class="fragment" data-fragment-index="4">20%</span> | 80% |
+</span>
+
+NOTES:
+
 So let's take this apart. You get hit by a car, you have two choices: you live, or you don't live. 
 
-Writing with Numbers
-Speed
-Fatality Odds
-Survival Odds
-40 mph
-70%
-30%
-30 mph
-20%
-80%
+
 "as likely" is a ratio: 70/20 = 3.5 
 
 "more likely" is a statement about the difference: (70-20)/20 = 2.5
@@ -982,13 +972,13 @@ Survival Odds
 So is "less likely": (20 - 70)/70 = 0.71
 
 So let's take this apart. You get hit by a car, you have two choices: you live, or you don't live. So everyone take a moment to write some sentences about speeding. 
-</aside>
+
 -----
 ## Comparisons
-Daisy Vieyra
- @VieyraDaisy
-@DNAtv #marijuana use is roughly equal among Black and whites, yet Blacks are 3.73 times as likely to be arrested for possession #DNAtv 
-12:55 PM - 29 Oct 2013
+
+<div class="twitter-tweet" lang="en"><p><a href="https://twitter.com/DNAtv">@DNAtv</a> <a href="https://twitter.com/hashtag/marijuana?src=hash">#marijuana</a> use is roughly equal among Black and whites, yet Blacks are 3.73 times as likely to be arrested for possession <a href="https://twitter.com/hashtag/DNAtv?src=hash">#DNAtv</a></p>&mdash; Daisy Vieyra (@VieyraDaisy) <a href="https://twitter.com/VieyraDaisy/status/395232363019390977">October 29, 2013</a></div>
+
+NOTES: 
 ACLU Report https://www.aclu.org/billions-dollars-wasted-racially-biased-arrests 
 https://www.aclu.org/sites/default/files/assets/100413-mj-report-rfs-rel1.pdf (NY page 169) 
 
@@ -999,13 +989,12 @@ the black arrest rate was 716 per 100,000 blacks. -- page 17
 NYT changed it to "as likely" 
 http://www.nytimes.com/2013/06/04/us/marijuana-arrests-four-times-as-likely-for-blacks.html
 
-</aside>
 --v--
 ## Comparisons
-ACLU Report https://www.aclu.org/billions-dollars-wasted-racially-biased-arrests 
+![ACLU Report https://www.aclu.org/billions-dollars-wasted-racially-biased-arrests](aclu_math.gif) 
 
-https://www.aclu.org/sites/default/files/assets/100413-mj-report-rfs-rel1.pdf (NY page 169) 
 
+NOTES:
 In 2010, nationwide the white arrest rate was 192 per 100,000 whites, and
 the black arrest rate was 716 per 100,000 blacks. -- page 17 
 716/192 is 3.72 -- as likely. Their summary gives a "more likely" figure. 
@@ -1014,18 +1003,22 @@ NYT changed it to "as likely"
 http://www.nytimes.com/2013/06/04/us/marijuana-arrests-four-times-as-likely-for-blacks.html
 
 Usage is comparable: http://www.cdc.gov/nchs/data/hus/hus12.pdf#212
-</aside>
+
 --v--
 ## Comparisons
-ACLU Report https://www.aclu.org/billions-dollars-wasted-racially-biased-arrests 
-This is data for New York State. 
 
-1192
-263
-929  <-- difference
-4.532319392 <-- ratio
-3.532319392 <-- % diff
-</aside>
+![https://www.aclu.org/sites/default/files/assets/100413-mj-report-rfs-rel1.pdf (NY page 169)](aclu_math_zoom.gif) [ACLU Report](https://www.aclu.org/billions-dollars-wasted-racially-biased-arrests)
+
+<span class="fragment">Find the **difference**:
+1192 - 263 = </span><span class="fragment">929</span>  
+<span class="fragment">and divide: 
+1192 / 263 = 3.532319392</span>
+
+<span class="fragment">Or, find the **ratio**:</span>
+<span class="fragment">1192 / 263 = 4.532319392</span>
+
+
+<span class="fragment">*and then round off!*</span>
 -----
 ## More Resources
 It takes more than numeracy and some skepticism to cover numbers stories. Sarah Cohen's [Numbers in the Newsroom](http://www.worldcat.org/oclc/48822382) is a great primer on a range of numbers-driven stories. She goes well beyond the basics of language and calculation, deep into property taxes, school rankings, and economic forecasts.
@@ -1033,10 +1026,7 @@ It takes more than numeracy and some skepticism to cover numbers stories. Sarah 
 Robert Niles' [Statistics Every Writer Should Know](http://www.robertniles.com/stats/) is clear and concise.
 
 Anthony Curtis at UNC Pembroke keeps a running [list of resources](http://www.uncp.edu/home/acurtis/Courses/ResourcesForCourses/Journalism/JournalismMath.html)
-
-
 --v--   
-
 ## Math for Journalists
 http://bit.ly/craft_math
 &copy; 2013 Ben Lesser and Amanda Hickman, Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license. Contact us to discuss commercial uses.
