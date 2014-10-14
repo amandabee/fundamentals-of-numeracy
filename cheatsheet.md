@@ -1,3 +1,4 @@
+![CUNY Graduate School of Journalism](lecture/cunyj-logo.png)
 # Math for Journalists (A Cheatsheet)
 
 ## Know These Numbers
