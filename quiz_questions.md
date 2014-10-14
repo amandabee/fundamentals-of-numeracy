@@ -40,7 +40,34 @@ Fill in the blank.
 
 > "Today, only 21 percent of 359 students there qualify for free and reduced-price lunch. That is one-third the district average." [How Budget Cuts and PTA Fundraising Undermined Equity in San Francisco Public Schools](http://sfpublicpress.org/news/2014-02/how-budget-cuts-and-PTA-fundraising-undermined-equity-in-san-francisco-public-schools), SF Public Press - Feb 3, 2014
 
+-----
+
+> Panhandler arrests in the subway are up 197% year to date over last year, says NYPD at <a href="https://twitter.com/MTA">@mta</a> meetings</p>&mdash; Kate Hinds (@katehinds) <a href="https://twitter.com/katehinds/status/514072909468680192">September 22, 2014</a>
+
+That means there were _____ times as many panhandler arrests this year. 
+
+Fill in the blank with the best whole number. 
+
+-----
+
+> The U.S. Census Bureau says Rhode Island has about 770,000 adult citizens and that 73.5 percent of them are registered to vote. **[Voters outnumber adult citizens in half of R.I.](http://www.providencejournal.com/news/government/20141004-rhode-islands-voting-list-doesnt-add-up-graphic.ece), Providence Journal - October 4, 2014**
+
+So how many voters does the state have on its rolls?
+
+> Actually, Rhode Island's voter rolls include 748,000 people. 
+
+Calculate and describe the difference between 73.5% of the adult population and 748,000 people. 
 
 
+-----
+Surveys have shown* that nearly 85% of foster parents access the internet at least once a week. 
 
+What percent of foster parents have little or no internet access?
 
+* What surveys? Good question. But a recent letter from ACS cited this figure. 
+
+-----
+
+In Brazil's recent presidential election, 19.40% of voters abstained, while an additionl 9.63% filed null or blank votes. **[Soma de abstenção, brancos e nulos supera votos de Marina](http://noticias.terra.com.br/eleicoes/soma-de-abstencao-brancos-e-nulos-supera-votos-de-marina,59a32d737c2e8410VgnVCM3000009af154d0RCRD.html), Terra, October 5, 2014
+
+If 27,085,324 voters abstained on election day, about how many registered voters are there in Brazil? Round to the nearest thousand.
