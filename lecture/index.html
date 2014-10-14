@@ -3,7 +3,7 @@
   <head>
     <title>Got Numbers?</title>
     <meta name="generator" content="Reveal.JS" />
-    <meta name="presdate" content="20130809" />
+    <meta name="presdate" content="20141014" />
     <meta name="author" content="Amanda Hickman" />
     <meta name="company" content="CUNY Graduate School of Journalism" />
     <meta name="description" content="Math for Journalists">
@@ -11,21 +11,21 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link rel="stylesheet" href="/talks/utilities/reveal/css/reveal.css">
-    <link rel="stylesheet" href="/talks/utilities/reveal/css/theme/cuny.css" id="theme">
-
-    
-    <!-- For syntax highlighting
-    <link rel="stylesheet" href="/talks/utilities/reveal/lib/css/zenburn.css"> -->
+    <link rel="stylesheet" href="/talks/utilities/reveal/css/theme/cuny.css" id="theme"> 
+    <link rel="stylesheet" href="/talks/utilities/reveal/lib/css/zenburn.css"> 
    
     <!--[if lt IE 9]>
     <script src="/talks/utilities/reveal/lib/js/html5shiv.js"></script>
     <![endif]-->
+    <style>
+    .reveal section img  {border: 0}
+    </style>
   </head>
   <body>
     <div class="reveal">
       <!-- Any section element inside of this container is displayed as a slide -->
       <div class="slides">
-          <section data-markdown="slides.md" data-separator="^---" data-vertical="^--v--"></section>
+          <section data-markdown="numeracy.md" data-separator="-----" data-notes="NOTES:" data-vertical="--v--"></section>
 
       </div><!-- /slides -->
     </div><!-- /reveal -->
@@ -42,7 +42,8 @@
     history: true,
     center: false,
     transition: 'none',
-    slideNumber: true,
+    slideNumber: true,    
+    overview: true,
     
     margin: 0,
     width: 1600,    
@@ -53,11 +54,6 @@
       { src: '/talks/utilities/reveal/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
      ]
   });
-  Reveal.configure({
-    keyboard: {
-      56: 'slide( 8 )'
-    }
-  }); 
 </script>
   </body>
 </html>

@@ -10,11 +10,10 @@
 * So you can write better, more accurate stories. 
 * So you can challenge your sources and check their claims. 
 
-<aside class="notes">
+NOTES: 
 You're going to look at numbers in your career. I don't care if they're box office statistics or drug use trends or municipal budgets or inseams. 
 
 And you're going to need to spot numbers that don't make any sense at all. 
-</aside>
 
 --v--
 ## Fundamentals
@@ -33,9 +32,10 @@ Inflation
 Margin of Error  
 Sampling  
 </td></tr></table>
-<aside class="notes">
+
+
+NOTES:
 This is our roadmap. You covered a lot of this in fundamentals so it should go fast. 
-</aside>
 ---
 ## Rounding
 
