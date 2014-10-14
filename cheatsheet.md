@@ -5,25 +5,25 @@
 
 Look these numbers up and fill them in. Note your sources, and the year of the data.
 
-Population: 
-World ________ US ________ New York City_______
-Median household income: 
-US ________ New York City ________
+**Population:**   
+World ________________ US ________________ New York City_______________  
+**Median household income:** 
+US ________________ New York City ________________  
 
-Minimum Wage:
-Federal ________ New York ________
+**Minimum Wage:**  
+Federal ________________ New York ________________  
 
-Federal Poverty Level: ____________
-*Bonus: how is the “poverty level” determined?*
+Federal Poverty Level: ____________  
+*Bonus: how is the "poverty level" determined?*
 
-Inflation:
+**Inflation:**  
 Average inflation since the 20s ____________
 
-Dow Jones range ______________________
+Dow Jones range ____________________________
 
-NASDAQ range  ________________________ 
+NASDAQ range  ______________________________ 
 
-You should have a basic sense of proportion. 
+All of these figures will provide a basic sense of proportion. 
 
 ## Rounding
 
