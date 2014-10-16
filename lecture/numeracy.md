@@ -2,10 +2,11 @@
 ![CUNY Graduate School of Journalism](cunyj-logo.png)
 
 # Math for <nobr>Journalists</nobr>
+
 <p class="credits">&copy; 2013 Ben Lesser and Amanda Hickman <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><br /><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-
 --v--
+
 ## Why?
 * So you won't be wrong.
 * So you're harder to lie to.
@@ -18,6 +19,7 @@ You're going to look at numbers in your career. I don't care if they're box offi
 And you're going to need to spot numbers that don't make any sense at all. 
 
 --v--
+
 ## Fundamentals
 
 <table><tr><td>
@@ -38,7 +40,9 @@ Sampling
 
 NOTES:
 This is our roadmap. 
+
 -----
+
 ## Rounding
 
 >"The analysis, released on Monday by the Metropolitan Policy Program of the Brookings Institution, also found that while the number of poor people in New York City and Newark declined by 7 percent, or 120,000, the number in the suburbs rose by 14 percent, or 100,000, from 2000 to the census's rolling 2008-10 American Community Survey."
@@ -52,11 +56,19 @@ Some things we know for sure: the number of poor people did not decline by 120,0
 Most newsrooms have a policy about what to round to, and when you need to use hedge words ("about" / "just over")
 
 --v--
+
 ## Rounding
+
 Population below poverty level 2005-2009:  
 **39,537,240**
 
 <p class="credits">Source: American Community Survey</p>
+
+<span class="fragment">Round the '09 poverty count to the nearest million:
+**39,537,240**</span>
+
+<span class="fragment">What we're really asking is, is 39.5 million closer to:  
+**39,000,000** or **40,000,000**?</span>
 
 NOTES:
 The '05-'09 American Community Survey found 39,537,240 Americans living below the poverty line (US Census)  The census department knows that number isn't right. They publish it with a margin of error of +/- 250,000 --that means they're fairly certain (95-99% certain, not 100% certain -- we'll get to that) that this particular group is somewhere between 39,287,240 and 39,787,240. So this is a very rough number and giving it to the nearest 10 or 100 suggests far more accuracy than you actually have. 
@@ -64,24 +76,7 @@ The '05-'09 American Community Survey found 39,537,240 Americans living below th
 So, how do you round off the 2009 poverty count to the nearest million?
 
 Most newsrooms will have a policy. So ask. 
---v--
-## Rounding
-What we're really asking is, is 39.5 million closer to:  
-**39,000,000** or **40,000,000**?
 
-NOTES:
-(if that was sticky)
-Did you round up? Or down? 
-
-40 Million.  Why: where is the millions digit? so we want to know whether the digit to the right -- the hundred thousands -- is 0-4 or 5-9. 
-
---v--
-## Rounding
-Round the '09 poverty count to the nearest million:
-**39,537,240**
-
-
-NOTES:
 What if we wanted to round this to the nearest…
 * Ten thousand?
 * Thousand? 
@@ -89,6 +84,7 @@ What if we wanted to round this to the nearest…
 I usually try to keep two significant digits.
 
 -----
+
 ## Percent of the Whole
 The 2009 American Community Survey found **39,537,240** living below the poverty line, in a country of **308,745,531**. So what percent of Americans live below the poverty line?
 
@@ -98,6 +94,7 @@ NOTES:
 That figure in the abstract doesn't tell us much. What we'd really like to know is how that compares to the population as a whole. So how do you calculate that? Go ahead and write it down. 
 
 Go to http://bit.ly/craft_math  to get exact digits, or round off. Use a calculator.
+
 --v--
 ## Percent of the Whole
 Divide the subset <span class="fragment"  data-fragment-index="2">**by the whole group:**</span>    
@@ -134,19 +131,18 @@ You know this. If you don't, speak up.   What about 5/8ths? What % is that?
 
 You know this, too. You might not know that 5/8 is 63% but you know how to get there.
 
---v--
-## Percent of the Whole
-1/3 + 1/2  
-= 2/6 + 3/6   
-= 5/6  
-5 ÷ 6 = 0.83333  
-
-NOTES: You actually know all this, too. And curiously enough, 33% + 50% is 83%.
-
 
 --v--
 ## Percent of the Whole
 Cory Booker collected over $9 million to fund his 2013 Senate campaign. Quite a bit of that money came from outside of NJ: 
+
+
+| Total donations:        | $9,296,364 |
+|---:|---:|
+| Donations from CA:      | $1,576,301 |
+| &nbsp;  &nbsp; from NJ: | $2,535,181 | 
+| &nbsp;  &nbsp; from NY: | $3,013,305  |
+
 <table>
 <thead>
 <tr>
