@@ -144,10 +144,12 @@ Mean: 251450
 --v--
 ## Median vs. Mean
 
-**Mean** MLB Salary $3,633,539.40
+**Mean** MLB Salary $3,893,623.79
 
-**Median** MLB Salary $1,250,000.00
-<p class="credits">Source: [Baseball salaries for 2013](http://data.newsday.com/long-island/data/baseball/mlb-salaries-2013/), *Newsday*</p>
+**Median** MLB Salary $1,475,000.00
+
+
+<p class="credits">Source: [Baseball salaries for 2014](http://sports.newsday.com/long-island/baseball/mlb-payroll-and-salaries/), *Newsday*</p>
 
 NOTES: 2013 MLB Salaries range from $480,000 (a handful of low-paid players) to $29,000,000 (Alex Rodriguez). 46% of players earn less than $1 million, but about 100 earn more than $10 million. That's a pretty big spread. 
 
@@ -160,13 +162,13 @@ Source: http://data.newsday.com/long-island/data/baseball/mlb-salaries-2013/
 --v--
 ## Median vs. Mean
 
-Mean MLB age 28
+Mean MLB age 29.18
 
-Median MLB age 27
+Median MLB age 29
 
-<p class="credits">Source: [Baseball salaries for 2013](http://data.newsday.com/long-island/data/baseball/mlb-salaries-2013/), *Newsday*</p>
+<p class="credits">Source: [Baseball salaries for 2014](http://sports.newsday.com/long-island/baseball/mlb-payroll-and-salaries/), *Newsday*</p>
 
-NOTES: Meanwhile, the ages of MLB players range from 19 to 42. There aren't  a lot of 19 year olds or 42 year olds. So it isn't a surprise that the mean and median are pretty close.  In cases where there aren't a lot of outliers, you can use the mean which for most people is the same as the average. 
+NOTES: Meanwhile, the ages of MLB players range from 21 to 42. There aren't  a lot of 21 year olds or 42 year olds. So it isn't a surprise that the mean and median are pretty close.  In cases where there aren't a lot of outliers, you can use the mean which for most people is the same as the average. 
 --v--
 ## Median vs. Mean
 Use the median when outliers would distort the mean, or when your values have no ceiling or no floor (real estate, CEO salaries)
