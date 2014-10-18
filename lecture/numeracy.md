@@ -148,8 +148,9 @@ Mean: 251450
 
 **Median** MLB Salary $1,475,000.00
 
-
 <p class="credits">Source: [Baseball salaries for 2014](http://sports.newsday.com/long-island/baseball/mlb-payroll-and-salaries/), *Newsday*</p>
+
+<span class="fragment">![Most MLB players earn under $1.5 Mill, but some earn a lot more.](mlb_salaries.gif "Mean shown in orange")</span>
 
 NOTES: 2013 MLB Salaries range from $480,000 (a handful of low-paid players) to $29,000,000 (Alex Rodriguez). 46% of players earn less than $1 million, but about 100 earn more than $10 million. That's a pretty big spread. 
 
@@ -162,11 +163,13 @@ Source: http://data.newsday.com/long-island/data/baseball/mlb-salaries-2013/
 --v--
 ## Median vs. Mean
 
-Mean MLB age 29.18
+**Mean** MLB age 29.18
 
-Median MLB age 29
+**Median** MLB age 29
 
 <p class="credits">Source: [Baseball salaries for 2014](http://sports.newsday.com/long-island/baseball/mlb-payroll-and-salaries/), *Newsday*</p>
+
+<span class="fragment">![Most MLB players are in their late 20s](mlb_ages.gif "Mean shown in orange")</span>
 
 NOTES: Meanwhile, the ages of MLB players range from 21 to 42. There aren't  a lot of 21 year olds or 42 year olds. So it isn't a surprise that the mean and median are pretty close.  In cases where there aren't a lot of outliers, you can use the mean which for most people is the same as the average. 
 --v--
@@ -190,20 +193,19 @@ Most people use "average" and "mean" interchangeably, so that is what people exp
 | 4 bedrooms | 385004   |
 | 5 or more  | 91065    |
 
+### Can we calculate the mean?
+<aside class="notes"
 NOTES:
-
-This one came from an actual reporter on the NICAR list:  I have data on the number of housing units broken down by number of bedrooms. How do I calculate the median number of bedrooms? Obviously I can add up all the bedrooms and divide by the total number of homes to get an average, but I want the median: 
+This one came from an actual reporter on the NICAR list. I have data on the number of housing units broken down by number of bedrooms. How do I calculate the median number of bedrooms? Obviously I can add up all the bedrooms and divide by the total number of homes to get an average, but I want the median: 
 
 No bedroom 47,318  1 bedroom 264,585  2 bedrooms 759,549  3 bedrooms 1,081,713  4 bedrooms 385,004  5 or more bedrooms 91,065
 
 So how do we calculate that? (We add them all up, find the halfway point, and then say "is 0 more than half? (no) is 0 +1 more than half (no); is 0 + 1 + 2 more than half? (no)" 0+1+2+3 is more than half which means that the median is 3.
 
-TO DO:
 NYPD Salaries vs. Takehome Pay; Walmart salaries; look for hedge words. 
 
 Walmart Notes: http://makingchangeatwalmart.org/factsheet/walmart-watch-fact-sheets/fact-sheet-wages/; http://www.gothamgazette.com/index.php/economy/694-is-wal-mart-worse ; http://www.payscale.com/research/US/Employer=Wal-Mart_Stores%2c_Inc/Salary ; http://america.aljazeera.com/articles/2013/11/6/calif-walmart-workerscallformorehoursbetterpay.html ; http://corporate.walmart.com/our-story/working-at-walmart/opportunity-benefits 
-
-
+</aside>
 -----
 
 ## Percent of the Whole
@@ -211,25 +213,20 @@ The 2009 American Community Survey found **39,537,240** living below the poverty
 
 <center><http://bit.ly/craft_math></center>
 
+<span class="fragment" data-fragment-index="2">Divide the subset</span> <span class="fragment"  data-fragment-index="3">**by the whole group:**</span>    
+<span class="fragment" data-fragment-index="2">39,537,240</span> <span class="fragment"  data-fragment-index="3">/ **308,745,531**</span> 
+<span class="fragment"  data-fragment-index="4">= .12805769162696</span>
+
+<span class="fragment"  data-fragment-index="5">Multiply by 100:</span>
+<span class="fragment"  data-fragment-index="6"> 12.805769162696%  
+And round off:</span>
+<span class="fragment"  data-fragment-index="7">13%</span>  
+
 NOTES: 
 That figure in the abstract doesn't tell us much. What we'd really like to know is how that compares to the population as a whole. So how do you calculate that? Go ahead and write it down. 
 
 Go to http://bit.ly/craft_math  to get exact digits, or round off. Use a calculator.
 
---v--
-## Percent of the Whole
-Divide the subset <span class="fragment"  data-fragment-index="2">**by the whole group:**</span>    
-39,537,240 <span class="fragment"  data-fragment-index="2">/ **308,745,531**</span> 
-<span class="fragment"  data-fragment-index="3">= .12805769162696</span>
-
-
-<span class="fragment"  data-fragment-index="4">Multiply by 100:</span>
-<span class="fragment"  data-fragment-index="5"> 12.805769162696%  
-And round off:</span>
-<span class="fragment"  data-fragment-index="6">13%</span>  
-
-
-NOTES: 
 What this really tells us is that for each person in the country, there are .13 people living in poverty. So we multiply by 100 to get the "percent" or "per hundred"
 
 Is this really the figure we're going to publish? 12.805769…? No. 

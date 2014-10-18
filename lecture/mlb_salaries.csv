@@ -1,0 +1,852 @@
+"Rank"	"Player"	"Age"	"Position"	"Team"	"Salary"	"Salary Figure"
+1	"Cliff Lee"	36	"Starting pitcher"	"Philadelphia Phillies"	"25000000"	25000000
+2	"Ryan Howard"	34	"First base"	"Philadelphia Phillies"	"25000000"	25000000
+3	"Prince Fielder"	30	"First base"	"Texas Rangers"	"24000000"	24000000
+4	"Zack Greinke"	30	"Starting pitcher"	"Los Angeles Dodgers"	"24000000"	24000000
+5	"Robinson Cano"	31	"Second base"	"Seattle Mariners"	"24000000"	24000000
+6	"CC Sabathia"	34	"Starting pitcher"	"New York Yankees"	"23000000"	23000000
+7	"Albert Pujols"	34	"First base"	"Los Angeles Angels"	"23000000"	23000000
+8	"Joe Mauer"	31	"First base"	"Minnesota Twins"	"23000000"	23000000
+9	"Mark Teixeira"	34	"First base"	"New York Yankees"	"22500000"	22500000
+10	"Cole Hamels"	30	"Starting pitcher"	"Philadelphia Phillies"	"22500000"	22500000
+11	"Masahiro Tanaka"	25	"Starting pitcher"	"New York Yankees"	"22000000"	22000000
+12	"Miguel Cabrera"	31	"First base"	"Detroit Tigers"	"22000000"	22000000
+13	"Felix Hernandez"	28	"Starting pitcher"	"Seattle Mariners"	"22000000"	22000000
+14	"Jacoby Ellsbury"	31	"Center field"	"New York Yankees"	"21142857"	21142857
+15	"Adrian Gonzalez"	32	"First base"	"Los Angeles Dodgers"	"21000000"	21000000
+16	"Matt Kemp"	30	"Center field"	"Los Angeles Dodgers"	"21000000"	21000000
+17	"Carl Crawford"	33	"Left field"	"Los Angeles Dodgers"	"20250000"	20250000
+18	"Justin Verlander"	31	"Starting pitcher"	"Detroit Tigers"	"20000000"	20000000
+19	"Jayson Werth"	35	"Right field"	"Washington Nationals"	"20000000"	20000000
+20	"Matt Cain"	30	"Starting pitcher"	"San Francisco Giants"	"20000000"	20000000
+21	"David Wright"	31	"Third base"	"New York Mets"	"20000000"	20000000
+22	"Adam Wainwright"	33	"Starting pitcher"	"St. Louis Cardinals"	"19500000"	19500000
+23	"Alfonso Soriano"	38	"Left field"	"New York Yankees"	"18000000"	18000000
+24	"Mark Buehrle"	35	"Starting pitcher"	"Toronto Blue Jays"	"18000000"	18000000
+25	"Adrian Beltre"	35	"Third base"	"Texas Rangers"	"17000000"	17000000
+26	"Brian McCann"	30	"Catcher"	"New York Yankees"	"17000000"	17000000
+27	"Tim Lincecum"	30	"Starting pitcher"	"San Francisco Giants"	"17000000"	17000000
+28	"Matt Holliday"	34	"Left field"	"St. Louis Cardinals"	"17000000"	17000000
+29	"Hiroki Kuroda"	39	"Starting pitcher"	"New York Yankees"	"16000000"	16000000
+30	"Ian Kinsler"	32	"Second base"	"Detroit Tigers"	"16000000"	16000000
+31	"Jose Reyes"	31	"Shortstop"	"Toronto Blue Jays"	"16000000"	16000000
+32	"C.J. Wilson"	33	"Starting pitcher"	"Los Angeles Angels"	"16000000"	16000000
+33	"Jered Weaver"	32	"Starting pitcher"	"Los Angeles Angels"	"16000000"	16000000
+34	"Mike Napoli"	32	"First base"	"Boston Red Sox"	"16000000"	16000000
+35	"Hanley Ramirez"	30	"Shortstop"	"Los Angeles Dodgers"	"16000000"	16000000
+36	"Hunter Pence"	31	"Right field"	"San Francisco Giants"	"16000000"	16000000
+37	"Aramis Ramirez"	36	"Third base"	"Milwaukee Brewers"	"16000000"	16000000
+38	"Troy Tulowitzki"	30	"Shortstop"	"Colorado Rockies"	"16000000"	16000000
+39	"Josh Beckett"	34	"Starting pitcher"	"Los Angeles Dodgers"	"15750000"	15750000
+40	"Max Scherzer"	30	"Starting pitcher"	"Detroit Tigers"	"15525000"	15525000
+41	"Andre Ethier"	32	"Right field"	"Los Angeles Dodgers"	"15500000"	15500000
+42	"Jhonny Peralta"	32	"Shortstop"	"St. Louis Cardinals"	"15500000"	15500000
+43	"John Lackey"	35	"Starting pitcher"	"Boston Red Sox"	"15250000"	15250000
+44	"Carlos Beltran"	37	"Right field"	"New York Yankees"	"15000000"	15000000
+45	"Anibal Sanchez"	30	"Starting pitcher"	"Detroit Tigers"	"15000000"	15000000
+46	"Chase Utley"	35	"Second base"	"Philadelphia Phillies"	"15000000"	15000000
+47	"Nick Markakis"	30	"Right field"	"Baltimore Orioles"	"15000000"	15000000
+48	"Josh Hamilton"	33	"Right field"	"Los Angeles Angels"	"15000000"	15000000
+49	"Adam Dunn"	34	"Designated hitter"	"Chicago White Sox"	"15000000"	15000000
+50	"Yadier Molina"	32	"Catcher"	"St. Louis Cardinals"	"15000000"	15000000
+51	"Nick Swisher"	33	"First base"	"Cleveland Indians"	"15000000"	15000000
+52	"Jake Peavy"	33	"Starting pitcher"	"Boston Red Sox"	"14500000"	14500000
+53	"Justin Upton"	27	"Left field"	"Atlanta Braves"	"14250000"	14250000
+54	"John Danks"	29	"Starting pitcher"	"Chicago White Sox"	"14250000"	14250000
+55	"Ervin Santana"	31	"Starting pitcher"	"Atlanta Braves"	"14100000"	14100000
+56	"Shin-Soo Choo"	32	"Left field"	"Texas Rangers"	"14000000"	14000000
+57	"Torii Hunter"	39	"Right field"	"Detroit Tigers"	"14000000"	14000000
+58	"Jose Bautista"	33	"Right field"	"Toronto Blue Jays"	"14000000"	14000000
+59	"Rafael Soriano"	34	"Relief pitcher"	"Washington Nationals"	"14000000"	14000000
+60	"Ryan Zimmerman"	30	"Third base"	"Washington Nationals"	"14000000"	14000000
+61	"David Price"	29	"Starting pitcher"	"Tampa Bay Rays"	"14000000"	14000000
+62	"Michael Bourn"	31	"Center field"	"Cleveland Indians"	"13500000"	13500000
+63	"B.J. Upton"	30	"Center field"	"Atlanta Braves"	"13450000"	13450000
+64	"Dan Uggla"	34	"Second base"	"Atlanta Braves"	"13000000"	13000000
+65	"Jonathan Papelbon"	33	"Relief pitcher"	"Philadelphia Phillies"	"13000000"	13000000
+66	"Adam Jones"	29	"Center field"	"Baltimore Orioles"	"13000000"	13000000
+67	"Wandy Rodriguez"	35	"Starting pitcher"	"Pittsburgh Pirates"	"13000000"	13000000
+68	"Shane Victorino"	33	"Right field"	"Boston Red Sox"	"13000000"	13000000
+69	"Jon Lester"	30	"Starting pitcher"	"Boston Red Sox"	"13000000"	13000000
+70	"Curtis Granderson"	33	"Right field"	"New York Mets"	"13000000"	13000000
+71	"Alex Rios"	33	"Right field"	"Texas Rangers"	"12500000"	12500000
+72	"Dustin Pedroia"	31	"Second base"	"Boston Red Sox"	"12500000"	12500000
+73	"Matt Garza"	30	"Starting pitcher"	"Milwaukee Brewers"	"12500000"	12500000
+74	"Derek Jeter"	38	"Shortstop"	"New York Yankees"	"12000000"	12000000
+75	"Aaron Hill"	32	"Second base"	"Arizona Diamondbacks"	"12000000"	12000000
+76	"Victor Martinez"	35	"Designated hitter"	"Detroit Tigers"	"12000000"	12000000
+77	"R.A. Dickey"	39	"Starting pitcher"	"Toronto Blue Jays"	"12000000"	12000000
+78	"Scott Feldman"	31	"Starting pitcher"	"Houston Astros"	"12000000"	12000000
+79	"Adam LaRoche"	34	"First base"	"Washington Nationals"	"12000000"	12000000
+80	"James Shields"	32	"Starting pitcher"	"Kansas City Royals"	"12000000"	12000000
+81	"Chad Billingsley"	30	"Starting pitcher"	"Los Angeles Dodgers"	"12000000"	12000000
+82	"Joey Votto"	31	"First base"	"Cincinnati Reds"	"12000000"	12000000
+83	"Ricky Nolasco"	31	"Starting pitcher"	"Minnesota Twins"	"12000000"	12000000
+84	"Ubaldo Jimenez"	30	"Starting pitcher"	"Baltimore Orioles"	"11250000"	11250000
+85	"Yovani Gallardo"	28	"Starting pitcher"	"Milwaukee Brewers"	"11250000"	11250000
+86	"Martin Prado"	30	"Third base"	"Arizona Diamondbacks"	"11000000"	11000000
+87	"Jimmy Rollins"	35	"Shortstop"	"Philadelphia Phillies"	"11000000"	11000000
+88	"Jeremy Guthrie"	35	"Starting pitcher"	"Kansas City Royals"	"11000000"	11000000
+89	"David Ortiz"	38	"Designated hitter"	"Boston Red Sox"	"11000000"	11000000
+90	"Edwin Jackson"	31	"Starting pitcher"	"Chicago Cubs"	"11000000"	11000000
+91	"Tim Hudson"	39	"Starting pitcher"	"San Francisco Giants"	"11000000"	11000000
+92	"Brandon Phillips"	33	"Second base"	"Cincinnati Reds"	"11000000"	11000000
+93	"Kyle Lohse"	36	"Starting pitcher"	"Milwaukee Brewers"	"11000000"	11000000
+94	"Rickie Weeks"	32	"Second base"	"Milwaukee Brewers"	"11000000"	11000000
+95	"Jorge De La Rosa"	33	"Starting pitcher"	"Colorado Rockies"	"11000000"	11000000
+96	"Chase Headley"	30	"Third base"	"San Diego Padres"	"10525000"	10525000
+97	"Carlos Gonzalez"	29	"Left field"	"Colorado Rockies"	"10500000"	10500000
+98	"Yoenis Cespedes"	28	"Left field"	"Oakland Athletics"	"10500000"	10500000
+99	"Buster Posey"	27	"Catcher"	"San Francisco Giants"	"10500000"	10500000
+100	"Michael Cuddyer"	35	"Right field"	"Colorado Rockies"	"10500000"	10500000
+101	"Chris Davis"	28	"First base"	"Baltimore Orioles"	"10350000"	10350000
+102	"Yu Darvish"	28	"Starting pitcher"	"Texas Rangers"	"10000000"	10000000
+103	"Miguel Montero"	31	"Catcher"	"Arizona Diamondbacks"	"10000000"	10000000
+104	"Jim Johnson"	31	"Relief pitcher"	"Oakland Athletics"	"10000000"	10000000
+105	"Alex Gordon"	30	"Left field"	"Kansas City Royals"	"10000000"	10000000
+106	"Dan Haren"	34	"Starting pitcher"	"Los Angeles Dodgers"	"10000000"	10000000
+107	"Brian Wilson"	32	"Relief pitcher"	"Los Angeles Dodgers"	"10000000"	10000000
+108	"Johnny Cueto"	28	"Starting pitcher"	"Cincinnati Reds"	"10000000"	10000000
+109	"Ryan Braun"	30	"Right field"	"Milwaukee Brewers"	"10000000"	10000000
+110	"Jay Bruce"	27	"Right field"	"Cincinnati Reds"	"10000000"	10000000
+111	"Asdrubal Cabrera"	28	"Shortstop"	"Cleveland Indians"	"10000000"	10000000
+112	"Justin Masterson"	29	"Starting pitcher"	"Cleveland Indians"	"9762500"	9762500
+113	"Bronson Arroyo"	37	"Starting pitcher"	"Arizona Diamondbacks"	"9500000"	9500000
+114	"Carlos Quentin"	32	"Left field"	"San Diego Padres"	"9500000"	9500000
+115	"Alexei Ramirez"	33	"Shortstop"	"Chicago White Sox"	"9500000"	9500000
+116	"Howie Kendrick"	31	"Second base"	"Los Angeles Angels"	"9350000"	9350000
+117	"Brandon McCarthy"	31	"Starting pitcher"	"Arizona Diamondbacks"	"9000000"	9000000
+118	"Joe Nathan"	39	"Relief pitcher"	"Detroit Tigers"	"9000000"	9000000
+119	"Edwin Encarnacion"	31	"First base"	"Toronto Blue Jays"	"9000000"	9000000
+120	"Angel Pagan"	33	"Center field"	"San Francisco Giants"	"9000000"	9000000
+121	"Homer Bailey"	28	"Starting pitcher"	"Cincinnati Reds"	"9000000"	9000000
+122	"Heath Bell"	37	"Relief pitcher"	"Tampa Bay Rays"	"9000000"	9000000
+123	"Bartolo Colon"	41	"Starting pitcher"	"New York Mets"	"9000000"	9000000
+124	"Cody Ross"	33	"Right field"	"Arizona Diamondbacks"	"8500000"	8500000
+125	"Rick Porcello"	25	"Starting pitcher"	"Detroit Tigers"	"8500000"	8500000
+126	"Gio Gonzalez"	29	"Starting pitcher"	"Washington Nationals"	"8500000"	8500000
+127	"Carlos Ruiz"	35	"Catcher"	"Philadelphia Phillies"	"8500000"	8500000
+128	"Russell Martin"	31	"Catcher"	"Pittsburgh Pirates"	"8500000"	8500000
+129	"Erick Aybar"	30	"Shortstop"	"Los Angeles Angels"	"8500000"	8500000
+130	"A.J. Pierzynski"	37	"Catcher"	"Boston Red Sox"	"8250000"	8250000
+131	"Pablo Sandoval"	28	"Third base"	"San Francisco Giants"	"8250000"	8250000
+132	"Brett Anderson"	26	"Starting pitcher"	"Colorado Rockies"	"8000000"	8000000
+133	"Matt Harrison"	29	"Starting pitcher"	"Texas Rangers"	"8000000"	8000000
+134	"Melky Cabrera"	30	"Left field"	"Toronto Blue Jays"	"8000000"	8000000
+135	"Brandon Morrow"	30	"Starting pitcher"	"Toronto Blue Jays"	"8000000"	8000000
+136	"Marlon Byrd"	37	"Right field"	"Philadelphia Phillies"	"8000000"	8000000
+137	"Nelson Cruz"	34	"Left field"	"Baltimore Orioles"	"8000000"	8000000
+138	"Billy Butler"	28	"Designated hitter"	"Kansas City Royals"	"8000000"	8000000
+139	"Francisco Liriano"	30	"Starting pitcher"	"Pittsburgh Pirates"	"8000000"	8000000
+140	"Josh Johnson"	30	"Starting pitcher"	"San Diego Padres"	"8000000"	8000000
+141	"Phil Hughes"	28	"Starting pitcher"	"Minnesota Twins"	"8000000"	8000000
+142	"Jaime Garcia"	28	"Starting pitcher"	"St. Louis Cardinals"	"7750000"	7750000
+143	"Trevor Cahill"	26	"Starting pitcher"	"Arizona Diamondbacks"	"7700000"	7700000
+144	"Matt Wieters"	28	"Catcher"	"Baltimore Orioles"	"7700000"	7700000
+145	"Clay Buchholz"	30	"Starting pitcher"	"Boston Red Sox"	"7700000"	7700000
+146	"Kyle Kendrick"	30	"Starting pitcher"	"Philadelphia Phillies"	"7675000"	7675000
+147	"Coco Crisp"	34	"Center field"	"Oakland Athletics"	"7500000"	7500000
+148	"A.J. Burnett"	37	"Starting pitcher"	"Philadelphia Phillies"	"7500000"	7500000
+149	"Jordan Zimmermann"	28	"Starting pitcher"	"Washington Nationals"	"7500000"	7500000
+150	"Brandon League"	31	"Relief pitcher"	"Los Angeles Dodgers"	"7500000"	7500000
+151	"Ryan Ludwick"	36	"Left field"	"Cincinnati Reds"	"7500000"	7500000
+152	"Evan Longoria"	29	"Third base"	"Tampa Bay Rays"	"7500000"	7500000
+153	"Dexter Fowler"	28	"Center field"	"Houston Astros"	"7350000"	7350000
+154	"Andrew McCutchen"	28	"Center field"	"Pittsburgh Pirates"	"7250000"	7250000
+155	"Mat Latos"	26	"Starting pitcher"	"Cincinnati Reds"	"7250000"	7250000
+156	"Chris Young"	31	"Center field"	"New York Mets"	"7250000"	7250000
+157	"Doug Fister"	30	"Starting pitcher"	"Washington Nationals"	"7200000"	7200000
+158	"J.J. Putz"	37	"Relief pitcher"	"Arizona Diamondbacks"	"7000000"	7000000
+159	"Scott Kazmir"	30	"Starting pitcher"	"Oakland Athletics"	"7000000"	7000000
+160	"Adam Lind"	31	"First base"	"Toronto Blue Jays"	"7000000"	7000000
+161	"Colby Rasmus"	28	"Center field"	"Toronto Blue Jays"	"7000000"	7000000
+162	"Craig Kimbrel"	26	"Relief pitcher"	"Atlanta Braves"	"7000000"	7000000
+163	"Mike Adams"	36	"Relief pitcher"	"Philadelphia Phillies"	"7000000"	7000000
+164	"J.J. Hardy"	32	"Shortstop"	"Baltimore Orioles"	"7000000"	7000000
+165	"Jason Vargas"	31	"Starting pitcher"	"Kansas City Royals"	"7000000"	7000000
+166	"Huston Street"	31	"Relief pitcher"	"San Diego Padres"	"7000000"	7000000
+167	"Jose Abreu"	27	"First base"	"Chicago White Sox"	"7000000"	7000000
+168	"Fernando Rodney"	37	"Relief pitcher"	"Seattle Mariners"	"7000000"	7000000
+169	"Jonathan Broxton"	30	"Relief pitcher"	"Cincinnati Reds"	"7000000"	7000000
+170	"Carlos Gomez"	28	"Center field"	"Milwaukee Brewers"	"7000000"	7000000
+171	"Josh Willingham"	35	"Left field"	"Minnesota Twins"	"7000000"	7000000
+172	"Jason Motte"	32	"Relief pitcher"	"St. Louis Cardinals"	"7000000"	7000000
+173	"Ben Zobrist"	33	"Second base"	"Tampa Bay Rays"	"7000000"	7000000
+174	"Ichiro Suzuki"	40	"Right field"	"New York Yankees"	"6500000"	6500000
+175	"Denard Span"	30	"Center field"	"Washington Nationals"	"6500000"	6500000
+176	"Ian Desmond"	29	"Shortstop"	"Washington Nationals"	"6500000"	6500000
+177	"Juan Uribe"	35	"Third base"	"Los Angeles Dodgers"	"6500000"	6500000
+178	"Giancarlo Stanton"	24	"Right field"	"Miami Marlins"	"6500000"	6500000
+179	"Hisashi Iwakuma"	33	"Starting pitcher"	"Seattle Mariners"	"6500000"	6500000
+180	"Elvis Andrus"	26	"Shortstop"	"Texas Rangers"	"6475000"	6475000
+181	"Ian Kennedy"	29	"Starting pitcher"	"San Diego Padres"	"6100000"	6100000
+182	"Austin Jackson"	27	"Center field"	"Detroit Tigers"	"6000000"	6000000
+183	"Joaquin Benoit"	37	"Relief pitcher"	"San Diego Padres"	"6000000"	6000000
+184	"Jason Hammel"	32	"Starting pitcher"	"Chicago Cubs"	"6000000"	6000000
+185	"Marco Scutaro"	38	"Second base"	"San Francisco Giants"	"6000000"	6000000
+186	"Michael Morse"	32	"Left field"	"San Francisco Giants"	"6000000"	6000000
+187	"Jarrod Saltalamacchia"	29	"Catcher"	"Miami Marlins"	"6000000"	6000000
+188	"Corey Hart"	32	"Right field"	"Seattle Mariners"	"6000000"	6000000
+189	"Mike Leake"	26	"Starting pitcher"	"Cincinnati Reds"	"5925000"	5925000
+190	"Casey Janssen"	33	"Relief pitcher"	"Toronto Blue Jays"	"5900000"	5900000
+191	"Tyler Clippard"	29	"Relief pitcher"	"Washington Nationals"	"5875000"	5875000
+192	"Kris Medlen"	29	"Starting pitcher"	"Atlanta Braves"	"5800000"	5800000
+193	"Neil Walker"	29	"Second base"	"Pittsburgh Pirates"	"5750000"	5750000
+194	"Daniel Murphy"	29	"Second base"	"New York Mets"	"5700000"	5700000
+195	"Brett Gardner"	31	"Left field"	"New York Yankees"	"5600000"	5600000
+196	"Joakim Soria"	30	"Relief pitcher"	"Texas Rangers"	"5500000"	5500000
+197	"Sergio Romo"	31	"Relief pitcher"	"San Francisco Giants"	"5500000"	5500000
+198	"Sean Marshall"	32	"Relief pitcher"	"Cincinnati Reds"	"5500000"	5500000
+199	"Kevin Correia"	34	"Starting pitcher"	"Minnesota Twins"	"5500000"	5500000
+200	"Mike Pelfrey"	30	"Starting pitcher"	"Minnesota Twins"	"5500000"	5500000
+201	"David Murphy"	32	"Right field"	"Cleveland Indians"	"5500000"	5500000
+202	"Derek Holland"	28	"Starting pitcher"	"Texas Rangers"	"5400000"	5400000
+203	"J.A. Happ"	31	"Starting pitcher"	"Toronto Blue Jays"	"5400000"	5400000
+204	"Jeff Samardzija"	29	"Starting pitcher"	"Chicago Cubs"	"5345000"	5345000
+205	"Bud Norris"	29	"Relief pitcher"	"Baltimore Orioles"	"5300000"	5300000
+206	"Jed Lowrie"	30	"Shortstop"	"Oakland Athletics"	"5250000"	5250000
+207	"Joe Smith"	30	"Relief pitcher"	"Los Angeles Angels"	"5250000"	5250000
+208	"Mark Ellis"	37	"Second base"	"St. Louis Cardinals"	"5250000"	5250000
+209	"David Robertson"	29	"Relief pitcher"	"New York Yankees"	"5215000"	5215000
+210	"Luke Hochevar"	31	"Relief pitcher"	"Kansas City Royals"	"5210000"	5210000
+211	"Freddie Freeman"	25	"First base"	"Atlanta Braves"	"5125000"	5125000
+212	"Luke Gregerson"	30	"Relief pitcher"	"Oakland Athletics"	"5065000"	5065000
+213	"David Freese"	31	"Third base"	"Los Angeles Angels"	"5050000"	5050000
+214	"Rajai Davis"	33	"Left field"	"Detroit Tigers"	"5000000"	5000000
+215	"Nate McLouth"	32	"Center field"	"Washington Nationals"	"5000000"	5000000
+216	"Omar Infante"	32	"Second base"	"Kansas City Royals"	"5000000"	5000000
+217	"Edinson Volquez"	31	"Starting pitcher"	"Pittsburgh Pirates"	"5000000"	5000000
+218	"Jonny Gomes"	33	"Left field"	"Boston Red Sox"	"5000000"	5000000
+219	"Cameron Maybin"	27	"Center field"	"San Diego Padres"	"5000000"	5000000
+220	"Carlos Villanueva"	30	"Relief pitcher"	"Chicago Cubs"	"5000000"	5000000
+221	"Nate Schierholtz"	30	"Right field"	"Chicago Cubs"	"5000000"	5000000
+222	"Ryan Vogelsong"	37	"Starting pitcher"	"San Francisco Giants"	"5000000"	5000000
+223	"Jeremy Affeldt"	35	"Relief pitcher"	"San Francisco Giants"	"5000000"	5000000
+224	"Starlin Castro"	24	"Shortstop"	"Chicago Cubs"	"5000000"	5000000
+225	"Aroldis Chapman"	26	"Relief pitcher"	"Cincinnati Reds"	"5000000"	5000000
+226	"Yunel Escobar"	31	"Shortstop"	"Tampa Bay Rays"	"5000000"	5000000
+227	"Jon Niese"	27	"Starting pitcher"	"New York Mets"	"5000000"	5000000
+228	"Justin Morneau"	33	"First base"	"Colorado Rockies"	"5000000"	5000000
+229	"Chris Iannetta"	31	"Catcher"	"Los Angeles Angels"	"4975000"	4975000
+230	"Alberto Callaspo"	31	"Third base"	"Oakland Athletics"	"4875000"	4875000
+231	"Jhoulys Chacin"	26	"Starting pitcher"	"Colorado Rockies"	"4850000"	4850000
+232	"Gerardo Parra"	27	"Right field"	"Arizona Diamondbacks"	"4850000"	4850000
+233	"Mark Trumbo"	28	"Left field"	"Arizona Diamondbacks"	"4800000"	4800000
+234	"Wade Davis"	29	"Starting pitcher"	"Kansas City Royals"	"4800000"	4800000
+235	"Chris Johnson"	30	"Third base"	"Atlanta Braves"	"4750000"	4750000
+236	"Edward Mujica"	30	"Relief pitcher"	"Boston Red Sox"	"4750000"	4750000
+237	"Boone Logan"	30	"Relief pitcher"	"Colorado Rockies"	"4750000"	4750000
+238	"Greg Holland"	28	"Relief pitcher"	"Kansas City Royals"	"4675000"	4675000
+239	"Brad Ziegler"	35	"Relief pitcher"	"Arizona Diamondbacks"	"4500000"	4500000
+240	"Jason Heyward"	25	"Right field"	"Atlanta Braves"	"4500000"	4500000
+241	"Roberto Hernandez"	33	"Starting pitcher"	"Philadelphia Phillies"	"4500000"	4500000
+242	"Seth Smith"	32	"Left field"	"San Diego Padres"	"4500000"	4500000
+243	"Santiago Casilla"	34	"Relief pitcher"	"San Francisco Giants"	"4500000"	4500000
+244	"John Axford"	31	"Relief pitcher"	"Cleveland Indians"	"4500000"	4500000
+245	"Alex Avila"	27	"Catcher"	"Detroit Tigers"	"4350000"	4350000
+246	"Kenley Jansen"	27	"Relief pitcher"	"Los Angeles Dodgers"	"4300000"	4300000
+247	"Pedro Alvarez"	27	"Third base"	"Pittsburgh Pirates"	"4250000"	4250000
+248	"Koji Uehara"	39	"Relief pitcher"	"Boston Red Sox"	"4250000"	4250000
+249	"Will Venable"	31	"Center field"	"San Diego Padres"	"4250000"	4250000
+250	"Alejandro De Aza"	30	"Left field"	"Chicago White Sox"	"4250000"	4250000
+251	"David DeJesus"	34	"Left field"	"Tampa Bay Rays"	"4250000"	4250000
+252	"Matt Belisle"	34	"Relief pitcher"	"Colorado Rockies"	"4250000"	4250000
+253	"Gordon Beckham"	28	"Second base"	"Chicago White Sox"	"4175000"	4175000
+254	"Drew Stubbs"	30	"Center field"	"Colorado Rockies"	"4100000"	4100000
+255	"Brandon Moss"	31	"First base"	"Oakland Athletics"	"4100000"	4100000
+256	"Wei-Yin Chen"	29	"Starting pitcher"	"Baltimore Orioles"	"4072000"	4072000
+257	"Gavin Floyd"	31	"Starting pitcher"	"Atlanta Braves"	"4000000"	4000000
+258	"Miguel Alfredo Gonzalez"	28	"Starting pitcher"	"Philadelphia Phillies"	"4000000"	4000000
+259	"Jason Grilli"	37	"Relief pitcher"	"Pittsburgh Pirates"	"4000000"	4000000
+260	"Charlie Morton"	30	"Starting pitcher"	"Pittsburgh Pirates"	"4000000"	4000000
+261	"Alex Guerrero"	27	"Second base"	"Los Angeles Dodgers"	"4000000"	4000000
+262	"Kyuji Fujikawa"	34	"Relief pitcher"	"Chicago Cubs"	"4000000"	4000000
+263	"Nick Hundley"	31	"Catcher"	"San Diego Padres"	"4000000"	4000000
+264	"J.P. Howell"	31	"Relief pitcher"	"Los Angeles Dodgers"	"4000000"	4000000
+265	"Jose Veras"	33	"Relief pitcher"	"Chicago Cubs"	"4000000"	4000000
+266	"Clayton Kershaw"	26	"Starting pitcher"	"Los Angeles Dodgers"	"4000000"	4000000
+267	"Javier Lopez"	37	"Relief pitcher"	"San Francisco Giants"	"4000000"	4000000
+268	"Jeff Keppinger"	34	"Second base"	"Chicago White Sox"	"4000000"	4000000
+269	"Matt Lindstrom"	34	"Relief pitcher"	"Chicago White Sox"	"4000000"	4000000
+270	"Grant Balfour"	36	"Relief pitcher"	"Tampa Bay Rays"	"4000000"	4000000
+271	"Stephen Strasburg"	26	"Starting pitcher"	"Washington Nationals"	"3975000"	3975000
+272	"Travis Wood"	27	"Starting pitcher"	"Chicago Cubs"	"3900000"	3900000
+273	"Mike Minor"	26	"Starting pitcher"	"Atlanta Braves"	"3850000"	3850000
+274	"Craig Breslow"	34	"Relief pitcher"	"Boston Red Sox"	"3825000"	3825000
+275	"Ernesto Frieri"	29	"Relief pitcher"	"Los Angeles Angels"	"3800000"	3800000
+276	"Steve Cishek"	28	"Relief pitcher"	"Miami Marlins"	"3800000"	3800000
+277	"Sergio Santos"	31	"Relief pitcher"	"Toronto Blue Jays"	"3750000"	3750000
+278	"Sean Burnett"	32	"Relief pitcher"	"Los Angeles Angels"	"3750000"	3750000
+279	"Scott Downs"	38	"Relief pitcher"	"Chicago White Sox"	"3750000"	3750000
+280	"Madison Bumgarner"	25	"Starting pitcher"	"San Francisco Giants"	"3750000"	3750000
+281	"Glen Perkins"	31	"Relief pitcher"	"Minnesota Twins"	"3750000"	3750000
+282	"Matt Joyce"	30	"Right field"	"Tampa Bay Rays"	"3700000"	3700000
+283	"Bobby Parnell"	30	"Relief pitcher"	"New York Mets"	"3700000"	3700000
+284	"Jeremy Hellickson"	27	"Starting pitcher"	"Tampa Bay Rays"	"3625000"	3625000
+285	"Dillon Gee"	28	"Starting pitcher"	"New York Mets"	"3625000"	3625000
+286	"Eric Hosmer"	24	"First base"	"Kansas City Royals"	"3600000"	3600000
+287	"A.J. Ellis"	33	"Catcher"	"Los Angeles Dodgers"	"3550000"	3550000
+288	"Matt Thornton"	38	"Relief pitcher"	"New York Yankees"	"3500000"	3500000
+289	"Eric Chavez"	36	"Third base"	"Arizona Diamondbacks"	"3500000"	3500000
+290	"Ryan Doumit"	33	"Catcher"	"Atlanta Braves"	"3500000"	3500000
+291	"Hyun-Jin Ryu"	27	"Starting pitcher"	"Los Angeles Dodgers"	"3500000"	3500000
+292	"Chris Sale"	25	"Starting pitcher"	"Chicago White Sox"	"3500000"	3500000
+293	"Rafael Furcal"	36	"Second base"	"Miami Marlins"	"3500000"	3500000
+294	"Carlos Santana"	28	"Third base"	"Cleveland Indians"	"3500000"	3500000
+295	"Ike Davis"	27	"First base"	"New York Mets"	"3500000"	3500000
+296	"Drew Storen"	27	"Relief pitcher"	"Washington Nationals"	"3450000"	3450000
+297	"Marco Estrada"	31	"Starting pitcher"	"Milwaukee Brewers"	"3325000"	3325000
+298	"Ivan Nova"	27	"Starting pitcher"	"New York Yankees"	"3300000"	3300000
+299	"Jesse Crain"	33	"Relief pitcher"	"Houston Astros"	"3250000"	3250000
+300	"Bruce Chen"	37	"Starting pitcher"	"Kansas City Royals"	"3250000"	3250000
+301	"Francisco Rodriguez"	32	"Relief pitcher"	"Milwaukee Brewers"	"3250000"	3250000
+302	"Jared Burton"	33	"Relief pitcher"	"Minnesota Twins"	"3250000"	3250000
+303	"Jon Jay"	29	"Center field"	"St. Louis Cardinals"	"3250000"	3250000
+304	"Darren O'Day"	31	"Relief pitcher"	"Baltimore Orioles"	"3200000"	3200000
+305	"David Ross"	37	"Catcher"	"Boston Red Sox"	"3100000"	3100000
+306	"Geovany Soto"	31	"Catcher"	"Texas Rangers"	"3050000"	3050000
+307	"Kelly Johnson"	32	"Third base"	"New York Yankees"	"3000000"	3000000
+308	"Neftali Feliz"	26	"Relief pitcher"	"Texas Rangers"	"3000000"	3000000
+309	"Maicer Izturis"	34	"Second base"	"Toronto Blue Jays"	"3000000"	3000000
+310	"Nick Punto"	36	"Second base"	"Oakland Athletics"	"3000000"	3000000
+311	"Dioner Navarro"	30	"Catcher"	"Toronto Blue Jays"	"3000000"	3000000
+312	"Ross Detwiler"	28	"Relief pitcher"	"Washington Nationals"	"3000000"	3000000
+313	"Alcides Escobar"	27	"Shortstop"	"Kansas City Royals"	"3000000"	3000000
+314	"Tommy Hunter"	28	"Relief pitcher"	"Baltimore Orioles"	"3000000"	3000000
+315	"Jose Tabata"	26	"Right field"	"Pittsburgh Pirates"	"3000000"	3000000
+316	"Cory Luebke"	29	"Starting pitcher"	"San Diego Padres"	"3000000"	3000000
+317	"Ronald Belisario"	31	"Relief pitcher"	"Chicago White Sox"	"3000000"	3000000
+318	"Randy Choate"	39	"Relief pitcher"	"St. Louis Cardinals"	"3000000"	3000000
+319	"Mike Aviles"	33	"Third base"	"Cleveland Indians"	"3000000"	3000000
+320	"Joel Peralta"	38	"Relief pitcher"	"Tampa Bay Rays"	"3000000"	3000000
+321	"Brandon Belt"	26	"First base"	"San Francisco Giants"	"2900000"	2900000
+322	"Dayan Viciedo"	25	"Left field"	"Chicago White Sox"	"2800000"	2800000
+323	"Willie Bloomquist"	36	"Second base"	"Seattle Mariners"	"2800000"	2800000
+324	"Tom Gorzelanny"	32	"Relief pitcher"	"Milwaukee Brewers"	"2800000"	2800000
+325	"Justin Smoak"	27	"First base"	"Seattle Mariners"	"2787500"	2787500
+326	"Leonys Martin"	26	"Center field"	"Texas Rangers"	"2750000"	2750000
+327	"Cliff Pennington"	30	"Shortstop"	"Arizona Diamondbacks"	"2750000"	2750000
+328	"Chad Qualls"	36	"Relief pitcher"	"Houston Astros"	"2750000"	2750000
+329	"Raul Ibanez"	42	"Designated hitter"	"Los Angeles Angels"	"2750000"	2750000
+330	"Eric Stults"	34	"Starting pitcher"	"San Diego Padres"	"2750000"	2750000
+331	"Garret Jones"	33	"First base"	"Miami Marlins"	"2750000"	2750000
+332	"Allen Craig"	30	"Right field"	"St. Louis Cardinals"	"2750000"	2750000
+333	"Kurt Suzuki"	31	"Catcher"	"Minnesota Twins"	"2750000"	2750000
+334	"Ryan Hanigan"	34	"Catcher"	"Tampa Bay Rays"	"2750000"	2750000
+335	"Josh Reddick"	27	"Right field"	"Oakland Athletics"	"2700000"	2700000
+336	"Mitch Moreland"	29	"First base"	"Texas Rangers"	"2650000"	2650000
+337	"Alexi Ogando"	31	"Starting pitcher"	"Texas Rangers"	"2625000"	2625000
+338	"Mark Melancon"	29	"Relief pitcher"	"Pittsburgh Pirates"	"2595000"	2595000
+339	"Gregor Blanco"	30	"Center field"	"San Francisco Giants"	"2525000"	2525000
+340	"Joba Chamberlain"	29	"Relief pitcher"	"Detroit Tigers"	"2500000"	2500000
+341	"Scott Hairston"	34	"Left field"	"Washington Nationals"	"2500000"	2500000
+342	"Emilio Bonifacio"	29	"Second base"	"Chicago Cubs"	"2500000"	2500000
+343	"Paul Konerko"	38	"First base"	"Chicago White Sox"	"2500000"	2500000
+344	"LaTroy Hawkins"	41	"Relief pitcher"	"Colorado Rockies"	"2500000"	2500000
+345	"Matt Albers"	31	"Relief pitcher"	"Houston Astros"	"2450000"	2450000
+346	"Jason Castro"	27	"Catcher"	"Houston Astros"	"2450000"	2450000
+347	"Everth Cabrera"	27	"Shortstop"	"San Diego Padres"	"2450000"	2450000
+348	"Brian Matusz"	27	"Relief pitcher"	"Baltimore Orioles"	"2400000"	2400000
+349	"Andrew Cashner"	28	"Starting pitcher"	"San Diego Padres"	"2400000"	2400000
+350	"Joe Thatcher"	33	"Relief pitcher"	"Arizona Diamondbacks"	"2375000"	2375000
+351	"Trevor Plouffe"	28	"Third base"	"Minnesota Twins"	"2350000"	2350000
+352	"John Jaso"	31	"Catcher"	"Oakland Athletics"	"2300000"	2300000
+353	"Gaby Sanchez"	31	"First base"	"Pittsburgh Pirates"	"2300000"	2300000
+354	"Darwin Barney"	28	"Second base"	"Chicago Cubs"	"2300000"	2300000
+355	"Chris Perez"	29	"Relief pitcher"	"Los Angeles Dodgers"	"2300000"	2300000
+356	"Michael Saunders"	27	"Center field"	"Seattle Mariners"	"2300000"	2300000
+357	"Ryan Webb"	28	"Relief pitcher"	"Baltimore Orioles"	"2250000"	2250000
+358	"Chris Capuano"	36	"Relief pitcher"	"Boston Red Sox"	"2250000"	2250000
+359	"Chris Denorfia"	34	"Right field"	"San Diego Padres"	"2250000"	2250000
+360	"Ryan Raburn"	33	"Right field"	"Cleveland Indians"	"2250000"	2250000
+361	"Neal Cotts"	34	"Relief pitcher"	"Texas Rangers"	"2200000"	2200000
+362	"Wilton Lopez"	31	"Relief pitcher"	"Colorado Rockies"	"2200000"	2200000
+363	"Burke Badenhop"	31	"Relief pitcher"	"Boston Red Sox"	"2150000"	2150000
+364	"Jerome Williams"	32	"Starting pitcher"	"Houston Astros"	"2100000"	2100000
+365	"Jonathan Lucroy"	28	"Catcher"	"Milwaukee Brewers"	"2100000"	2100000
+366	"Wilson Ramos"	27	"Catcher"	"Washington Nationals"	"2095000"	2095000
+367	"Juan Nicasio"	28	"Starting pitcher"	"Colorado Rockies"	"2025000"	2025000
+368	"Brian Roberts"	37	"Second base"	"New York Yankees"	"2000000"	2000000
+369	"Brendan Ryan"	32	"Shortstop"	"New York Yankees"	"2000000"	2000000
+370	"David Hernandez"	29	"Relief pitcher"	"Arizona Diamondbacks"	"2000000"	2000000
+371	"Antonio Bastardo"	29	"Relief pitcher"	"Philadelphia Phillies"	"2000000"	2000000
+372	"Clint Barmes"	35	"Shortstop"	"Pittsburgh Pirates"	"2000000"	2000000
+373	"Yasiel Puig"	23	"Right field"	"Los Angeles Dodgers"	"2000000"	2000000
+374	"Jorge Soler"	22	"Right field"	"Chicago Cubs"	"2000000"	2000000
+375	"Justin Ruggiano"	32	"Center field"	"Chicago Cubs"	"2000000"	2000000
+376	"Skip Schumaker"	34	"Second base"	"Cincinnati Reds"	"2000000"	2000000
+377	"Manny Parra"	31	"Relief pitcher"	"Cincinnati Reds"	"2000000"	2000000
+378	"Mark Reynolds"	31	"First base"	"Milwaukee Brewers"	"2000000"	2000000
+379	"Jason Kubel"	32	"Left field"	"Minnesota Twins"	"2000000"	2000000
+380	"Brian Duensing"	31	"Relief pitcher"	"Minnesota Twins"	"2000000"	2000000
+381	"Tyson Ross"	27	"Relief pitcher"	"San Diego Padres"	"1980000"	1980000
+382	"Ben Revere"	26	"Center field"	"Philadelphia Phillies"	"1950000"	1950000
+383	"Andrew Miller"	29	"Relief pitcher"	"Boston Red Sox"	"1903125"	1903125
+384	"Phil Coke"	32	"Relief pitcher"	"Detroit Tigers"	"1900000"	1900000
+385	"Esmil Rogers"	29	"Relief pitcher"	"Toronto Blue Jays"	"1850000"	1850000
+386	"Eric Young"	29	"Left field"	"New York Mets"	"1850000"	1850000
+387	"Anthony Rendon"	24	"Second base"	"Washington Nationals"	"1800000"	1800000
+388	"Jamey Wright"	39	"Relief pitcher"	"Los Angeles Dodgers"	"1800000"	1800000
+389	"J.P. Arencibia"	28	"Catcher"	"Texas Rangers"	"1800000"	1800000
+390	"James Russell"	28	"Relief pitcher"	"Chicago Cubs"	"1775000"	1775000
+391	"Shawn Kelley"	30	"Relief pitcher"	"New York Yankees"	"1765000"	1765000
+392	"Chris Heisey"	29	"Left field"	"Cincinnati Reds"	"1760000"	1760000
+393	"Jason Frasor"	37	"Relief pitcher"	"Texas Rangers"	"1750000"	1750000
+394	"Oliver Perez"	33	"Relief pitcher"	"Arizona Diamondbacks"	"1750000"	1750000
+395	"Felipe Paulino"	31	"Starting pitcher"	"Chicago White Sox"	"1750000"	1750000
+396	"Logan Morrison"	27	"First base"	"Seattle Mariners"	"1750000"	1750000
+397	"Jose Molina"	39	"Catcher"	"Tampa Bay Rays"	"1750000"	1750000
+398	"Franklin Morales"	28	"Starting pitcher"	"Colorado Rockies"	"1712500"	1712500
+399	"Luis Valbuena"	28	"Third base"	"Chicago Cubs"	"1710000"	1710000
+400	"Greg Dobbs"	36	"First base"	"Miami Marlins"	"1700000"	1700000
+401	"Danny Hultzen"	24	"Starting pitcher"	"Seattle Mariners"	"1700000"	1700000
+402	"Jerry Blevins"	31	"Relief pitcher"	"Washington Nationals"	"1675000"	1675000
+403	"Jose Iglesias"	24	"Shortstop"	"Detroit Tigers"	"1650000"	1650000
+404	"Lucas Duda"	28	"First base"	"New York Mets"	"1637500"	1637500
+405	"Andy Dirks"	28	"Left field"	"Detroit Tigers"	"1625000"	1625000
+406	"Jonny Venters"	29	"Relief pitcher"	"Atlanta Braves"	"1625000"	1625000
+407	"Tim Stauffer"	32	"Relief pitcher"	"San Diego Padres"	"1600000"	1600000
+408	"Jeff Baker"	33	"Second base"	"Miami Marlins"	"1600000"	1600000
+409	"John Mayberry"	30	"Right field"	"Philadelphia Phillies"	"1587500"	1587500
+410	"Trevor Bauer"	23	"Starting pitcher"	"Cleveland Indians"	"1575000"	1575000
+411	"Dustin McGowan"	32	"Starting pitcher"	"Toronto Blue Jays"	"1500000"	1500000
+412	"Eric O'Flaherty"	29	"Relief pitcher"	"Oakland Athletics"	"1500000"	1500000
+413	"Gerald Laird"	34	"Catcher"	"Atlanta Braves"	"1500000"	1500000
+414	"Paul Maholm"	32	"Starting pitcher"	"Los Angeles Dodgers"	"1500000"	1500000
+415	"Ryan Sweeney"	29	"Center field"	"Chicago Cubs"	"1500000"	1500000
+416	"Erisbel Arrubarrena"	24	"Shortstop"	"Los Angeles Dodgers"	"1500000"	1500000
+417	"Jeff Mathis"	31	"Catcher"	"Miami Marlins"	"1500000"	1500000
+418	"Lyle Overbay"	37	"First base"	"Milwaukee Brewers"	"1500000"	1500000
+419	"Michael Brantley"	27	"Left field"	"Cleveland Indians"	"1500000"	1500000
+420	"Juan Carlos Oviedo"	32	"Relief pitcher"	"Tampa Bay Rays"	"1500000"	1500000
+421	"John Lannan"	30	"Relief pitcher"	"New York Mets"	"1500000"	1500000
+422	"Jordan Walden"	26	"Relief pitcher"	"Atlanta Braves"	"1490000"	1490000
+423	"Aaron Crow"	27	"Relief pitcher"	"Kansas City Royals"	"1475000"	1475000
+424	"Sean Rodriguez"	29	"Left field"	"Tampa Bay Rays"	"1475000"	1475000
+425	"Kevin Jepsen"	30	"Relief pitcher"	"Los Angeles Angels"	"1462500"	1462500
+426	"Brandon Beachy"	28	"Starting pitcher"	"Atlanta Braves"	"1450000"	1450000
+427	"Jake McGee"	28	"Relief pitcher"	"Tampa Bay Rays"	"1450000"	1450000
+428	"Wesley Wright"	29	"Relief pitcher"	"Chicago Cubs"	"1425000"	1425000
+429	"Mike Carp"	28	"Left field"	"Boston Red Sox"	"1400000"	1400000
+430	"Mike Dunn"	29	"Relief pitcher"	"Miami Marlins"	"1400000"	1400000
+431	"Craig Stammen"	30	"Relief pitcher"	"Washington Nationals"	"1375000"	1375000
+432	"Marc Rzepczynski"	29	"Relief pitcher"	"Cleveland Indians"	"1375000"	1375000
+433	"Tim Collins"	25	"Relief pitcher"	"Kansas City Royals"	"1362500"	1362500
+434	"Logan Ondrusek"	29	"Relief pitcher"	"Cincinnati Reds"	"1350000"	1350000
+435	"Justin Maxwell"	30	"Right field"	"Kansas City Royals"	"1325000"	1325000
+436	"Pedro Strop"	29	"Relief pitcher"	"Chicago Cubs"	"1325000"	1325000
+437	"Brett Cecil"	28	"Relief pitcher"	"Toronto Blue Jays"	"1300000"	1300000
+438	"Jesus Guzman"	30	"First base"	"Houston Astros"	"1300000"	1300000
+439	"Jonathan Herrera"	29	"Shortstop"	"Boston Red Sox"	"1300000"	1300000
+440	"Daniel Descalso"	27	"Second base"	"St. Louis Cardinals"	"1290000"	1290000
+441	"Troy Patton"	29	"Relief pitcher"	"Baltimore Orioles"	"1275000"	1275000
+442	"Junichi Tazawa"	28	"Relief pitcher"	"Boston Red Sox"	"1275000"	1275000
+443	"Jose Altuve"	24	"Second base"	"Houston Astros"	"1250000"	1250000
+444	"Daric Barton"	29	"First base"	"Oakland Athletics"	"1250000"	1250000
+445	"Josh Thole"	27	"Catcher"	"Toronto Blue Jays"	"1250000"	1250000
+446	"Ross Ohlendorf"	32	"Relief pitcher"	"Washington Nationals"	"1250000"	1250000
+447	"Norichika Aoki"	32	"Right field"	"Kansas City Royals"	"1250000"	1250000
+448	"Anthony Rizzo"	25	"First base"	"Chicago Cubs"	"1250000"	1250000
+449	"Carlos Marmol"	32	"Relief pitcher"	"Miami Marlins"	"1250000"	1250000
+450	"Chris Young"	35	"Starting pitcher"	"Seattle Mariners"	"1250000"	1250000
+451	"Josh Outman"	30	"Relief pitcher"	"Cleveland Indians"	"1250000"	1250000
+452	"Dylan Bundy"	21	"Starting pitcher"	"Baltimore Orioles"	"1245000"	1245000
+453	"Travis Snider"	26	"Right field"	"Pittsburgh Pirates"	"1200000"	1200000
+454	"Peter Bourjos"	27	"Center field"	"St. Louis Cardinals"	"1200000"	1200000
+455	"Sam LeCure"	30	"Relief pitcher"	"Cincinnati Reds"	"1200000"	1200000
+456	"Joaquin Arias"	30	"Third base"	"San Francisco Giants"	"1150000"	1150000
+457	"Craig Gentry"	30	"Center field"	"Oakland Athletics"	"1145000"	1145000
+458	"Brayan Pena"	32	"Catcher"	"Cincinnati Reds"	"1137500"	1137500
+459	"Wil Nieves"	37	"Catcher"	"Philadelphia Phillies"	"1125000"	1125000
+460	"Paul Goldschmidt"	27	"First base"	"Arizona Diamondbacks"	"1100000"	1100000
+461	"Alex Gonzalez"	37	"Shortstop"	"Detroit Tigers"	"1100000"	1100000
+462	"Casey McGehee"	32	"Third base"	"Miami Marlins"	"1100000"	1100000
+463	"Ramon Santiago"	35	"Second base"	"Cincinnati Reds"	"1100000"	1100000
+464	"Ruben Tejada"	24	"Shortstop"	"New York Mets"	"1100000"	1100000
+465	"Jordan Schafer"	28	"Center field"	"Atlanta Braves"	"1090000"	1090000
+466	"Matt Purke"	24	"Starting pitcher"	"Washington Nationals"	"1037500"	1037500
+467	"Nolan Reimold"	31	"Left field"	"Baltimore Orioles"	"1025000"	1025000
+468	"Don Kelly"	34	"Left field"	"Detroit Tigers"	"1000000"	1000000
+469	"Andrelton Simmons"	25	"Shortstop"	"Atlanta Braves"	"1000000"	1000000
+470	"Aaron Harang"	36	"Starting pitcher"	"Atlanta Braves"	"1000000"	1000000
+471	"Salvador Perez"	24	"Catcher"	"Kansas City Royals"	"1000000"	1000000
+472	"Delmon Young"	29	"Left field"	"Baltimore Orioles"	"1000000"	1000000
+473	"Mike Trout"	23	"Center field"	"Los Angeles Angels"	"1000000"	1000000
+474	"Chris Stewart"	32	"Catcher"	"Pittsburgh Pirates"	"1000000"	1000000
+475	"James McDonald"	29	"Starting pitcher"	"Chicago Cubs"	"1000000"	1000000
+476	"Justin Turner"	29	"Second base"	"Los Angeles Dodgers"	"1000000"	1000000
+477	"Jacob Turner"	23	"Starting pitcher"	"Miami Marlins"	"1000000"	1000000
+478	"Reed Johnson"	37	"Left field"	"Miami Marlins"	"1000000"	1000000
+479	"John Buck"	34	"Catcher"	"Seattle Mariners"	"1000000"	1000000
+480	"Jack Hannahan"	34	"Third base"	"Cincinnati Reds"	"1000000"	1000000
+481	"Roger Bernadina"	30	"Center field"	"Cincinnati Reds"	"1000000"	1000000
+482	"Matt Carpenter"	28	"Third base"	"St. Louis Cardinals"	"1000000"	1000000
+483	"Jason Bartlett"	34	"Shortstop"	"Minnesota Twins"	"1000000"	1000000
+484	"Pat Neshek"	34	"Relief pitcher"	"St. Louis Cardinals"	"1000000"	1000000
+485	"Aledmys Diaz"	24	"Shortstop"	"St. Louis Cardinals"	"1000000"	1000000
+486	"Matt Moore"	25	"Starting pitcher"	"Tampa Bay Rays"	"1000000"	1000000
+487	"James Loney"	30	"First base"	"Tampa Bay Rays"	"1000000"	1000000
+488	"Jose Valverde"	36	"Relief pitcher"	"New York Mets"	"1000000"	1000000
+489	"Kyle Blanks"	28	"Left field"	"San Diego Padres"	"987500"	987500
+490	"Yonder Alonso"	27	"First base"	"San Diego Padres"	"980000"	980000
+491	"Josh Collmenter"	28	"Relief pitcher"	"Arizona Diamondbacks"	"975000"	975000
+492	"Vinnie Pestano"	29	"Relief pitcher"	"Cleveland Indians"	"975000"	975000
+493	"Julio Teheran"	23	"Starting pitcher"	"Atlanta Braves"	"966666"	966666
+494	"Jose Lobaton"	29	"Catcher"	"Washington Nationals"	"950000"	950000
+495	"Jayson Nix"	32	"Third base"	"Philadelphia Phillies"	"950000"	950000
+496	"Vin Mazzaro"	28	"Relief pitcher"	"Pittsburgh Pirates"	"950000"	950000
+497	"Tyler Flowers"	28	"Catcher"	"Chicago White Sox"	"950000"	950000
+498	"Anthony Swarzak"	29	"Relief pitcher"	"Minnesota Twins"	"935000"	935000
+499	"Elliot Johnson"	30	"Shortstop"	"Cleveland Indians"	"930000"	930000
+500	"Bryce Harper"	22	"Left field"	"Washington Nationals"	"900000"	900000
+501	"Kevin Frandsen"	32	"Second base"	"Washington Nationals"	"900000"	900000
+502	"Anthony Gwynn Jr."	32	"Left field"	"Philadelphia Phillies"	"900000"	900000
+503	"Ian Stewart"	29	"Third base"	"Los Angeles Angels"	"900000"	900000
+504	"Chone Figgins"	36	"Third base"	"Los Angeles Dodgers"	"900000"	900000
+505	"Josh Wilson"	33	"Second base"	"Texas Rangers"	"875000"	875000
+506	"John Baker"	33	"Catcher"	"Chicago Cubs"	"875000"	875000
+507	"Nyjer Morgan"	34	"Center field"	"Cleveland Indians"	"875000"	875000
+508	"Fernando Salas"	29	"Relief pitcher"	"Los Angeles Angels"	"870000"	870000
+509	"Steve Pearce"	31	"Left field"	"Baltimore Orioles"	"850000"	850000
+510	"John McDonald"	40	"Shortstop"	"Los Angeles Angels"	"850000"	850000
+511	"Jose Quintana"	25	"Starting pitcher"	"Chicago White Sox"	"850000"	850000
+512	"Juan Gutierrez"	31	"Relief pitcher"	"San Francisco Giants"	"850000"	850000
+513	"Joe Beimel"	37	"Relief pitcher"	"Seattle Mariners"	"850000"	850000
+514	"Zach Duke"	31	"Relief pitcher"	"Milwaukee Brewers"	"850000"	850000
+515	"Yusmeiro Petit"	29	"Starting pitcher"	"San Francisco Giants"	"845000"	845000
+516	"Al Alburquerque"	28	"Relief pitcher"	"Detroit Tigers"	"837500"	837500
+517	"Starling Marte"	26	"Left field"	"Pittsburgh Pirates"	"833333"	833333
+518	"Donnie Murphy"	31	"Third base"	"Texas Rangers"	"825000"	825000
+519	"Sam Fuld"	32	"Center field"	"Oakland Athletics"	"800000"	800000
+520	"Evan Meek"	31	"Relief pitcher"	"Baltimore Orioles"	"800000"	800000
+521	"Kevin Slowey"	30	"Relief pitcher"	"Miami Marlins"	"800000"	800000
+522	"Scott Atchison"	38	"Relief pitcher"	"Cleveland Indians"	"800000"	800000
+523	"Omar Quintanilla"	32	"Shortstop"	"New York Mets"	"800000"	800000
+524	"Yasmani Grandal"	25	"Catcher"	"San Diego Padres"	"792000"	792000
+525	"Jesse Chavez"	31	"Relief pitcher"	"Oakland Athletics"	"775000"	775000
+526	"Xavier Nady"	35	"Right field"	"San Diego Padres"	"775000"	775000
+527	"Suk-min Yoon"	28	"Relief pitcher"	"Baltimore Orioles"	"750000"	750000
+528	"Grady Sizemore"	32	"Center field"	"Boston Red Sox"	"750000"	750000
+529	"Charlie Furbush"	28	"Relief pitcher"	"Seattle Mariners"	"750000"	750000
+530	"Martin Perez"	23	"Starting pitcher"	"Texas Rangers"	"750000"	750000
+531	"Cesar Ramos"	30	"Relief pitcher"	"Tampa Bay Rays"	"749750"	749750
+532	"Francisco Cervelli"	28	"Catcher"	"New York Yankees"	"700000"	700000
+533	"Ramiro Pena"	29	"Shortstop"	"Atlanta Braves"	"700000"	700000
+534	"Mike Baxter"	29	"Right field"	"Los Angeles Dodgers"	"700000"	700000
+535	"Drew Butera"	31	"Catcher"	"Los Angeles Dodgers"	"700000"	700000
+536	"Jose Fernandez"	22	"Starting pitcher"	"Miami Marlins"	"635000"	635000
+537	"Brett Hayes"	30	"Catcher"	"Kansas City Royals"	"630000"	630000
+538	"Zack Cozart"	29	"Shortstop"	"Cincinnati Reds"	"600000"	600000
+539	"Todd Frazier"	28	"Third base"	"Cincinnati Reds"	"600000"	600000
+540	"Felix Doubront"	26	"Starting pitcher"	"Boston Red Sox"	"586000"	586000
+541	"Ryan Rowland-Smith"	31	"Relief pitcher"	"Arizona Diamondbacks"	"575000"	575000
+542	"Scott Elbert"	29	"Relief pitcher"	"Los Angeles Dodgers"	"575000"	575000
+543	"Carlos Torres"	31	"Relief pitcher"	"New York Mets"	"561875"	561875
+544	"Brandon Crawford"	27	"Shortstop"	"San Francisco Giants"	"560000"	560000
+545	"Blake Wood"	29	"Relief pitcher"	"Cleveland Indians"	"560000"	560000
+546	"Daniel Nava"	31	"Left field"	"Boston Red Sox"	"556500"	556500
+547	"Jason Kipnis"	27	"Second base"	"Cleveland Indians"	"554900"	554900
+548	"Domonic Brown"	27	"Left field"	"Philadelphia Phillies"	"550000"	550000
+549	"Ryan Kalish"	26	"Left field"	"Chicago Cubs"	"550000"	550000
+550	"Mike Moustakas"	26	"Third base"	"Kansas City Royals"	"549000"	549000
+551	"Matt Harvey"	25	"Starting pitcher"	"New York Mets"	"546625"	546625
+552	"Lorenzo Cain"	28	"Center field"	"Kansas City Royals"	"546000"	546000
+553	"Chris Tillman"	26	"Starting pitcher"	"Baltimore Orioles"	"546000"	546000
+554	"Nate Jones"	28	"Relief pitcher"	"Chicago White Sox"	"545000"	545000
+555	"Jake Arrieta"	28	"Starting pitcher"	"Chicago Cubs"	"544500"	544500
+556	"Scott Diamond"	28	"Starting pitcher"	"Minnesota Twins"	"542500"	542500
+557	"Scott Rice"	33	"Relief pitcher"	"New York Mets"	"542500"	542500
+558	"David Phelps"	28	"Relief pitcher"	"New York Yankees"	"541425"	541425
+559	"Danny Espinosa"	27	"Second base"	"Washington Nationals"	"540850"	540850
+560	"Will Middlebrooks"	26	"Third base"	"Boston Red Sox"	"540500"	540500
+561	"Kyle Seager"	26	"Third base"	"Seattle Mariners"	"540000"	540000
+562	"Brian Dozier"	27	"Second base"	"Minnesota Twins"	"540000"	540000
+563	"Addison Reed"	25	"Relief pitcher"	"Arizona Diamondbacks"	"538500"	538500
+564	"Michael Pineda"	25	"Starting pitcher"	"New York Yankees"	"538475"	538475
+565	"Andrew Brown"	30	"Left field"	"New York Mets"	"538045"	538045
+566	"Jeff Manship"	29	"Relief pitcher"	"Philadelphia Phillies"	"535000"	535000
+567	"Lance Lynn"	27	"Starting pitcher"	"St. Louis Cardinals"	"535000"	535000
+568	"Jean Segura"	24	"Shortstop"	"Milwaukee Brewers"	"534000"	534000
+569	"David Carpenter"	29	"Relief pitcher"	"Atlanta Braves"	"532500"	532500
+570	"Danny Valencia"	30	"Third base"	"Kansas City Royals"	"532500"	532500
+571	"Jarrod Dyson"	30	"Center field"	"Kansas City Royals"	"530000"	530000
+572	"Hector Santiago"	26	"Starting pitcher"	"Los Angeles Angels"	"530000"	530000
+573	"Welington Castillo"	27	"Catcher"	"Chicago Cubs"	"530000"	530000
+574	"Casey Fien"	30	"Relief pitcher"	"Minnesota Twins"	"530000"	530000
+575	"Bryan Shaw"	26	"Relief pitcher"	"Cleveland Indians"	"529500"	529500
+576	"Miguel Gonzalez"	30	"Starting pitcher"	"Baltimore Orioles"	"529000"	529000
+577	"Tom Wilhelmsen"	30	"Relief pitcher"	"Seattle Mariners"	"528800"	528800
+578	"Adam Warren"	27	"Relief pitcher"	"New York Yankees"	"527400"	527400
+579	"Danny Duffy"	25	"Starting pitcher"	"Kansas City Royals"	"526000"	526000
+580	"Fernando Abad"	28	"Relief pitcher"	"Oakland Athletics"	"525900"	525900
+581	"Henderson Alvarez"	24	"Starting pitcher"	"Miami Marlins"	"525400"	525400
+582	"Brandon Hicks"	29	"Shortstop"	"San Francisco Giants"	"525000"	525000
+583	"Devin Mesoraco"	26	"Catcher"	"Cincinnati Reds"	"525000"	525000
+584	"Wade Miley"	27	"Starting pitcher"	"Arizona Diamondbacks"	"523500"	523500
+585	"Joe Kelly"	26	"Starting pitcher"	"St. Louis Cardinals"	"523000"	523000
+586	"Kelvin Herrera"	24	"Relief pitcher"	"Kansas City Royals"	"522500"	522500
+587	"Zach Britton"	26	"Relief pitcher"	"Baltimore Orioles"	"521500"	521500
+588	"Shelby Miller"	24	"Starting pitcher"	"St. Louis Cardinals"	"521000"	521000
+589	"Tony Cruz"	28	"Catcher"	"St. Louis Cardinals"	"521000"	521000
+590	"Trevor Rosenthal"	24	"Relief pitcher"	"St. Louis Cardinals"	"521000"	521000
+591	"Evan Gattis"	28	"Catcher"	"Atlanta Braves"	"520250"	520250
+592	"Drew Smyly"	25	"Starting pitcher"	"Detroit Tigers"	"520000"	520000
+593	"Garret Richards"	26	"Starting pitcher"	"Los Angeles Angels"	"520000"	520000
+594	"J.J. Hoover"	27	"Relief pitcher"	"Cincinnati Reds"	"520000"	520000
+595	"Samuel Deduno"	31	"Starting pitcher"	"Minnesota Twins"	"520000"	520000
+596	"Manny Machado"	22	"Third base"	"Baltimore Orioles"	"519000"	519000
+597	"Shane Robinson"	29	"Right field"	"St. Louis Cardinals"	"519000"	519000
+598	"Tony Watson"	29	"Relief pitcher"	"Pittsburgh Pirates"	"518500"	518500
+599	"Brandon Workman"	26	"Relief pitcher"	"Boston Red Sox"	"518000"	518000
+600	"Luis Avilan"	25	"Relief pitcher"	"Atlanta Braves"	"517500"	517500
+601	"Steve Lombardozzi"	26	"Second base"	"Baltimore Orioles"	"517500"	517500
+602	"Hank Conger"	26	"Catcher"	"Los Angeles Angels"	"517500"	517500
+603	"Pedro Florimon"	27	"Shortstop"	"Minnesota Twins"	"517500"	517500
+604	"Xander Bogaerts"	22	"Shortstop"	"Boston Red Sox"	"517000"	517000
+605	"Nathan Eovaldi"	24	"Starting pitcher"	"Miami Marlins"	"517000"	517000
+606	"Desmond Jennings"	27	"Left field"	"Tampa Bay Rays"	"517000"	517000
+607	"Alex Cobb"	27	"Starting pitcher"	"Tampa Bay Rays"	"516900"	516900
+608	"Brett Lawrie"	24	"Third base"	"Toronto Blue Jays"	"516100"	516100
+609	"Donnie Veal"	30	"Relief pitcher"	"Chicago White Sox"	"516000"	516000
+610	"Matt Adams"	26	"First base"	"St. Louis Cardinals"	"516000"	516000
+611	"Steve Delabar"	31	"Relief pitcher"	"Toronto Blue Jays"	"515900"	515900
+612	"Dale Thayer"	33	"Relief pitcher"	"San Diego Padres"	"515800"	515800
+613	"Jake Diekman"	27	"Relief pitcher"	"Philadelphia Phillies"	"515500"	515500
+614	"Jordy Mercer"	28	"Shortstop"	"Pittsburgh Pirates"	"515500"	515500
+615	"Cody Allen"	25	"Relief pitcher"	"Cleveland Indians"	"515400"	515400
+616	"Tanner Scheppers"	27	"Starting pitcher"	"Texas Rangers"	"515179"	515179
+617	"Patrick Corbin"	25	"Starting pitcher"	"Arizona Diamondbacks"	"515000"	515000
+618	"Anthony Varvaro"	29	"Relief pitcher"	"Atlanta Braves"	"515000"	515000
+619	"Justin Wilson"	27	"Relief pitcher"	"Pittsburgh Pirates"	"515000"	515000
+620	"Michael Kohn"	28	"Relief pitcher"	"Los Angeles Angels"	"515000"	515000
+621	"Dee Gordon"	26	"Second base"	"Los Angeles Dodgers"	"515000"	515000
+622	"Tom Koehler"	28	"Starting pitcher"	"Miami Marlins"	"515000"	515000
+623	"Wily Peralta"	25	"Starting pitcher"	"Milwaukee Brewers"	"515000"	515000
+624	"Jeanmar Gomez"	25	"Relief pitcher"	"Pittsburgh Pirates"	"514500"	514500
+625	"Hector Rondon"	26	"Relief pitcher"	"Chicago Cubs"	"514000"	514000
+626	"Corey Kluber"	28	"Starting pitcher"	"Cleveland Indians"	"514000"	514000
+627	"Pedro Ciriaco"	29	"Shortstop"	"Kansas City Royals"	"513500"	513500
+628	"Justin De Fratus"	26	"Relief pitcher"	"Philadelphia Phillies"	"513000"	513000
+629	"Josh Harrison"	27	"Second base"	"Pittsburgh Pirates"	"513000"	513000
+630	"Yan Gomes"	27	"Catcher"	"Cleveland Indians"	"513000"	513000
+631	"Robbie Ross"	25	"Starting pitcher"	"Texas Rangers"	"512745"	512745
+632	"Yoervis Medina"	26	"Relief pitcher"	"Seattle Mariners"	"512600"	512600
+633	"Ryan Flaherty"	28	"Second base"	"Baltimore Orioles"	"512500"	512500
+634	"Gerrit Cole"	24	"Starting pitcher"	"Pittsburgh Pirates"	"512500"	512500
+635	"Paco Rodriguez"	23	"Relief pitcher"	"Los Angeles Dodgers"	"512500"	512500
+636	"Tony Cingrani"	25	"Starting pitcher"	"Cincinnati Reds"	"512500"	512500
+637	"Oswaldo Arcia"	23	"Right field"	"Minnesota Twins"	"512500"	512500
+638	"Aaron Loup"	26	"Relief pitcher"	"Toronto Blue Jays"	"512400"	512400
+639	"Hector Noesi"	27	"Relief pitcher"	"Seattle Mariners"	"512400"	512400
+640	"Zack Wheeler"	24	"Starting pitcher"	"New York Mets"	"512375"	512375
+641	"Brad Lincoln"	29	"Relief pitcher"	"Philadelphia Phillies"	"512300"	512300
+642	"Hector Sanchez"	24	"Catcher"	"San Francisco Giants"	"512000"	512000
+643	"Conor Gillaspie"	27	"Third base"	"Chicago White Sox"	"512000"	512000
+644	"Jim Henderson"	31	"Relief pitcher"	"Milwaukee Brewers"	"512000"	512000
+645	"Erasmo Ramirez"	24	"Starting pitcher"	"Seattle Mariners"	"511800"	511800
+646	"Alex Presley"	29	"Center field"	"Houston Astros"	"511500"	511500
+647	"Bryan Morris"	27	"Relief pitcher"	"Pittsburgh Pirates"	"511500"	511500
+648	"Chris Archer"	26	"Starting pitcher"	"Tampa Bay Rays"	"511200"	511200
+649	"Alexi Amarista"	25	"Center field"	"San Diego Padres"	"511100"	511100
+650	"Adam Eaton"	25	"Center field"	"Chicago White Sox"	"511000"	511000
+651	"Jedd Gyorko"	26	"Second base"	"San Diego Padres"	"510900"	510900
+652	"Danny Farquhar"	27	"Relief pitcher"	"Seattle Mariners"	"510800"	510800
+653	"Lonnie Chisenhall"	26	"Third base"	"Cleveland Indians"	"510800"	510800
+654	"David Lough"	28	"Left field"	"Baltimore Orioles"	"510500"	510500
+655	"Erik Kratz"	34	"Catcher"	"Toronto Blue Jays"	"510200"	510200
+656	"Nick Vincent"	28	"Relief pitcher"	"San Diego Padres"	"510200"	510200
+657	"Matt Dominguez"	25	"Third base"	"Houston Astros"	"510100"	510100
+658	"Brad Miller"	24	"Shortstop"	"Seattle Mariners"	"510100"	510100
+659	"Randall Delgado"	24	"Starting pitcher"	"Arizona Diamondbacks"	"510000"	510000
+660	"Will Harris"	30	"Relief pitcher"	"Arizona Diamondbacks"	"510000"	510000
+661	"Luke Putkonen"	28	"Relief pitcher"	"Detroit Tigers"	"510000"	510000
+662	"Tommy Milone"	27	"Starting pitcher"	"Oakland Athletics"	"510000"	510000
+663	"Eric Sogard"	28	"Second base"	"Oakland Athletics"	"510000"	510000
+664	"Chris Carter"	27	"First base"	"Houston Astros"	"510000"	510000
+665	"A.J. Ramos"	28	"Relief pitcher"	"Miami Marlins"	"510000"	510000
+666	"Avisail Garcia"	23	"Right field"	"Chicago White Sox"	"510000"	510000
+667	"Caleb Thielbar"	27	"Relief pitcher"	"Minnesota Twins"	"510000"	510000
+668	"Michael Wacha"	23	"Starting pitcher"	"St. Louis Cardinals"	"510000"	510000
+669	"Lucas Harrell"	29	"Starting pitcher"	"Houston Astros"	"509700"	509700
+670	"Logan Forsythe"	27	"Second base"	"Tampa Bay Rays"	"509700"	509700
+671	"Jenrry Mejia"	25	"Starting pitcher"	"New York Mets"	"509675"	509675
+672	"Tony Campana"	28	"Center field"	"Arizona Diamondbacks"	"509500"	509500
+673	"Alex Torres"	26	"Relief pitcher"	"San Diego Padres"	"509000"	509000
+674	"Seth Maness"	26	"Relief pitcher"	"St. Louis Cardinals"	"509000"	509000
+675	"Dallas Keuchel"	26	"Starting pitcher"	"Houston Astros"	"508700"	508700
+676	"Brandon Gomes"	30	"Relief pitcher"	"Tampa Bay Rays"	"507800"	507800
+677	"Jeremy Jeffress"	27	"Relief pitcher"	"Toronto Blue Jays"	"507600"	507600
+678	"Cory Gearrin"	28	"Relief pitcher"	"Atlanta Braves"	"507500"	507500
+679	"Scott Van Slyke"	28	"Left field"	"Los Angeles Dodgers"	"507500"	507500
+680	"Eduardo Escobar"	25	"Shortstop"	"Minnesota Twins"	"507500"	507500
+681	"Aaron Hicks"	25	"Center field"	"Minnesota Twins"	"507500"	507500
+682	"A.J. Pollock"	26	"Center field"	"Arizona Diamondbacks"	"507000"	507000
+683	"Tony Sanchez"	26	"Catcher"	"Pittsburgh Pirates"	"507000"	507000
+684	"Brandon Kintzler"	30	"Relief pitcher"	"Milwaukee Brewers"	"507000"	507000
+685	"Josh Satin"	29	"First base"	"New York Mets"	"506809"	506809
+686	"Juan Lagares"	25	"Center field"	"New York Mets"	"506636"	506636
+687	"Chris Withrow"	25	"Relief pitcher"	"Los Angeles Dodgers"	"506600"	506600
+688	"Josh Fields"	29	"Relief pitcher"	"Houston Astros"	"506500"	506500
+689	"Rene Rivera"	31	"Catcher"	"San Diego Padres"	"506400"	506400
+690	"Alex Wood"	23	"Starting pitcher"	"Atlanta Braves"	"506250"	506250
+691	"Collin Cowgill"	28	"Center field"	"Los Angeles Angels"	"506000"	506000
+692	"Kole Calhoun"	27	"Left field"	"Los Angeles Angels"	"506000"	506000
+693	"Jurickson Profar"	21	"Second base"	"Texas Rangers"	"505750"	505750
+694	"Todd Redmond"	29	"Starting pitcher"	"Toronto Blue Jays"	"505700"	505700
+695	"Stolmy Pimentel"	24	"Relief pitcher"	"Pittsburgh Pirates"	"505500"	505500
+696	"Justin Grimm"	26	"Relief pitcher"	"Chicago Cubs"	"505500"	505500
+697	"Anthony Recker"	31	"Catcher"	"New York Mets"	"505340"	505340
+698	"Carlos Corporan"	30	"Catcher"	"Houston Astros"	"505300"	505300
+699	"Anthony Bass"	26	"Relief pitcher"	"Houston Astros"	"505200"	505200
+700	"Bruce Rondon"	23	"Relief pitcher"	"Detroit Tigers"	"505000"	505000
+701	"Derek Norris"	25	"Catcher"	"Oakland Athletics"	"505000"	505000
+702	"Evan Scribner"	29	"Relief pitcher"	"Oakland Athletics"	"505000"	505000
+703	"Dan Straily"	25	"Starting pitcher"	"Oakland Athletics"	"505000"	505000
+704	"Ryan Cook"	27	"Relief pitcher"	"Oakland Athletics"	"505000"	505000
+705	"Drew Pomeranz"	25	"Relief pitcher"	"Oakland Athletics"	"505000"	505000
+706	"Sean Doolittle"	28	"Relief pitcher"	"Oakland Athletics"	"505000"	505000
+707	"A.J. Griffin"	26	"Starting pitcher"	"Oakland Athletics"	"505000"	505000
+708	"Steve Clevenger"	28	"Catcher"	"Baltimore Orioles"	"505000"	505000
+709	"Jean Machi"	32	"Relief pitcher"	"San Francisco Giants"	"505000"	505000
+710	"David Huff"	30	"Relief pitcher"	"San Francisco Giants"	"505000"	505000
+711	"Logan Schafer"	28	"Center field"	"Milwaukee Brewers"	"505000"	505000
+712	"Tyler Thornburg"	26	"Relief pitcher"	"Milwaukee Brewers"	"505000"	505000
+713	"Carlos Martinez"	23	"Relief pitcher"	"St. Louis Cardinals"	"505000"	505000
+714	"Kevin Siegrist"	25	"Relief pitcher"	"St. Louis Cardinals"	"505000"	505000
+715	"Chris Colabello"	30	"Designated hitter"	"Minnesota Twins"	"505000"	505000
+716	"Gonzalez Germen"	27	"Relief pitcher"	"New York Mets"	"504875"	504875
+717	"Moises Sierra"	26	"Right field"	"Toronto Blue Jays"	"504700"	504700
+718	"Carlos Carrasco"	27	"Starting pitcher"	"Cleveland Indians"	"504700"	504700
+719	"Michael Kirkman"	28	"Relief pitcher"	"Texas Rangers"	"504576"	504576
+720	"Robbie Grossman"	25	"Left field"	"Houston Astros"	"504500"	504500
+721	"Marwin Gonzalez"	25	"Shortstop"	"Houston Astros"	"504500"	504500
+722	"Franisley Bueno"	33	"Relief pitcher"	"Kansas City Royals"	"504500"	504500
+723	"Robbie Erlin"	24	"Starting pitcher"	"San Diego Padres"	"504500"	504500
+724	"Zach McAllister"	26	"Starting pitcher"	"Cleveland Indians"	"504500"	504500
+725	"Vidal Nuno"	27	"Relief pitcher"	"New York Yankees"	"504500"	504500
+726	"Brad Peacock"	26	"Starting pitcher"	"Houston Astros"	"504300"	504300
+727	"Taylor Jordan"	25	"Starting pitcher"	"Washington Nationals"	"504300"	504300
+728	"Josh Lueke"	29	"Relief pitcher"	"Tampa Bay Rays"	"504200"	504200
+729	"Mike Zunino"	23	"Catcher"	"Seattle Mariners"	"504100"	504100
+730	"Ian Krol"	23	"Relief pitcher"	"Detroit Tigers"	"504000"	504000
+731	"Andrew Romine"	28	"Shortstop"	"Detroit Tigers"	"504000"	504000
+732	"Josh Stinson"	26	"Relief pitcher"	"Baltimore Orioles"	"504000"	504000
+733	"Scooter Gennett"	24	"Second base"	"Milwaukee Brewers"	"504000"	504000
+734	"Jonathan Villar"	23	"Shortstop"	"Houston Astros"	"503800"	503800
+735	"Brett Oberholtzer"	25	"Starting pitcher"	"Houston Astros"	"503600"	503600
+736	"James Paxton"	25	"Starting pitcher"	"Seattle Mariners"	"503500"	503500
+737	"Kevin Chapman"	26	"Relief pitcher"	"Houston Astros"	"503400"	503400
+738	"Drew Hutchison"	24	"Starting pitcher"	"Toronto Blue Jays"	"503200"	503200
+739	"Jake Odorizzi"	24	"Relief pitcher"	"Tampa Bay Rays"	"503100"	503100
+740	"Evan Reed"	28	"Relief pitcher"	"Detroit Tigers"	"503000"	503000
+741	"Khris Davis"	26	"Left field"	"Milwaukee Brewers"	"503000"	503000
+742	"L.J. Hoes"	24	"Right field"	"Houston Astros"	"502900"	502900
+743	"Jeurys Familia"	25	"Relief pitcher"	"New York Mets"	"502550"	502550
+744	"Dan Otero"	29	"Relief pitcher"	"Oakland Athletics"	"502500"	502500
+745	"David Hale"	27	"Starting pitcher"	"Atlanta Braves"	"502500"	502500
+746	"Sonny Gray"	24	"Starting pitcher"	"Oakland Athletics"	"502500"	502500
+747	"Junior Lake"	24	"Left field"	"Chicago Cubs"	"502500"	502500
+748	"Kyle Gibson"	26	"Starting pitcher"	"Minnesota Twins"	"502500"	502500
+749	"Michael Tonkin"	24	"Relief pitcher"	"Minnesota Twins"	"502500"	502500
+750	"Marc Krauss"	27	"Left field"	"Houston Astros"	"502300"	502300
+751	"Tyler Skaggs"	23	"Starting pitcher"	"Los Angeles Angels"	"502250"	502250
+752	"Robinson Chirinos"	30	"Catcher"	"Texas Rangers"	"502232"	502232
+753	"Pedro Figueroa"	28	"Relief pitcher"	"Texas Rangers"	"502163"	502163
+754	"Shawn Tolleson"	26	"Relief pitcher"	"Texas Rangers"	"502082"	502082
+755	"Rex Brothers"	26	"Relief pitcher"	"Colorado Rockies"	"502000"	502000
+756	"Michael Choice"	24	"Center field"	"Texas Rangers"	"502000"	502000
+757	"Tuffy Gosewisch"	31	"Catcher"	"Arizona Diamondbacks"	"502000"	502000
+758	"Bryan Holaday"	26	"Catcher"	"Detroit Tigers"	"502000"	502000
+759	"Jackie Bradley Jr."	24	"Center field"	"Boston Red Sox"	"502000"	502000
+760	"Mike Olt"	26	"Third base"	"Chicago Cubs"	"502000"	502000
+761	"Will Smith"	25	"Relief pitcher"	"Milwaukee Brewers"	"502000"	502000
+762	"Martin Maldonado"	28	"Catcher"	"Milwaukee Brewers"	"502000"	502000
+763	"Jordan Pacheco"	28	"Catcher"	"Colorado Rockies"	"502000"	502000
+764	"Wilin Rosario"	25	"Catcher"	"Colorado Rockies"	"502000"	502000
+765	"Tyler Chatwood"	24	"Starting pitcher"	"Colorado Rockies"	"502000"	502000
+766	"Jordan Lyles"	23	"Starting pitcher"	"Colorado Rockies"	"502000"	502000
+767	"Adam Ottavino"	28	"Relief pitcher"	"Colorado Rockies"	"502000"	502000
+768	"Ryan Goins"	26	"Second base"	"Toronto Blue Jays"	"501900"	501900
+769	"Abraham Almonte"	25	"Center field"	"Seattle Mariners"	"501900"	501900
+770	"Travis d'Arnaud"	25	"Catcher"	"New York Mets"	"501560"	501560
+771	"Derek Dietrich"	25	"Second base"	"Miami Marlins"	"501500"	501500
+772	"Dan Jennings"	27	"Relief pitcher"	"Miami Marlins"	"501500"	501500
+773	"Danny Salazar"	24	"Starting pitcher"	"Cleveland Indians"	"501500"	501500
+774	"Tommy Medica"	26	"First base"	"San Diego Padres"	"501200"	501200
+775	"Brandon Guyer"	28	"Right field"	"Tampa Bay Rays"	"501200"	501200
+776	"Nick Maronde"	25	"Relief pitcher"	"Los Angeles Angels"	"501000"	501000
+777	"Juan Perez"	27	"Center field"	"San Francisco Giants"	"501000"	501000
+778	"Maikel Cleto"	25	"Relief pitcher"	"Chicago White Sox"	"501000"	501000
+779	"Brandon Barnes"	28	"Center field"	"Colorado Rockies"	"501000"	501000
+780	"DJ LeMahieu"	26	"Second base"	"Colorado Rockies"	"501000"	501000
+781	"Charlie Blackmon"	28	"Right field"	"Colorado Rockies"	"501000"	501000
+782	"Jim Adduci"	29	"Right field"	"Texas Rangers"	"501000"	501000
+783	"Jonathan Schoop"	23	"Second base"	"Baltimore Orioles"	"500500"	500500
+784	"Yordano Ventura"	23	"Starting pitcher"	"Kansas City Royals"	"500500"	500500
+785	"Matt Shoemaker"	28	"Relief pitcher"	"Los Angeles Angels"	"500500"	500500
+786	"Ehire Adrianza"	25	"Shortstop"	"San Francisco Giants"	"500500"	500500
+787	"Curtis Partch"	27	"Relief pitcher"	"Cincinnati Reds"	"500500"	500500
+788	"Dellin Betances"	26	"Relief pitcher"	"New York Yankees"	"500000"	500000
+789	"Seth Rosin"	25	"Relief pitcher"	"Texas Rangers"	"500000"	500000
+790	"Chris Owings"	23	"Shortstop"	"Arizona Diamondbacks"	"500000"	500000
+791	"Nolan Arenado"	23	"Third base"	"Colorado Rockies"	"500000"	500000
+792	"Nick Castellanos"	22	"Third base"	"Detroit Tigers"	"500000"	500000
+793	"Joe Saunders"	33	"Starting pitcher"	"Texas Rangers"	"500000"	500000
+794	"Tyler Collins"	24	"Left field"	"Detroit Tigers"	"500000"	500000
+795	"Jonathan Diaz"	29	"Shortstop"	"Toronto Blue Jays"	"500000"	500000
+796	"Ryan Buchter"	27	"Relief pitcher"	"Atlanta Braves"	"500000"	500000
+797	"Jarrod Parker"	25	"Starting pitcher"	"Oakland Athletics"	"500000"	500000
+798	"Josh Zeid"	27	"Relief pitcher"	"Houston Astros"	"500000"	500000
+799	"Jarred Cosart"	24	"Starting pitcher"	"Houston Astros"	"500000"	500000
+800	"Tyler Pastornicky"	24	"Shortstop"	"Atlanta Braves"	"500000"	500000
+801	"Ian Thomas"	27	"Relief pitcher"	"Atlanta Braves"	"500000"	500000
+802	"Gus Schlosser"	25	"Relief pitcher"	"Atlanta Braves"	"500000"	500000
+803	"Josh Donaldson"	28	"Third base"	"Oakland Athletics"	"500000"	500000
+804	"Tanner Roark"	28	"Relief pitcher"	"Washington Nationals"	"500000"	500000
+805	"Aaron Barrett"	26	"Relief pitcher"	"Washington Nationals"	"500000"	500000
+806	"Darin Ruf"	28	"Left field"	"Philadelphia Phillies"	"500000"	500000
+807	"B.J. Rosenberg"	29	"Relief pitcher"	"Philadelphia Phillies"	"500000"	500000
+808	"Cesar Hernandez"	24	"Second base"	"Philadelphia Phillies"	"500000"	500000
+809	"Mario Hollands"	26	"Relief pitcher"	"Philadelphia Phillies"	"500000"	500000
+810	"Cody Asche"	24	"Third base"	"Philadelphia Phillies"	"500000"	500000
+811	"Kevin Gausman"	23	"Starting pitcher"	"Baltimore Orioles"	"500000"	500000
+812	"Travis Ishikawa"	31	"First base"	"Pittsburgh Pirates"	"500000"	500000
+813	"Donn Roach"	24	"Relief pitcher"	"San Diego Padres"	"500000"	500000
+814	"Brian Schlitter"	28	"Relief pitcher"	"Chicago Cubs"	"500000"	500000
+815	"Brad Hand"	24	"Relief pitcher"	"Miami Marlins"	"500000"	500000
+816	"Leury Garcia"	23	"Shortstop"	"Chicago White Sox"	"500000"	500000
+817	"Adrian Nieto"	24	"Catcher"	"Chicago White Sox"	"500000"	500000
+818	"Daniel Webb"	25	"Relief pitcher"	"Chicago White Sox"	"500000"	500000
+819	"Donovan Solano"	26	"Second base"	"Miami Marlins"	"500000"	500000
+820	"Erik Johnson"	24	"Starting pitcher"	"Chicago White Sox"	"500000"	500000
+821	"Marcell Ozuna"	23	"Right field"	"Miami Marlins"	"500000"	500000
+822	"Marcus Semien"	24	"Third base"	"Chicago White Sox"	"500000"	500000
+823	"Christian Yelich"	22	"Left field"	"Miami Marlins"	"500000"	500000
+824	"Adeiny Hechavarria"	25	"Shortstop"	"Miami Marlins"	"500000"	500000
+825	"Stefen Romero"	26	"Left field"	"Seattle Mariners"	"500000"	500000
+826	"Neftali Soto"	25	"First base"	"Cincinnati Reds"	"500000"	500000
+827	"Roenis Elias"	26	"Starting pitcher"	"Seattle Mariners"	"500000"	500000
+828	"Nick Christiani"	27	"Relief pitcher"	"Cincinnati Reds"	"500000"	500000
+829	"Tucker Barnhart"	23	"Catcher"	"Cincinnati Reds"	"500000"	500000
+830	"Jeff Bianchi"	28	"Third base"	"Milwaukee Brewers"	"500000"	500000
+831	"Wei-Chung Wang"	22	"Relief pitcher"	"Milwaukee Brewers"	"500000"	500000
+832	"Dustin Ackley"	26	"Left field"	"Seattle Mariners"	"500000"	500000
+833	"Pete Kozma"	26	"Shortstop"	"St. Louis Cardinals"	"500000"	500000
+834	"Josmil Pinto"	25	"Catcher"	"Minnesota Twins"	"500000"	500000
+835	"Trevor Bell"	28	"Relief pitcher"	"Cincinnati Reds"	"500000"	500000
+836	"Keith Butler"	25	"Relief pitcher"	"St. Louis Cardinals"	"500000"	500000
+837	"Kolten Wong"	24	"Second base"	"St. Louis Cardinals"	"500000"	500000
+838	"Billy Hamilton"	24	"Center field"	"Cincinnati Reds"	"500000"	500000
+839	"Charlie Culberson"	25	"Second base"	"Colorado Rockies"	"500000"	500000
+840	"Chad Bettis"	25	"Relief pitcher"	"Colorado Rockies"	"500000"	500000
+841	"Corey Dickerson"	25	"Left field"	"Colorado Rockies"	"500000"	500000
+842	"Tommy Kahnle"	25	"Relief pitcher"	"Colorado Rockies"	"500000"	500000
+843	"Wil Myers"	23	"Center field"	"Tampa Bay Rays"	"500000"	500000
+844	"Yangervis Solarte"	27	"Second base"	"New York Yankees"	"500000"	500000
+845	"Dean Anna"	27	"Second base"	"New York Yankees"	"500000"	500000
+846	"Alfredo Simon"	33	"Starting pitcher"	"Cincinnati Reds"	"150000"	150000
+	"Mean"	29.1773049645			"#DIV/0!"	$3,893,623.79
+	"Median"	29			"#NAME?"	$1,475,000.00
+	"Max"	42				$25,000,000.00
+	"Min"	21				$150,000.00
+	"Mode"	28				$500,000.00
