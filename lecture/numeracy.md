@@ -20,22 +20,17 @@ And you're going to need to spot numbers that don't make any sense at all.
 --v--
 
 ## Fundamentals
-
-<table><tr><td>
-**The Basics:**  
+  
 Rounding Off  
 Means and Medians   
 Percent of a Whole   
 Percent Change   
 Other kinds of rates
-Means and Medians
-</td><td>
-**The Less Basics:**   
+Means and Medians  
 Writing about Comparisons  
 Inflation  
 Margin of Error  
 Sampling  
-</td></tr></table>
 
 
 NOTES:
@@ -952,6 +947,7 @@ And if you have two cookies, and I have six, you have …
 … ⅓ as many cookies (or 33% as many)
 
 --v--
+
 ## Writing with Numbers
 *More, less, fewer:* statements about the difference.
 
@@ -961,12 +957,14 @@ NOTES:
 The Atlantic: who is more likely to be unemployed http://www.theatlantic.com/business/archive/2013/11/the-workforce-is-even-more-divided-by-race-than-you-think/281175/
 
 http://www.bls.gov/cps/cpsrace2012.pdf 
+
 ----
+
 ## Comparisions
 ![That's Why it is 30](dot_thats_why_30.png)
 
-NOTES:
 
+NOTES:
 The DOT has a whole campaign that is actually quite puzzling. The gist is straightforward: the speed limit is 30 miles an hour because a person who is hit by a car moving more than 30 miles an hour is a whole lot more likely to die. But what they actually say is this: "Hit at 40 mph, there's a 70% chance I'll die. Hit at 30 mph, there's an 80% chance I'll live."  
 
 And, starting in November the limit will be 25!
