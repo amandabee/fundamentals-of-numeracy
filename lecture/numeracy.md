@@ -334,7 +334,7 @@ The figures a little bit off because we did some rounding. That's okay. We're go
 
 --v--
 ## Percent of the Whole
-In 2012 the state department processed **8668* international adoptions.
+In 2012 the state department processed **8668** international adoptions.
 
 In 2011, of the **245,260** children who exited foster care, 20% were adopted. 
 
@@ -352,10 +352,13 @@ That's actually higher than I was expecting, but it still leaves about **20,000*
 
 --v--
 ## Percent of the Whole
-Domestic Infant Adoptions: 14000   
-All International:  8668  
-Foster Care Adoptions :  49000  
-TOTAL:  <span class="fragment">71668</span>
+
+| | |
+|---:|---:|
+|Domestic Infant Adoptions: |  14000   
+|All International: | 8668  
+|Foster Care Adoptions :|  49000  
+|TOTAL: | <span class="fragment">71668</span>
 
 NOTES:
 But our first pass said there were 93,000 adoptions in the US. So something is wrong here. 
@@ -680,13 +683,19 @@ So Denver's rate, minus 17.7% of Denver's rate gives us New York's rate.
 -----
 ## Inflation
 
+![NYT changes stylebook today to bar uses of "record" or "largest" unless inflation is taken into account. — David Leonhardt (@DLeonhardt) October 23, 2013](inflation_tweet.png)![This is not statistical quibbling. It is simply not accurate to describe $1,000 in 2013 dollars as “more” money than, say, $900 in 1960...](quibbling.png)
+
+### What is inflation? 
+
 <div class="twitter-tweet" lang="en"><p>NYT changes stylebook today to bar uses of &quot;record&quot; or &quot;largest&quot; unless inflation is taken into account.</p>&mdash; David Leonhardt (@DLeonhardt) <a href="https://twitter.com/DLeonhardt/statuses/393079818800988160">October 23, 2013</a></div>
 
 <div class="twitter-tweet" lang="en"><p>&quot;This is not statistical quibbling. It is simply not accurate to describe $1,000 in 2013 dollars as “more” money than, say, $900 in 1960...&quot;</p>&mdash; David Leonhardt (@DLeonhardt) <a href="https://twitter.com/DLeonhardt/statuses/393079929992003584">October 23, 2013</a></div>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 NOTES:
 What is inflation? 
+
+David Leonhardt is now the ME of The Upshot, but I think he was still the NYT Economics columnist when the paper made this change. 
 
 Notes/ not using: if you try to argue that beer prices have gone up as a result of industry consolidation (actually, they've followed the price of other foods and beverages). http://www.motherjones.com/kevin-drum/2013/08/beer-inflation  or household spending (which has plummeted) http://www.motherjones.com/kevin-drum/2012/09/why-you-should-always-account-inflation-case-study  or government spending
 http://www.motherjones.com/kevin-drum/2013/08/repeat-after-me-always-adjust-inflation-always-adjust-inflation  without adjusting for inflation
