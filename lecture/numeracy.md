@@ -1016,6 +1016,7 @@ http://www.nytimes.com/2013/06/04/us/marijuana-arrests-four-times-as-likely-for-
 ## Comparisons
 ![ACLU Report https://www.aclu.org/billions-dollars-wasted-racially-biased-arrests](aclu_math.gif) 
 
+<p class="credits">(rates are per 100,000) / [The War on Marijuana in Black and White: Report](https://www.aclu.org/criminal-law-reform/war-marijuana-black-and-white-report), ACLU June 2013</p>
 
 NOTES:
 In 2010, nationwide the white arrest rate was 192 per 100,000 whites, and
@@ -1030,7 +1031,9 @@ Usage is comparable: http://www.cdc.gov/nchs/data/hus/hus12.pdf#212
 --v--
 ## Comparisons
 
-![https://www.aclu.org/sites/default/files/assets/100413-mj-report-rfs-rel1.pdf (NY page 169)](aclu_math_zoom.gif) [ACLU Report](https://www.aclu.org/billions-dollars-wasted-racially-biased-arrests)
+![https://www.aclu.org/sites/default/files/assets/100413-mj-report-rfs-rel1.pdf (NY page 169)](aclu_math_zoom.gif)
+
+<p class="credits">(rates are per 100,000) / [The War on Marijuana in Black and White: Report](https://www.aclu.org/billions-dollars-wasted-racially-biased-arrests), ACLU June 2013</p>
 
 <span class="fragment">Find the **difference**:
 1192 - 263 = </span><span class="fragment">929</span>  
