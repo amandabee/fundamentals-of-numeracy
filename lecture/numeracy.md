@@ -628,6 +628,12 @@ My new salary is 10% more than my old salary. But my old salary is not 10% less 
 
 (35200-32000)/35200 = .090909 or 9%
 
+----- 
+# Break. 
+
+People need those.
+-----
+## Ratios
 
 -----
 ## Inflation
@@ -685,12 +691,27 @@ Better: in 1999, I was a Nation intern. My recollection is that we got paid $150
 ## Inflation
 ![Chart of budget spending](fahr-spending-v6.png)
 
-[After six budget showdowns, big government is mostly unchanged](http://www.washingtonpost.com/politics/after-six-budget-showdowns-big-government-is-mostly-unchanged/2013/08/23/97d90578-0068-11e3-9711-3708310f6f4d_story.html)
+<p class="credits">[After six budget showdowns, big government is mostly unchanged](http://www.washingtonpost.com/politics/after-six-budget-showdowns-big-government-is-mostly-unchanged/2013/08/23/97d90578-0068-11e3-9711-3708310f6f4d_story.html)</a>, Washington Post, Aug 23, 2013</p>
+
+
 NOTES:
 This chart is from a Washington Post story "After six budget showdowns, big government is mostly unchanged" (David A. Fahrenthold, Washington Post, August 23, 2013). He actually did adjust for inflation, just not in his chart. 
 "After 2½ years of budget battles, this is what the federal government looks like now: It is on pace, this year, to spend $3.455 trillion.
 That figure is down from 2010 — the year that worries about government spending helped bring on a tea party uprising, a Republican takeover in the House and then a series of ulcer-causing showdowns in Congress. But it is not down by that much. Back then, the government spent a whopping $3.457 trillion."
 According to Kevin Drum, adjusted for inflation and population growth, federal spending has declined by 8 percent since 2010. In current dollars, it's fallen from $11,800 to $10,900 per person.
+
+Data: Office of Management and Budget
+http://www.whitehouse.gov/sites/default/files/omb/budget/fy2015/assets/hist01z1.xls
+http://www.whitehouse.gov/sites/default/files/omb/budget/fy2014/assets/hist.pdf
+--v--
+## Inflation
+![Chart of budget spending](fahr-spending-v6.png)![Spending, in 2013 dollars](fahr-inflation_SM.png "If you adjust for inflation, the chart looks a bit different.")
+
+
+<p class="credits">[After six budget showdowns, big government is mostly unchanged](http://www.washingtonpost.com/politics/after-six-budget-showdowns-big-government-is-mostly-unchanged/2013/08/23/97d90578-0068-11e3-9711-3708310f6f4d_story.html)</a>, Washington Post, Aug 23, 2013; <br/>[BLS Inflation Calculator](http://www.bls.gov/data/inflation_calculator.htm)</p>
+
+
+
 -----
 ## Margin of Error
 > "65 percent of likely voters said they will vote for de Blasio, compared to 24 percent for Lhota, a new NBC 4 New York/Wall Street Journal/Marist poll shows." 
@@ -912,8 +933,7 @@ The Atlantic: who is more likely to be unemployed http://www.theatlantic.com/bus
 
 http://www.bls.gov/cps/cpsrace2012.pdf 
 
-----
-
+-----
 ## Comparisions
 ![That's Why it is 30](dot_thats_why_30.png)
 
@@ -997,6 +1017,20 @@ Usage is comparable: http://www.cdc.gov/nchs/data/hus/hus12.pdf#212
 
 
 <span class="fragment">*and then round off!*</span>
+--v--
+## Comparisons
+
+From the NYT Style Book, per Sarah Cohen:
+> **times less, times more**. Writers who speak of three times more or three
+times faster often mean “multiplied by 3,” but precise readers are likely
+to understand the meaning as “multiplied by 4”: the original quantity or
+speed, plus three more times. For clarity, avoid times more, times faster,
+times bigger, etc. Write four times as much (or as fast, etc.). And do not
+write times less or times smaller (or things like times as thin or times as
+short). A quantity can decrease only one time before disappearing, and then
+there is nothing left to decrease further. Make it one-third as much (or as
+tall, or as fast).
+
 -----
 ## More Resources
 It takes more than numeracy and some skepticism to cover numbers stories. Sarah Cohen's [Numbers in the Newsroom](http://www.worldcat.org/oclc/48822382) is a great primer on a range of numbers-driven stories. She goes well beyond the basics of language and calculation, deep into property taxes, school rankings, and economic forecasts.
