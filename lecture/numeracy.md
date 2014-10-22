@@ -610,37 +610,6 @@ This is the kind of story you wind up having to write constantly. Not for nothin
 
 I find it much easier to talk about the "difference" than "old-new" precisely because when a number rises, the percent change is negative. If new is greater than old, then old - new is less than zero, by definition. So knowing that we're looking for the difference makes it easier. If you do old-new, and use a positive percent, you wind up with 100 murders in 2010, which is logically not right.
 
------
-## Percent Change 
-
->"The analysis, released on Monday by the Metropolitan Policy Program of the Brookings Institution, also found that while the number of poor people in New York City and Newark **declined by 7 percent, or 120,000**, the number in the suburbs rose by 14 percent, or 100,000, **from 2000** to the census's rolling **2008-10** American Community Survey. "
-
-<p class="credits">[Suburbs' Share of Poor Has Grown Since 2000](http://www.nytimes.com/2013/05/20/nyregion/suburbs-are-home-to-growing-share-of-regions-poor.html)  
-Sam Roberts, *New York Times*, May 20, 2013</p>
- 
-
-NOTES:
-When Roberts says that the number of poor people declined by 7% from 2000 to 2008, what does that mean?  It means that 120,000 is 7% of the 2000 count, and that the drop during that 8 year stretch was 120,000. 
-
---v--
-## Percent Change 
-> "... the number of poor people in New York City and Newark declined by 7 percent, or 120,000 ... from 2000 to ... 2008-10"
-<p class="credits">"Suburbs' Share of Poor Has Grown Since 2000"<br />Sam Roberts, New York Times, May 20, 2013</p>
-
-### Math is Fun!
-
-| X is the 2000 figure | Y is the '08-10 figure |
-|---|---|
-| <span class="fragment" data-fragment-index="2">120,000 = .07 `*` X </span> | <span class="fragment" data-fragment-index="2">X - 120,000 = Y </span> |
-| <span class="fragment" data-fragment-index="3">120,000 ÷ 0.07  = X  </span>  |<span class="fragment" data-fragment-index="4">1,714,286 - 120,000 = Y </span> | 
-| <span class="fragment" data-fragment-index="4">X = 1,714,286 </span> | <span class="fragment" data-fragment-index="5">Y = 1,594,286</span>|
-
-NOTES:
-Are we ready to do the math on poverty? Our starting figure, from 2000 is something we need to round off: 1.7 million. And our later, lower figure is about 1.6 million. Here, we were starting with round numbers -- 120,000 and 7%, so we end up with results that we know are wrong. But we can compare those results to census data and decide whether these findings actually hold up. 
-    
-When Roberts says that the number of poor people declined by 7% from 2000 to 2008, what does that mean? It means that 120,000 is 7% of the 2000 count, and that the drop during that 8 year stretch was 120,000. 
-
-
 --v-- 
 ## Percent Change
 
