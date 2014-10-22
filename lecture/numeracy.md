@@ -629,41 +629,6 @@ My new salary is 10% more than my old salary. But my old salary is not 10% less 
 (35200-32000)/35200 = .090909 or 9%
 
 
---v--
-## Percent Difference
-
-| City        |Rate <br />per 100,000 | Difference as a %
-|:---|---:|---:|
-|New York City| 5.1  | (5.1 - 6.2) / 5.1
-|Denver       | 6.2  | (6.2 - 5.1) / 6.2
-
-NOTES: 
-We can use the same formula to talk about how two figures differ. If I want to talk about the % difference between these two murder rates, what is the first thing I need to know? 
-
-Rates: -0.2156862745 and 0.1774193548
-
-We're going to round them off. So we could say that in 2012, Denver's murder rate was 22% higher than New York's -- the "than" says we're using NYC as our base. So the difference in the rates is 22% of NYC's rate. 
-
---v--
-## Percent Difference
-| City        |Rate per <br />100,000 | Difference<br /> as a %
-|:---|---:|---:|
-|New York City| 5.1  | 22%
-|Denver       | 6.2  | 18%
-
-### Tell me about it!
-
-Denver's murder rate was 22% higher than New York's. ("New York" is my starting point.) but NYC's murder rate is 18% lower than Denver's. 
-
- <span class="fragment">Were there 18% fewer murders in NYC than there were in Denver?</span> <span class="fragment">*Nope. The rate is lower but the raw number is much higher.*</span>
-
-NOTES:
-We're going to round them off. So we could say that in 2012, Denver's murder rate was 22% higher than New York's -- the "than" says we're using NYC as our base. So the difference in the rates is 22% of NYC's rate. Or that NYC's murder rate is 18% higher than Denver's. 
-
-What's the difference between these two rates? (1.1) -- so Denver's rate is 21.6% higher than New York's, but New York's rate is 17.7 lower than Denver's. That's because 1.1 is 17.7% of 6.2, but it is 21.6% of 5.1.
-
-So Denver's rate, minus 17.7% of Denver's rate gives us New York's rate. 
-
 -----
 ## Inflation
 
