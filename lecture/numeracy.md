@@ -59,10 +59,16 @@ Population below poverty level 2005-2009:
 
 <p class="credits">Source: American Community Survey</p>
 
-<span class="fragment">Round the '09 poverty count to the nearest hundred thousand. To the nearest million.</span>
+### Round the '09 poverty count to the nearest million.
 
-<span class="fragment">What we're really asking is, is 39.5 million closer to:  
-**39,000,000** or **40,000,000**?</span>
+<div class="fragment">
+What we're really asking is, is 39.5 million closer to:  
+**39,000,000** or **40,000,000**? 
+
+<h3>Round to the nearest hundred thousand.</h3>
+</div>
+
+
 
 NOTES:
 The '05-'09 American Community Survey found 39,537,240 Americans living below the poverty line (US Census)  The census department knows that number isn't right. They publish it with a margin of error of +/- 250,000 --that means they're fairly certain (95-99% certain, not 100% certain -- we'll get to that) that this particular group is somewhere between 39,287,240 and 39,787,240. So this is a very rough number and giving it to the nearest 10 or 100 suggests far more accuracy than you actually have. 
@@ -98,7 +104,7 @@ When people say "average" what they usually mean is "mean".
 --v--
 ## Median vs. Mean
 
-**One week of home sales.**
+**Two Days in November, 2013**
 
 430000  
 187000  
@@ -110,6 +116,8 @@ When people say "average" what they usually mean is "mean".
 90000    
 145000  
 150000  
+
+<p class="credits">Source: Street Easy, Nov 2013</p>
 
 NOTES:
 I pulled up a list of recorded real estate sales for a week in late October/Early November.  There were just 10 coops on that list. How would we find the median?
@@ -129,6 +137,8 @@ Mean: 251450
 420000  
 430000  
 462500  
+
+<p class="credits">Source: Street Easy, Nov 2013</p>
 
 NOTES: 
 There are 10 values, so there isn't a middle value. So we need to know the number halfway between 187K and 230K. There's a spreadsheet with all of these values that you can play with. 
@@ -355,6 +365,8 @@ That's actually higher than I was expecting, but it still leaves about **20,000*
 |Foster Care Adoptions :|  49000  
 |TOTAL: | <span class="fragment">71668</span>
 
+<span class="fragment">But there are ~93,000 adoptions in the US in a typical year.</span>
+
 NOTES:
 But our first pass said there were 93,000 adoptions in the US. So something is wrong here. 
 
@@ -372,7 +384,7 @@ This isn't an earth shattering omission and it probably happened in the editing 
 
 <p class="credits">Wikipedia, so don't quote that figure.</p>
 
-### Calculate the percent change in smokers. 
+### Calculate the percent change in smoking. 
 <span class="fragment">**Difference / Origin `*` 100** 
 or **(old-new)/old `*` 100**</span>
 
@@ -393,9 +405,11 @@ We'll come back to this in a bit.
 
 When The New York Sun writes that "Mr. Lhota trails his Democratic rival, Bill de Blasio, by 44 points" they mean "percentage points."
 
-How is this different from saying Lhota is 44 percent behind de Blasio, or deBlasio leads by 44 percent? 
+If 64% of voters support de Blasio, what percent support Lhota in this poll? 
 
 <span class="fragment">*percentage points:* the arithmetic difference between two percentages.</span>
+
+<span class="fragment">How is this different from saying Lhota is 44 percent behind de Blasio, or deBlasio leads by 44 percent? </span>
 
 NOTES:
 Percentage Points are not percents. 
@@ -413,6 +427,8 @@ We use percentage points when what is really important is the spread between two
 *per 100,000* - for each hundred thousand  
 
 NOTES:
+
+We've talked a bit about percents -- that is really just a rate per 100. 
 per (preposition, taking the accusative case, meaning "by, by means of") and capita (accusative plural of the noun caput, "head").
 
 "capita" comes from the latin word for "head" ; "cent" is the latin 
@@ -428,7 +444,6 @@ http://nursinghomes.nyhealth.gov/nursing_homes/complaints/434
 |:---|---:|
 |New York City|419
 |Denver|39
-
 
 NOTES: Percents are one rate -- the rate per 100. But I want to talk about some other rates. I know you guys covered this in Fundamentals. So it ought to be pretty fresh in your minds.
 
@@ -448,6 +463,7 @@ In NYC in 2012, there were **419** murders. NYC's population is **8,289,415**. W
 <span class="fragment">Murder rate: 5.1 per 100,000</span>
 		
 NOTES: 
+How would you calculate that? 
 
 Rate per 100,000:		
 incidents/population x 100,000
@@ -563,6 +579,9 @@ A five year veteran typically makes 30% more than his base salary. But $22,616 i
 <p class="credits">[Bosses at health-care charities pulling in six-figure salaries with help from taxpayers](http://www.nydailynews.com/news/bosses-health-care-charities-pulling-six-figure-salaries-taxpayers-article-1.953893)<br /> Ben Lesser, *New York Daily News*, Sep 25, 2011</p>
 
 ### How much? 
+
+Note: actual salary in '09 was $1,535,200 so use that.
+
 <span class="fragment">(1535200 - 843502) ÷ 843502 = </span>
 <span class="fragment">0.82003125</span>
 
@@ -579,9 +598,9 @@ Ben Lesser wrote a story on non profit salaries for the Daily News. He didn't ro
 
 How many fatal shootings during the same period last year? 
 
-<span class="fragment">0.71 = (X - 29) ÷ X</span>   
-<span class="fragment">0.71X = X - 29 </span>   
-<span class="fragment">-1.71X = -29</span>   
+<span class="fragment">0.71 = (29 - X) ÷ X</span>   
+<span class="fragment">0.71X = 29 - x </span>   
+<span class="fragment">1.71X = 29</span>   
 <span class="fragment">X = 16.95906</span>  
 <span class="fragment">**17 fatal shootings**</span>
 
@@ -589,9 +608,10 @@ How many fatal shootings during the same period last year?
 NOTES: 
 This is the kind of story you wind up having to write constantly. Not for nothing, the URL for this story was "http://www.nj.com/news/index.ssf/2011/04/newark_homicides_up_64_percent.html" -- so someone had to do their math over after the story went out.
 
+I find it much easier to talk about the "difference" than "old-new" precisely because when a number rises, the percent change is negative. If new is greater than old, then old - new is less than zero, by definition. So knowing that we're looking for the difference makes it easier. If you do old-new, and use a positive percent, you wind up with 100 murders in 2010, which is logically not right.
 
---v--
-## Percent Change
+-----
+## Percent Change 
 
 >"The analysis, released on Monday by the Metropolitan Policy Program of the Brookings Institution, also found that while the number of poor people in New York City and Newark **declined by 7 percent, or 120,000**, the number in the suburbs rose by 14 percent, or 100,000, **from 2000** to the census's rolling **2008-10** American Community Survey. "
 
@@ -603,7 +623,7 @@ NOTES:
 When Roberts says that the number of poor people declined by 7% from 2000 to 2008, what does that mean?  It means that 120,000 is 7% of the 2000 count, and that the drop during that 8 year stretch was 120,000. 
 
 --v--
-## Percent Change
+## Percent Change 
 > "... the number of poor people in New York City and Newark declined by 7 percent, or 120,000 ... from 2000 to ... 2008-10"
 <p class="credits">"Suburbs' Share of Poor Has Grown Since 2000"<br />Sam Roberts, New York Times, May 20, 2013</p>
 
