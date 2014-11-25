@@ -141,7 +141,7 @@ Cory Booker collected over $9 million to fund his 2013 Senate campaign. Quite a 
 |---:|---:|
 | Donations from CA:      | $1,576,301 |
 | &nbsp;  &nbsp; from NJ: | $2,535,181 | 
-| &nbsp;  &nbsp; from NY: | $3,013,305  |
+| &nbsp;  &nbsp; from NY: | $3,013,305 |
 
 <table>
 <thead>
